@@ -23,6 +23,8 @@ jobs:
       # Pick your own package manager and build script
       - run: yarn install
       - run: npx nuxt build --preset github_pages
+        env:
+          NUXT_APP_BASE_URL: /balance-xiv/
       - name: Upload artifact
         uses: actions/upload-pages-artifact@v1
         with:
