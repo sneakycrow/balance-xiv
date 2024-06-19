@@ -5,7 +5,7 @@ on:
   push:
     branches:
       - main
-      - gh-pages-deploy
+      - gh-deploy-with-fix
 
 concurrency:
   group: ${{ github.workflow }}-${{ github.ref }}
