@@ -1,0 +1,174 @@
+{
+  "roles": [
+    {
+      "description": "Casters specialize in dealing magic damage primarily at range, using a mix of instant and casted spells to maximize damage and uptime while managing job movement restrictions amid fight mechanics. The role is highly flexible due to vastly different job mechanics and playstyles, and features a large range between pure DPS and various levels of utility.",
+      "nameSingular": "Caster",
+      "role_link": "/jobs/casters/",
+      "color": "#f15c5c",
+      "name": "Caster DPS",
+      "order": 5,
+      "jobs": [
+        {
+          "name": "Black Mage",
+          "job_link": "/jobs/casters/black-mage/",
+          "icon": "/jobs/casters/black_mage/black_mage.svg"
+        },
+        {
+          "name": "Red Mage",
+          "job_link": "/jobs/casters/red-mage/",
+          "icon": "/jobs/casters/red_mage/red_mage.svg"
+        },
+        {
+          "name": "Summoner",
+          "job_link": "/jobs/casters/summoner/",
+          "icon": "/jobs/casters/summoner/summoner.svg"
+        },
+        {
+          "name": "Pictomancer",
+          "job_link": "/jobs/casters/pictomancer/",
+          "icon": "/jobs/casters/pictomancer/pictomancer.svg"
+        }
+      ],
+      "title": "casters",
+      "icon_white": "/icons/role/role_casters_white.svg",
+      "icon": "/icons/role/role_casters.svg"
+    },
+    {
+      "description": "Healers use a variety of restorative and defensive actions to ensure that the party is always prepared to survive what comes next. They can bring the party back from the brink of disaster, or better yet, prevent disaster from striking in the first place. Healers manage their time, resources, and cooldowns to erase their enemies' efforts and their allies' mistakes alike, all while dishing out damage of their own.",
+      "nameSingular": "Healer",
+      "role_link": "/jobs/healers/",
+      "color": "#61ce7e",
+      "name": "Healers",
+      "order": 2,
+      "jobs": [
+        {
+          "name": "White Mage",
+          "job_link": "/jobs/healers/white-mage/",
+          "icon": "/jobs/healers/white_mage/white_mage.svg"
+        },
+        {
+          "name": "Scholar",
+          "job_link": "/jobs/healers/scholar/",
+          "icon": "/jobs/healers/scholar/scholar.svg"
+        },
+        {
+          "name": "Astrologian",
+          "job_link": "/jobs/healers/astrologian/",
+          "icon": "/jobs/healers/astrologian/astrologian.svg"
+        },
+        {
+          "name": "Sage",
+          "job_link": "/jobs/healers/sage",
+          "icon": "/jobs/healers/sage/sage.svg"
+        }
+      ],
+      "title": "healers",
+      "icon_white": "/icons/role/role_healers_white.svg",
+      "icon": "/icons/role/role_healers.svg"
+    },
+    {
+      "description": "Melee DPS are close-range attackers, focused on combos and careful positioning to inflict the maximum amount of damage while dancing around the enemy's hitbox and trying to not disengage as much as possible.",
+      "nameSingular": "Melee",
+      "role_link": "/jobs/melee/",
+      "color": "#f15c5c",
+      "name": "Melee DPS",
+      "order": 3,
+      "jobs": [
+        {
+          "name": "Monk",
+          "job_link": "/jobs/melee/monk/",
+          "icon": "/jobs/melee/monk/monk.svg"
+        },
+        {
+          "name": "Dragoon",
+          "job_link": "/jobs/melee/dragoon/",
+          "icon": "/jobs/melee/dragoon/dragoon.svg"
+        },
+        {
+          "name": "Ninja",
+          "job_link": "/jobs/melee/ninja/",
+          "icon": "/jobs/melee/ninja/ninja.svg"
+        },
+        {
+          "name": "Samurai",
+          "job_link": "/jobs/melee/samurai/",
+          "icon": "/jobs/melee/samurai/samurai.svg"
+        },
+        {
+          "name": "Reaper",
+          "job_link": "/jobs/melee/reaper/",
+          "icon": "/jobs/melee/reaper/reaper.svg"
+        },
+        {
+          "name": "Viper",
+          "job_link": "/jobs/melee/viper/",
+          "icon": "/jobs/melee/viper/viper.svg"
+        }
+      ],
+      "title": "melee",
+      "icon_white": "/icons/role/role_melee_white.svg",
+      "icon": "/icons/role/role_melee.svg"
+    },
+    {
+      "title": "ranged",
+      "name": "Ranged DPS",
+      "nameSingular": "Ranged",
+      "order": 4,
+      "color": "#f15c5c",
+      "icon_white": "/icons/role/role_ranged_white.svg",
+      "icon": "/icons/role/role_ranged.svg",
+      "role_link": "/jobs/ranged/",
+      "description": "With high party utility and unparalleled mobility, Physical Ranged jobs are masters of adjusting to suit the needs of the encounter at hand. Each Ranged job comes equipped with a party-wide 10% damage mitigation and a robust CC toolkit to keep their allies safe. With no cast bars or positional requirements, Ranged players can zoom around the battlefield and still dish out serious damage.",
+      "jobs": [
+        {
+          "name": "Bard",
+          "job_link": "/jobs/ranged/bard/",
+          "icon": "/jobs/ranged/bard/bard.svg"
+        },
+        {
+          "name": "Machinist",
+          "job_link": "/jobs/ranged/machinist/",
+          "icon": "/jobs/ranged/machinist/machinist.svg"
+        },
+        {
+          "name": "Dancer",
+          "job_link": "/jobs/ranged/dancer/",
+          "icon": "/jobs/ranged/dancer/dancer.svg"
+        }
+      ]
+    },
+    {
+      "title": "tanks",
+      "name": "Tanks",
+      "nameSingular": "Tank",
+      "order": 1,
+      "color": "#4d8be6",
+      "icon_white": "/icons/role/role_tanks_white.svg",
+      "icon": "/icons/role/role_tanks.svg",
+      "role_link": "/jobs/tanks/",
+      "description": "Tasked with holding the attention of the enemies, Tanks are the role that manages enemy positioning and takes a majority of the damage in a given encounter. Each tank comes equipped with both personal and party mitigation tools, as well as a damage toolkit unique to each specific job.",
+      "jobs": [
+        {
+          "name": "Paladin",
+          "job_link": "/jobs/tanks/paladin/",
+          "icon": "/jobs/tanks/paladin/paladin.svg"
+        },
+        {
+          "name": "Warrior",
+          "job_link": "/jobs/tanks/warrior/",
+          "icon": "/jobs/tanks/warrior/warrior.svg"
+        },
+        {
+          "name": "Dark Knight",
+          "job_link": "/jobs/tanks/dark-knight/",
+          "icon": "/jobs/tanks/dark_knight/dark_knight.svg"
+        },
+        {
+          "name": "Gunbreaker",
+          "job_link": "/jobs/tanks/gunbreaker/",
+          "icon": "/jobs/tanks/gunbreaker/gunbreaker.svg"
+        }
+      ]
+    }
+  ]
+}
