@@ -45,7 +45,7 @@
                                 :src="role.icon_white"
                             />
                             <a
-                                :href="role.role_link"
+                                href="#"
                                 class="text-link-orange mt-2 hidden md:block font-sans font-bold tracking-wide"
                             >
                                 {{ role.nameSingular }} Guides & Resources »
@@ -62,7 +62,7 @@
                                 :src="job.icon"
                             />
                             <a
-                                :href="job.job_link"
+                                href="#"
                                 class="text-link-orange mt-2 hidden md:block font-sans font-bold tracking-wide"
                                 >Guides & Resources »</a
                             >

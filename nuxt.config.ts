@@ -14,7 +14,6 @@ export default defineNuxtConfig({
     ],
     "@nuxt/content",
   ],
-  ssr: false,
   vue: {
     compilerOptions: {
       isCustomElement: (tag) => tag.startsWith("swiper-"),
