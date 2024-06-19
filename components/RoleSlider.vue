@@ -33,7 +33,7 @@
                 thumbs-swiper="#role-nav-thumbs"
                 @swiperslidechange="onSlideChange"
             >
-                <swiper-slide v-for="role in roles" :data-hash="role.title">
+                <swiper-slide v-for="role in roles" :data-hash="role.slug">
                     <div
                         class="grid grid-cols-6 h-[30rem] bg-card-light p-4 items-center justify-center"
                     >
@@ -45,7 +45,7 @@
                                 :src="role.icon_white"
                             />
                             <a
-                                :href="role.role_link"
+                                href="#"
                                 class="text-link-orange mt-2 hidden md:block font-sans font-bold tracking-wide"
                             >
                                 {{ role.nameSingular }} Guides & Resources »
@@ -82,9 +82,9 @@ import { register } from "swiper/element/bundle";
 register();
 export default {
     async setup() {
+        // Slider
+        // Keep track of the active role for the active tab
         let activeRole = ref(0);
-        const spaceBetween = 10;
-
         const onSlideChange = (e) => {
             const [swiper] = e.detail;
             activeRole.value = swiper.activeIndex;
@@ -92,14 +92,72 @@ export default {
         const { data } = await useAsyncData("data", () =>
             queryContent("/roles").findOne(),
         );
-
         const roles = data.value.roles.toSorted((a, b) => a.order - b.order);
+        // Job Images
+        // We use the slug of the role/job to parse the relevant image from the assets directory
+        // Icons for jobs should be /assets/jobs/{role-slug}/{job-slug}/icon.svg
+        // Icons for roles should be /assets/jobs/{role-slug}/icon.svg
+        const rolesGlob = import.meta.glob("@/assets/jobs/**/*.svg", {
+            eager: true,
+        });
+        const roleImages = roles.map((role) => {
+            // Use the slug of the role to get the role icon
+            const { slug: roleSlug } = role;
+            const roleIconPath =
+                rolesGlob[`/assets/jobs/${roleSlug}/icon.svg`]?.default ?? "";
+            const roleIconWhitePath =
+                rolesGlob[`/assets/jobs/${roleSlug}/icon_white.svg`].default ??
+                "";
+            // Each role should have a list of jobs, each with a slug
+            // Use the slug of the job with the role to get the job icon
+            const jobs = role.jobs.map((job) => {
+                const { slug: jobSlug } = job;
+                const jobIconPath =
+                    rolesGlob[`/assets/jobs/${roleSlug}/${jobSlug}/icon.svg`]
+                        ?.default ?? "";
 
+                return {
+                    slug: job.slug,
+                    icon: jobIconPath,
+                };
+            });
+            // Return the role and job icons
+            return {
+                slug: roleSlug,
+                icon: roleIconPath,
+                icon_white: roleIconWhitePath,
+                jobs,
+            };
+        });
+        // Push the role images to the roles array
+        const rolesWithImages = roles.map((role, index) => {
+            // Find the specific image set for the role
+            const imageSet = roleImages.find(
+                (roleObj) => roleObj.slug === role.slug,
+            );
+            const jobsWithImages = role.jobs.map((job) => {
+                // Find the job within the image set for the role
+                const jobImage = imageSet.jobs.find(
+                    (jobObj) => jobObj.slug === job.slug,
+                );
+                return { ...job, icon: jobImage?.icon ?? "" };
+            });
+            return {
+                ...role,
+                icon: imageSet.icon,
+                icon_white: imageSet.icon_white,
+                jobs: jobsWithImages,
+            };
+        });
+        // Finally, sort the roles by order
+        const ROLE_ORDER = ["tanks", "healers", "melee", "ranged", "casters"];
+        rolesWithImages.sort((a, b) => {
+            return ROLE_ORDER.indexOf(a.slug) - ROLE_ORDER.indexOf(b.slug);
+        });
         return {
             activeRole,
-            spaceBetween,
             onSlideChange,
-            roles,
+            roles: rolesWithImages,
         };
     },
 };
