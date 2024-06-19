@@ -17,9 +17,7 @@ jobs:
           node-version: "22"
       # Pick your own package manager and build script
       - run: yarn install
-      - run: npx nuxt build --preset github_pages
-        env:
-          NUXT_APP_BASE_URL: /balance-xiv/
+      - run: NUXT_APP_BASE_URL=/balance-xiv/ yarn build:ghpages
       - name: Upload artifact
         uses: actions/upload-pages-artifact@v1
         with:
