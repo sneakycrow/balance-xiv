@@ -9,11 +9,11 @@
                         :class="{
                             'bg-card-light': index === activeRole,
                             'bg-card-lighter': index !== activeRole,
-                            'border-t-tanks': role.title === 'tanks',
-                            'border-t-casters': role.title === 'casters',
-                            'border-t-healers': role.title === 'healers',
-                            'border-t-melee': role.title === 'melee',
-                            'border-t-ranged': role.title === 'ranged',
+                            'border-t-tanks': role.slug === 'tanks',
+                            'border-t-casters': role.slug === 'casters',
+                            'border-t-healers': role.slug === 'healers',
+                            'border-t-melee': role.slug === 'melee',
+                            'border-t-ranged': role.slug === 'ranged',
                         }"
                         @click="activeRole = index"
                     >
