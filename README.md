@@ -1,4 +1,5 @@
 # balance-xiv
+
 This repository acts as a rebuild of the balance xiv website, but utilizing nuxt as the platform.
 
 ## Development
