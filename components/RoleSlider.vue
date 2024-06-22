@@ -81,6 +81,7 @@ import { register } from "swiper/element/bundle";
 // initialize swiper web components
 register();
 export default {
+    name: "RoleSlider",
     async setup() {
         // Slider
         // Keep track of the active role for the active tab
