@@ -19,6 +19,7 @@ changelog:
   - date: 2023-05-25T20:41:38.046Z
     message: Updated to 6.4 (no changes)
 ---
+
 This guide was written by Akashi for players who are seeking to, or are currently leveling Ninja. The guide aims to inform players about how to initially play as Ninja, what gear they should use while they level and where to find it, the key basics of the job, as well as some example openers for lower levels. If you are already a level 90 Ninja and are looking for information pertaining to the job at level 90, please see the [Basic Ninja Guide](/jobs/melee/ninja/basic-guide/).
 
 ## **INTRODUCTION**
@@ -56,11 +57,11 @@ Ninja currently follows the stat priority of: Weapon Damage >>> Dexterity >>> Cr
 
 ### Materia & BiS
 
-Materia can be melded following the stat priority list above. Due to the nature of gearsets frequently changing, you can find the most up to date BiS gearsets in the #nin_resources channel in the Balance discord server, or on the Ninja [Best In Slot](/jobs/melee/ninja/best-in-slot/) page on this website. 
+Materia can be melded following the stat priority list above. Due to the nature of gearsets frequently changing, you can find the most up to date BiS gearsets in the #nin_resources channel in the Balance discord server, or on the Ninja [Best In Slot](/jobs/melee/ninja/best-in-slot/) page on this website.
 
 # Job Basics
 
-**Firstly, do not use Doton on single-target at any level. It is a significant damage loss.** 
+**Firstly, do not use Doton on single-target at any level. It is a significant damage loss.**
 
 ## **Huton Gauge**
 
@@ -71,39 +72,39 @@ Materia can be melded following the stat priority list above. Due to the nature 
 
 #### Huton Management
 
-* From when you unlock Huton, you should aim to have Huton active 100% of the time.
-* Always cast Huton as your first action when you enter a dungeon, or right before a boss (you can use Hide outside of combat to reset your mudra stacks back to maximum).
-* You can continue to keep Huton active during combat by recasting Huton once a minute as it is about to run out.
-* Once you reach level 54 you can start refreshing Huton with Armor Crush instead, once the duration is less than 30 seconds.
+- From when you unlock Huton, you should aim to have Huton active 100% of the time.
+- Always cast Huton as your first action when you enter a dungeon, or right before a boss (you can use Hide outside of combat to reset your mudra stacks back to maximum).
+- You can continue to keep Huton active during combat by recasting Huton once a minute as it is about to run out.
+- Once you reach level 54 you can start refreshing Huton with Armor Crush instead, once the duration is less than 30 seconds.
 
 ## Ninki Gauge
 
-* Unlocked at level 62, the Ninki Gauge is an icon on your HUD in the shape of a scroll that indicates the amount of Ninki you currently have.
-* You can have a maximum of 100 Ninki, and actions that spend it cost 50 Ninki to use.
-* Ninki is gained by executing any weaponskill, and can be used to perform oGCD attacks such as Bhavacakra.
-* Ninki is also gained from Mug (40 Ninki per use), and Meisui (50 Ninki per use).
+- Unlocked at level 62, the Ninki Gauge is an icon on your HUD in the shape of a scroll that indicates the amount of Ninki you currently have.
+- You can have a maximum of 100 Ninki, and actions that spend it cost 50 Ninki to use.
+- Ninki is gained by executing any weaponskill, and can be used to perform oGCD attacks such as Bhavacakra.
+- Ninki is also gained from Mug (40 Ninki per use), and Meisui (50 Ninki per use).
 
 ![](/img/jobs/nin/image25.png)
 
 #### Ninki Management
 
-* From level 62, use a Ninki spender before your Ninki reaches 100 to avoid capping.
-* Hellfrog Medium is better to use if there are three or more targets.
-* Bhavacakra is better for less than three targets.
-* From level 80 onward Bunshin should always be used on cooldown, so ensure you have enough Ninki aside to execute Bunshin as soon as it is able to be used.
+- From level 62, use a Ninki spender before your Ninki reaches 100 to avoid capping.
+- Hellfrog Medium is better to use if there are three or more targets.
+- Bhavacakra is better for less than three targets.
+- From level 80 onward Bunshin should always be used on cooldown, so ensure you have enough Ninki aside to execute Bunshin as soon as it is able to be used.
 
 ### Filler
 
-Filler is defined by our rotation between our primary burst window (Trick Attack once per minute, with Mug alongside it once every two minutes). Given Trick Attack is only 15s long, most of our time is spent within our filler. 
+Filler is defined by our rotation between our primary burst window (Trick Attack once per minute, with Mug alongside it once every two minutes). Given Trick Attack is only 15s long, most of our time is spent within our filler.
 
 Make sure between your burst windows you:
 
-* Refresh Huton when it has less than 30 seconds of duration left.\
+- Refresh Huton when it has less than 30 seconds of duration left.\
   (Or less than 10 seconds, if you are refreshing with Huton and you’re below level 54).
-* Cast Suiton once Trick Attack’s cooldown is below 20 seconds, but before you hit two charges on your mudras.
-* Don’t use any Ninjutsu other than the Suiton outside of your Trick window.\
+- Cast Suiton once Trick Attack’s cooldown is below 20 seconds, but before you hit two charges on your mudras.
+- Don’t use any Ninjutsu other than the Suiton outside of your Trick window.\
   (Unless you’re below level 54, and you’re using Huton to refresh Huton).
-* Use Kassatsu off cooldown before your next Trick window. The buff from it lasts 15 seconds, so there is no need to delay it.
+- Use Kassatsu off cooldown before your next Trick window. The buff from it lasts 15 seconds, so there is no need to delay it.
 
 # Rotations
 
@@ -148,19 +149,19 @@ From level 82, replace the first Aeolian Edge with Phantom Kamaitachi, pushing y
 
 ### Less Than Three Targets
 
-* Standard 1-2-3 combo.
-* Doton, if the enemies will live longer than 12 seconds (Unless level 90, then use Raiton).
-* Katon (Unless level 90, then use Raiton).
-* Single-Target TCJ (Fuma > Raiton > Suiton). 
-* Bhavacakra.
-* Hyosho Ranryu.
+- Standard 1-2-3 combo.
+- Doton, if the enemies will live longer than 12 seconds (Unless level 90, then use Raiton).
+- Katon (Unless level 90, then use Raiton).
+- Single-Target TCJ (Fuma > Raiton > Suiton).
+- Bhavacakra.
+- Hyosho Ranryu.
 
 ### More Than Three Targets
 
-* Death Blossom > Hakke Mujinsatsu combo.
-* Doton if the enemies will live longer than 12 seconds (Otherwise use Katon).
-* Katon.
-* Multi-Target TCJ (Fuma > Katon > Doton).
-* Hellfrog Medium.
-* Goka Mekkyaku.
-* Meisui-enhanced Bhavacakra
+- Death Blossom > Hakke Mujinsatsu combo.
+- Doton if the enemies will live longer than 12 seconds (Otherwise use Katon).
+- Katon.
+- Multi-Target TCJ (Fuma > Katon > Doton).
+- Hellfrog Medium.
+- Goka Mekkyaku.
+- Meisui-enhanced Bhavacakra

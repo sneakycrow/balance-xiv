@@ -16,9 +16,10 @@ changelog:
     message: Updated Macromania section. Added The Nuclear Option and adjusted
       Mouseover Macroed GCDs section.
 ---
+
 # Advanced Monk Gameplay Techniques: Reaching Enlightenment
 
-- - -
+---
 
 # Opener Variations
 
@@ -38,25 +39,25 @@ An early opener is exactly what it sounds like. By skipping past the Opo GCD str
 
 ## Double Lunar
 
-It goes without saying, but the Double Lunar opener is *incredibly* fight specific. It's a much slower opener than any of our other options, with Riddle of Fire not being used until after the 4th GCD. Ideally for *us*, Brotherhood would also come out later to better cover our burst, however the slight gains that we would personally get from this do not outweigh the negative effect it would have on our teammates. 
+It goes without saying, but the Double Lunar opener is _incredibly_ fight specific. It's a much slower opener than any of our other options, with Riddle of Fire not being used until after the 4th GCD. Ideally for _us_, Brotherhood would also come out later to better cover our burst, however the slight gains that we would personally get from this do not outweigh the negative effect it would have on our teammates.
 
 Generally the only reason for using this opener is going to be if the delayed blitzes hit multiple targets where standard timings would not. Potential pitfalls to keep in mind when considering where to use this opener include being slightly desynced from raid buffs, being forced into Double Solar even windows hence potentially losing a Phantom Rush, and potentially losing time on Riddle of Fire.
 
 ![](https://i.imgur.com/xq9uRlJ.png "Double Lunar Opener")
 
-- - -
+---
 
 # Useful Plugins
 
-| Plugin                    | Description                                                              | Link / Info                                                                                                                                                                                                                                                                                                                                                  |
-| ------------------------- | ------------------------------------------------------------------------ | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
-| Triggernometry            | Many triggers we typically use hinge on Triggernometry to function       | [GitHub](https://github.com/paissaheavyindustries/Triggernometry/releases)                                                                                                                                                                                                                                                                                   |
-| Auto-Attack timer         | Displays a bar showing your auto-attack timer                            | [XML Guide](https://cdn.discordapp.com/attachments/166036664341364737/920290186762534932/auto_timer_guide_edition.xml)                                                                                                                                                                                                                                       |
-| Missed positional trigger | Says "miss" when you miss a positional. (Doesn't require Triggernometry) | Go to Custom Triggers in ACT and import XML.  Change "NAME HERE" to your character's name and copy below to your clipboard: `<Trigger R="^A[^ ]* 15:[^:]+:NAME HERE:((38428(CFD2)5F3\\\\\[EF]DE\\\\\[B24]64AC1D3\\\\\[9A]):[^:]+:[^:]+:[^:]+:(73\\\\\[9ADF]46)(DEB58):[^:]+:[^:]+:[^:]+:(3644))" SD="Miss" ST="3" CR="F" C=" General" T="F" TN="" Ta="F" />` |
+| Plugin                    | Description                                                              | Link / Info                                                                                                                                                                                                                                                                                                                                                 |
+| ------------------------- | ------------------------------------------------------------------------ | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| Triggernometry            | Many triggers we typically use hinge on Triggernometry to function       | [GitHub](https://github.com/paissaheavyindustries/Triggernometry/releases)                                                                                                                                                                                                                                                                                  |
+| Auto-Attack timer         | Displays a bar showing your auto-attack timer                            | [XML Guide](https://cdn.discordapp.com/attachments/166036664341364737/920290186762534932/auto_timer_guide_edition.xml)                                                                                                                                                                                                                                      |
+| Missed positional trigger | Says "miss" when you miss a positional. (Doesn't require Triggernometry) | Go to Custom Triggers in ACT and import XML. Change "NAME HERE" to your character's name and copy below to your clipboard: `<Trigger R="^A[^ ]* 15:[^:]+:NAME HERE:((38428(CFD2)5F3\\\\\[EF]DE\\\\\[B24]64AC1D3\\\\\[9A]):[^:]+:[^:]+:[^:]+:(73\\\\\[9ADF]46)(DEB58):[^:]+:[^:]+:[^:]+:(3644))" SD="Miss" ST="3" CR="F" C=" General" T="F" TN="" Ta="F" />` |
 
 &nbsp;
 
-- - -
+---
 
 # Cursed Knowledge
 
@@ -86,7 +87,7 @@ Given the freedom Monk’s rotation allows, and the penchant it has for bending 
 
 ### 0 Nadi
 
-Given that you go into this window with no Nadi, you are provided with options on how you structure this window. Starting with Elixir Field; starting with Rising Phoenix - whatever you pick, the way that you progress within the window will have to be different to accommodate your choice. As for which one to choose - it depends. Demolish usage will be different depending on which you use, either clipping or falling off, resulting in subsequent Demolish uses being in different places following each burst window.  As a result, phase timing can push one option ahead of the other in terms of DPS. Listed are two potential reopener sequences.
+Given that you go into this window with no Nadi, you are provided with options on how you structure this window. Starting with Elixir Field; starting with Rising Phoenix - whatever you pick, the way that you progress within the window will have to be different to accommodate your choice. As for which one to choose - it depends. Demolish usage will be different depending on which you use, either clipping or falling off, resulting in subsequent Demolish uses being in different places following each burst window. As a result, phase timing can push one option ahead of the other in terms of DPS. Listed are two potential reopener sequences.
 
 ![](https://i.imgur.com/ikn50Fd.png)
 
@@ -112,20 +113,20 @@ As with the 0 Nadi triple blitz, this window offers us options. The main differe
 
 ![](https://i.imgur.com/hb1bnYK.png)
 
-Key things to keep in mind regardless of which route you choose to follow when attempting a Triple Blitz is that it starts quite late relative to other jobs reopeners. As such you might have to modify your burst to better catch your groups timings and to have the ability to place Brotherhood in a better spot for your team. This means potentially doing an early reopener variant, starting on Twin snakes and inverting all following Opo GCDs. 
+Key things to keep in mind regardless of which route you choose to follow when attempting a Triple Blitz is that it starts quite late relative to other jobs reopeners. As such you might have to modify your burst to better catch your groups timings and to have the ability to place Brotherhood in a better spot for your team. This means potentially doing an early reopener variant, starting on Twin snakes and inverting all following Opo GCDs.
 Also, due to the specific conditions required to execute a Triple Blitz window it’s going to be incredibly rare that you actually have an opportunity to implement this technique, and given the particular nature of these windows each will likely require some additional fine tuning/planning to account for the specific encounter therein. There are a myriad of potential tweaks that could be made to better fine tune these burst windows to specific encounters, from adjusting Demolishes to swapping Blitzes around entirely. I cannot stress enough that what is presented here are in no way universal solutions to the ways these windows will occur in real encounters, and they will require meticulous planning if you want to squeeze out the absolute most potency possible.
 
 ## Dragon Kick Spam
 
 Dragon Kick spamming is a way to pull tiny potency gains out of our core rotation at the end of a phase/fight. Assuming that a fight is coming to an end, you aren’t in a burst window, and all of your PB charges are off cooldown, you may be used to timing an SSS as your final GCD and think no more of it than that. However, we can take advantage of the fact that an uncomboed Dragon Kick is higher upfront potency than any of our other six core GCDs. We have a priority checklist to keep in mind that determines how long you can spam DK for at the end of a phase:
 
-* Any remaining Leaden Fist procs should be spent on a Bootshine with Form bonus if possible.
-* Disciplined Fist cannot fall off.
-* SSS should be the final GCD.
+- Any remaining Leaden Fist procs should be spent on a Bootshine with Form bonus if possible.
+- Disciplined Fist cannot fall off.
+- SSS should be the final GCD.
 
 Once any remaining Leaden Fists are spent and you have enough time left on Disciplined Fist, you can simply press Dragon Kick up until the penultimate GCD of the phase. Sometimes this might result in just getting a single extra DK before using SSS, other times it might mean getting multiple, it depends on where your rotation is at the end of a fight.
 
-At the other end of the spectrum, once you understand and can apply this to the *end* of a fight, you can look back to to the opener and use it at the *beginning* of a fight too. Assuming you have mapped out every GCD of a phase and know that the phase/fight will end with filler GCDs, you can replace all of the filler following your opener while your potion is still active with Dragon Kicks. This is the exact same principle as above, but requires a perfectly mapped fight in order to squeeze even more miniscule potency amounts out of your opener tincture.
+At the other end of the spectrum, once you understand and can apply this to the _end_ of a fight, you can look back to to the opener and use it at the _beginning_ of a fight too. Assuming you have mapped out every GCD of a phase and know that the phase/fight will end with filler GCDs, you can replace all of the filler following your opener while your potion is still active with Dragon Kicks. This is the exact same principle as above, but requires a perfectly mapped fight in order to squeeze even more miniscule potency amounts out of your opener tincture.
 
 ## Brotherhood Chakra Application
 
@@ -139,7 +140,7 @@ This is relevant to Brotherhood because Brotherhood Chakra are granted upon dama
 
 ## Brotherhood: Damage vs Chakra
 
-Brotherhood is split into two halves; the 5% damage buff, and the Meditative chakra gain buff. Awkwardly, these two halves function differently to one another. The 5% buff aspect works the same as every other buff in the game; if the buff is active when your action snapshots, the 5% damage up will be applied. This is not the case for Chakra generation, which instead occurs on damage application - for both your actions and the actions of your group. 
+Brotherhood is split into two halves; the 5% damage buff, and the Meditative chakra gain buff. Awkwardly, these two halves function differently to one another. The 5% buff aspect works the same as every other buff in the game; if the buff is active when your action snapshots, the 5% damage up will be applied. This is not the case for Chakra generation, which instead occurs on damage application - for both your actions and the actions of your group.
 
 What this means practically is that if you were to press the notoriously slow Demolish with 0.1s of Brotherhood left on its duration it will gain the +5% damage, but it will not generate a Chakra. Inversely, if you press Brotherhood then Demolish, it will generate a Chakra but will not have the +5% damage applied.
 
@@ -151,9 +152,9 @@ You may be feeling confused, upset, or even lied to here, as all of the openers 
 
 With all of this in mind, here are the three possible ways a Brotherhood window can go:
 
-* Eight snapshot, seven chakra Brotherhood: Happens when you early weave Brotherhood after anything but Demolish. Buffs the damage of the next eight GCDs, but only has 0.7s duration remaining after the final Brotherhood GCD so it will not get chakra from it unless it’s Six-sided Star (very unlikely).
-* Seven snapshot, eight chakra Brotherhood: Happens when you late weave Brotherhood and your final Brotherhood GCD is anything but Demolish (pretty likely, you’re generally in the PB window to prepare for using Phantom Rush there and would like to be spamming Dragon Kick and Bootshine), but you miss the damage snapshot of the GCD directly after Brotherhood. Better on average than eight snapshot, seven chakra Brotherhood.
-* Eight snapshot, eight chakra Brotherhood: The king of all Brotherhood windows. Happens when you early weave Brotherhood after Demolish or you perform the legendary Brotherhood “middle weave”, using it just late enough to have time for Brotherhood to apply to yourself (this weave would be just a tiny bit earlier than your standard Riddle of Fire late weave) but leaving as much extra Brotherhood duration as possible to catch the final GCD’s damage application (except if it’s Demolish, but that’s rare). One concern with this is that Dragon Kick takes a whole 1.3s to apply its damage and Dragon Kick is your final GCD pretty frequently. However, this being a possible window to hit has already been tested ingame with a bit below 100ms leeway at 1.94 GCD. 
+- Eight snapshot, seven chakra Brotherhood: Happens when you early weave Brotherhood after anything but Demolish. Buffs the damage of the next eight GCDs, but only has 0.7s duration remaining after the final Brotherhood GCD so it will not get chakra from it unless it’s Six-sided Star (very unlikely).
+- Seven snapshot, eight chakra Brotherhood: Happens when you late weave Brotherhood and your final Brotherhood GCD is anything but Demolish (pretty likely, you’re generally in the PB window to prepare for using Phantom Rush there and would like to be spamming Dragon Kick and Bootshine), but you miss the damage snapshot of the GCD directly after Brotherhood. Better on average than eight snapshot, seven chakra Brotherhood.
+- Eight snapshot, eight chakra Brotherhood: The king of all Brotherhood windows. Happens when you early weave Brotherhood after Demolish or you perform the legendary Brotherhood “middle weave”, using it just late enough to have time for Brotherhood to apply to yourself (this weave would be just a tiny bit earlier than your standard Riddle of Fire late weave) but leaving as much extra Brotherhood duration as possible to catch the final GCD’s damage application (except if it’s Demolish, but that’s rare). One concern with this is that Dragon Kick takes a whole 1.3s to apply its damage and Dragon Kick is your final GCD pretty frequently. However, this being a possible window to hit has already been tested ingame with a bit below 100ms leeway at 1.94 GCD.
 
 By the way, you’re at the absolute worst losing around 35 potency by just settling for seven snapshot, eight chakra Brotherhood windows every time, not to mention that this is looking at Brotherhood in a vacuum for your own GCDs when there’s a high chance the truly best optimal time to pop it in a high-end optimization context will be relative to where your entire group’s GCDs generally fall each pull. You’ve already lost more time of your life by reading this section than you’ll ever get back in the total time saved killing bosses with perfect Brotherhood play over the entire expansion.
 
@@ -185,7 +186,7 @@ What this section will instead try to explain is how you can emulate the normal 
 
 To start, the lines of a macro are executed every frame. That is, let’s say you have a macro where the first 14 lines are /ac “Leg Sweep” and the final line is /micon “Leg Sweep” in order to track its cooldown.
 
-This macro will attempt to input Leg Sweep every single frame for 14 frames. This means that if you press this macro anytime in the 14 frame window before the animation lock from your last ability or weaponskill is over, it will cast Leg Sweep on the first frame on which you’re able to. Conversely, if you had only used a single line of ‘/ac “Leg Sweep”’, you would have to be frame perfect on your macro press in order to cast Leg Sweep on the first frame on which animation lock is over. 
+This macro will attempt to input Leg Sweep every single frame for 14 frames. This means that if you press this macro anytime in the 14 frame window before the animation lock from your last ability or weaponskill is over, it will cast Leg Sweep on the first frame on which you’re able to. Conversely, if you had only used a single line of ‘/ac “Leg Sweep”’, you would have to be frame perfect on your macro press in order to cast Leg Sweep on the first frame on which animation lock is over.
 
 Because the normal 0.5s action queue also executes your action on the first frame on which it’s able to, the 14 line macro queue is functionally the same, albeit with a much smaller timing window.
 
@@ -217,11 +218,11 @@ Macro queuing also applies to any scenario in which your animation lock and GCD 
 
 Additionally, this applies to moving back into a skill’s range after your GCD roll and animation lock are finished. In this case, there isn’t an actual timer or status you’re trying to queue your input on, rather you cannot use the normal action queue while outside of the range of a skill: You’re using the macro queue to cast on the first frame you get back in range. On Monk, this applies to moving back into melee range to use a weaponskill or ability, as well as moving back into the 20y Thunderclap range.
 
-However, don’t leave this guide and convert your entire hotbar to macroed abilities and GCDs. At most, all you gain is very, very slight consistency on where your cast is at the start of a phase, maybe frame 1 versus frame 7. Not to mention the smaller queue time inducing possible GCD clips if you’re not pressing the macros at the correct times. What I personally recommend if you want to use this tech is to have separate buttons for the GCDs that you want to macro, ideally bound to a key that you can spam comfortably (dare I say it, even a clicked macro could work here 😬). 
+However, don’t leave this guide and convert your entire hotbar to macroed abilities and GCDs. At most, all you gain is very, very slight consistency on where your cast is at the start of a phase, maybe frame 1 versus frame 7. Not to mention the smaller queue time inducing possible GCD clips if you’re not pressing the macros at the correct times. What I personally recommend if you want to use this tech is to have separate buttons for the GCDs that you want to macro, ideally bound to a key that you can spam comfortably (dare I say it, even a clicked macro could work here 😬).
 
 The last place where the macro queue was truly helpful was the mythical “ripple GCD” of Dragonsong’s Reprise (Ultimate) during the rewind phase. Because the stun from Grinnaux had propagation delay as it applied to each player–closest were stunned first, farther players received the stun last–you could actually hit Charibert right before the stun applied to you. However, because of Charibert only being targetable as the stun initially goes out, hitting this GCD as the anything but the 8th person to receive the stun propagation was difficult. The macro queue alleviated this problem as a way to consistently hit the GCD and remove the overreliance on being the 8th person in line for the stun propagation–you could go as far as the 5th person in line and still hit the GCD. ![](https://lh5.googleusercontent.com/4mrBofkc8uZnIYrX0velIYpOBIzFXSg8LD8p09Dlwui7GZWK5dry4zReGUkh3QukgwHjDulc8lFe1ZSfEji956Dfk5R2Y9RU0FV9Q3cBJtdEkkHfFxLbNHuctMM83LSxmN7NLdYsHZ_KwHDRT94kaJs)
 
-(non-macroed farthest person away clip: <https://streamable.com/sl7cce>) 
+(non-macroed farthest person away clip: <https://streamable.com/sl7cce>)
 
 **Addendum: The <t>echnology**
 
@@ -241,7 +242,7 @@ If you’ve played Monk, you’ve definitely felt a sort of “clunkiness” whe
 
 A macro solves both of these problems. TFC being unqueueable when outside of the 5/5 chakra state is the same situation that has been solved in the previous macro queue applications–by using a macro you have a 14 frame queue on whenever you get 5/5 chakra within the GCD. The problem of queuing a Mediation is also alleviated because of the much smaller 14 frame queue (at normal framerates) leading to less accidental queues. But this is also because of how the normal action queue takes precedence over macro lines when queuing an action–if you’ve already queued your next weaponskill and attempt to use a macro in that 0.5s window, it will ignore the macro actions entirely and queue the weaponskill cast.
 
-Although this seems like nothing but a gain because of dodging most of the chakra overcaps during Brotherhood, there is one important caveat: you must work with a 14 frame queue for every single Forbidden Chakra cast. This means that if you’re in the situation of 5/5 chakra during animation lock (e.g. hitting Bootshine at 4/5) you must adjust your TFC cast time such that the 14 frames overlap with the completion of the animation lock. Essentially, you are accelerating your progression to carpal tunnel status because of the obligation to spam this Meditation macro anytime you approach 5/5 chakra. 
+Although this seems like nothing but a gain because of dodging most of the chakra overcaps during Brotherhood, there is one important caveat: you must work with a 14 frame queue for every single Forbidden Chakra cast. This means that if you’re in the situation of 5/5 chakra during animation lock (e.g. hitting Bootshine at 4/5) you must adjust your TFC cast time such that the 14 frames overlap with the completion of the animation lock. Essentially, you are accelerating your progression to carpal tunnel status because of the obligation to spam this Meditation macro anytime you approach 5/5 chakra.
 
 While you can use both a macroed TFC and a normal TFC button at the same time, consider that you’d have to adjust on the fly to which button to use at the right time–normal TFC’s during animation locks and macroed TFC’s outside of animation locks during Brotherhood. An easier, less brain intensive and muscle memory shattering fix is to lower your framerate to get a relatively longer 14 frame queue window. If you’re still sticking to the 2-button chakra solution, consider remapping mousewheel to your macro keybind similar to how source games bind jump to mousewheel in order to bhop.
 
@@ -249,7 +250,7 @@ If you use ReAction, you might be wondering about how sundered chakra plays into
 
 ### Early and Late Queues
 
-With the information that macro line actions essentially stop working once you’ve queued an action, there is a certain rotational choice we can use to further guarantee less chakra overcap. 
+With the information that macro line actions essentially stop working once you’ve queued an action, there is a certain rotational choice we can use to further guarantee less chakra overcap.
 
 As soon as you use an action inside of the normal 0.5s action queue window, it is “locked” into being cast at the end of animation lock. Macro queues do not possess this quality and can be said to have a “lower priority” than other actions. For example if you were to use your TFC macro 14 frames before animation lock completes then queue a PB cast say 12 frames later, even though you “cast” your TFC first, the PB input will take priority and be cast instead of the TFC. Take the other extreme where you queued your PB input a full 0.5s before animation lock completed and then spammed the living hell out of your TFC macro. In this case, the PB input is already locked into the action queue–even if you do attain 5/5 chakra during the 0.5s normal action queue, nothing can be done to use that chakra.
 
@@ -283,7 +284,7 @@ Personally I’m against the usage of this feature. Automating your own inputs t
 
 Another wacky application of macros is exploiting how a mouseover action can execute a weaponskill on a target without queuing an auto, allowing you to delay your first damage application.
 
-To actually dig into this, I have to first explain how initial boss aggro–the start of an encounter–actually works. The usual suspect is aggro range: when a person stands within a specific radius of the boss and the magical invisible and impossible to predict (for now) aggro ticks automatically aggro the boss to that person. The other even more usual suspect is the first instance of threat generation, usually the first damage application by anyone in the party. 
+To actually dig into this, I have to first explain how initial boss aggro–the start of an encounter–actually works. The usual suspect is aggro range: when a person stands within a specific radius of the boss and the magical invisible and impossible to predict (for now) aggro ticks automatically aggro the boss to that person. The other even more usual suspect is the first instance of threat generation, usually the first damage application by anyone in the party.
 
 Notice however that this is specifically the damage application and not the cast: theoretically if you timed your first cast before the pull started such that the application delay lined up perfectly with the countdown hitting zero, you’d pull on time, e.g. pressing Dragon Kick at -1.29 seconds. This is pretty much the same idea as a wizard’s precast, barring the fact that they are also dealing with their own application delays.
 

@@ -11,7 +11,8 @@ changelog:
   - date: 2022-05-16T07:52:57.378Z
     message: Updated for 6.10 --- removed old sets, added in new BiS.
   - date: 2022-09-19T08:20:38.279Z
-    message: Updated for 6.20/6.21 --- added in new BiS, and marked 6.1 sets as for
+    message:
+      Updated for 6.20/6.21 --- added in new BiS, and marked 6.1 sets as for
       ultimate.
   - date: 2023-06-16T08:07:35.808Z
     message: Updated for 6.4 --- added new BiS sets for 6.4 and for Dragonsong
@@ -25,7 +26,8 @@ bis:
     name: 6.4 2.50 GCD set
     link: dcd2eb34-7c43-4840-a17b-2eb790f19cf4
   - type: etro
-    description: This set is not recommended unless you have a specific use case in
+    description:
+      This set is not recommended unless you have a specific use case in
       mind --- it performs at best around the same as the 2.50 set, but is more
       difficult to use.
     name: 6.4 2.45 GCD set
@@ -71,17 +73,19 @@ authors:
   - apileofcats
   - silaqui-amakiir
 ---
+
 # Dark Knight Best In Slot
 
 Day one prog set(s) will be listed immediately when a new tier is released, but pre-BiS sets will otherwise not be maintained on this page. Use the Tank Gear Manager (<https://bit.ly/TankDPSCalc520>) to make your own gearing decisions based on what gear is available to you. Prioritizing item level over substats is generally recommended while learning new encounters.
 
 > Note: Early progression gear will often provide very different skill speed values from BiS. If your (not-yet BiS) set is too fast for personal preference, it is usually best to simply play around it until better gear is available, instead of using lower item level gear to reach a preferred speed. If a set is too slow, however, it may be useful to meld skill speed to reach a preferred speed, as this allows for more consistent play without sacrificing primary stats.
- 
+
 In general, we recommend using the slowest (lowest skill speed, highest GCD) set with which you can still fit 5 GCDs under Blood Weapon, since they trade skill speed for more valuable stats. Fight-specific considerations may make one speed or another line up better with mechanics (ask in #drk_encounter for opinions).
- 
+
 # Patch 5.5x BiS Sets (With Relic)
+
 These sets use the i535 relic weapon. See below for sets without the relic.
- 
+
 2.38s GCD | Chicken Fettuccine
 <br><https://etro.gg/gearset/67fa1f50-ac71-443c-8711-a082bafe29d6>
 
@@ -90,7 +94,7 @@ These sets use the i535 relic weapon. See below for sets without the relic.
 
 2.43s GCD | Smoked Chicken
 <br><https://etro.gg/gearset/8f4ec40d-89be-4f9c-89e9-242502d63164>
- 
+
 # Patch 5.5x BiS Sets (No Relic)
 
 2.38s GCD | Chicken Fettuccine
@@ -101,8 +105,9 @@ These sets use the i535 relic weapon. See below for sets without the relic.
 
 2.43s GCD | Smoked Chicken
 <br><https://etro.gg/gearset/59d18629-5fa3-43c0-8614-f9e0ca03a15a>
- 
+
 # Prog sets (NOT BiS)
+
 These are examples of sets that were suggested in 5.4 for early progression on the then-new raids. As new gear becomes available, pieces of these sets can be replaced with what you have on hand of similar or higher item level.
 
 2.38s GCD
@@ -121,7 +126,7 @@ These are examples of sets that were suggested in 5.4 for early progression on t
 When gear is item level synced, stats get capped at the stat cap for the synced item level (for substats, this is the higher substat on any HQ, dungeon, or blue gear at that item level). For example, the Bonewicca Ring of Fending has 84 crit (the low stat) and 120 det (the high stat). This means that any ring being synced down to i345 will have 120 of its high stat and the minimum of its low stat amount and 120 of the low stat.
 
 Many pieces of gear are BiS when synced down. The 'low' stat on the higher ilvl gear will reach the stat cap on the lower ilvl gear, which outweighs the melds that you lose in some cases, and in others is only a few points of stats behind. The 515 (Augmented Law's Order) and 535 (Blade's) Relics offer customizable substats, which makes them BiS for all SB and ShB ultimates. 535 Relics will provide 15 more substats in UWU and TEA vs 515 Relics, but no extra benefit in UCoB (as the 515 already caps all four stats).
- 
+
 Ultimate BiS sets can be found below.
 
 ## The Unending Coil of Bahamut
@@ -154,26 +159,25 @@ Ultimate BiS sets can be found below.
 
 ## The Epic of Alexander
 
-
-2.43 relic - <https://etro.gg/gearset/9519a72a-362f-42ca-9bcb-086f5d16862e>	
+2.43 relic - <https://etro.gg/gearset/9519a72a-362f-42ca-9bcb-086f5d16862e>
 2.41 relic - <https://cdn.discordapp.com/attachments/583964695266983944/823317836624953414/unknown.png>
 
 2.40 non-relic - <https://etro.gg/gearset/7c5e6086-dec6-4feb-8648-f283fd37f60e>  
 2.40 relic - <https://etro.gg/gearset/9190d3b3-55b9-4ec6-8364-42dc8f13cf00>
 
 2.38 non-relic - <https://etro.gg/gearset/4f771c14-319a-45bd-8640-e502b8abdeaf>  
-	 		
+
 2.38 relic - <https://etro.gg/gearset/fb582812-87f3-4dbc-8566-07bfbb52ead0>
 
 ## Eden Verse
 
 2.43 No Relic - <https://etro.gg/gearset/872cc0a2-b515-4c0e-a1c1-72ae8abb713d>  
-2.43 Relic Helm & Boots - <https://etro.gg/gearset/7dffab98-02a3-4bff-bde0-156f0b721b71>	
+2.43 Relic Helm & Boots - <https://etro.gg/gearset/7dffab98-02a3-4bff-bde0-156f0b721b71>
 
 2.41 No Relic - <https://etro.gg/gearset/744ca6b2-d002-4931-ab3b-8cb5ef4934b6>  
-2.41 Relic Helm - <https://etro.gg/gearset/1e972d54-8bde-4c0f-9101-c54edb91918d>			
+2.41 Relic Helm - <https://etro.gg/gearset/1e972d54-8bde-4c0f-9101-c54edb91918d>
 
-2.40 Relic Helm - <https://etro.gg/gearset/ae93bc72-5d1b-41d8-b36b-84018a985434>			
+2.40 Relic Helm - <https://etro.gg/gearset/ae93bc72-5d1b-41d8-b36b-84018a985434>
 
 2.38 No Relic - <https://etro.gg/gearset/eeb87f10-5f63-4d00-9bf3-3e29fe898d0c>  
-2.38 Relic Helm - <https://etro.gg/gearset/465886a7-664b-4a7b-983a-27d5337c93cc>			
+2.38 Relic Helm - <https://etro.gg/gearset/465886a7-664b-4a7b-983a-27d5337c93cc>

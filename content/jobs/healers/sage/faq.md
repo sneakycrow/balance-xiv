@@ -8,7 +8,8 @@ changelog:
     message: Created page
 qna:
   - question: Is Toxikon a dps gain?
-    answer: Toxikon is DPS-neutral on one target at level 90 and a DPS gain on 2+
+    answer:
+      Toxikon is DPS-neutral on one target at level 90 and a DPS gain on 2+
       targets if you already have a Toxikon charge. Using Eukrasia Diagnosis and
       then Toxikon is a loss on multiple targets compared to Dyskrasia.
   - question: What is the purpose of Pepsis, will I be using it a lot?
@@ -20,7 +21,8 @@ qna:
 
       Pepsis also has a niche use where you can use it to double dip by abusing snapshots. That is, use Pepsis between the damage snapshotting and applying. The damage has already snapshotted, so consuming the shield at this point doesn't reduce its effectiveness, but you will also get the Pepsis heal on top of it.
   - question: Can I double weave after my DoT?
-    answer: No, Eukrasia has a 1s recast, while the following spell has 1.5s recast
+    answer:
+      No, Eukrasia has a 1s recast, while the following spell has 1.5s recast
       time. You can only single weave after the second spell.
   - question: Do shields stack?
     answer: >-
@@ -30,7 +32,8 @@ qna:
 
       ![](https://cdn.discordapp.com/attachments/756684559831269426/942157543432667146/shields_between_sage_and_scholar.jpg)
   - question: How do I fit Phlegma into 2-minute buffs?
-    answer: "\rNow that the cooldown has been reduced from 45 seconds to 40 seconds
+    answer:
+      "\rNow that the cooldown has been reduced from 45 seconds to 40 seconds
       in patch 6.3, fitting Phlegma into buffs is easy. Every two minutes,
       you'll receive three charges total. This allows you to put two of them
       into buffs, and use the third outside of buffs. Assuming your party is

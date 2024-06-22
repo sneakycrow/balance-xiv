@@ -11,7 +11,8 @@ changelog:
   - date: 2024-04-13T20:39:25.439Z
     message: Fixed image links.
 ---
-The Epic of Alexander (Ultimate) is the Ultimate released in Final Fantasy XIV: Shadowbringers. This encounter is split into 4 Phases: Living Liquid, Brute Justice & Cruise Chaser, Alexander Prime and Perfect Alexander. This guide will go over the Operners, rotations and provide tips for different push-timings and general oGCD usage. This guide assumes that you have a basic understanding of the class and its fundamentals. 
+
+The Epic of Alexander (Ultimate) is the Ultimate released in Final Fantasy XIV: Shadowbringers. This encounter is split into 4 Phases: Living Liquid, Brute Justice & Cruise Chaser, Alexander Prime and Perfect Alexander. This guide will go over the Operners, rotations and provide tips for different push-timings and general oGCD usage. This guide assumes that you have a basic understanding of the class and its fundamentals.
 
 ### Best in Slot
 
@@ -22,9 +23,9 @@ The Epic of Alexander (Ultimate) is the Ultimate released in Final Fantasy XIV: 
 Opener:
 ![](https://i.imgur.com/qGPeS4X.png)
 
-Enter your life window early when the Jagd Doll spawns by doing Wheeling Thrust > High Jump > Fang and Claw > Mirage Dive > Geirskogul and hold your Stardiver for your Lance Charge buff. 
+Enter your life window early when the Jagd Doll spawns by doing Wheeling Thrust > High Jump > Fang and Claw > Mirage Dive > Geirskogul and hold your Stardiver for your Lance Charge buff.
 
-Alternate Chaos Thrust  combos on Living Liquid and the hand throughout the phase.
+Alternate Chaos Thrust combos on Living Liquid and the hand throughout the phase.
 
 ## Phase Two: Brute Justice & Cruise Chaser (BJ & CC)
 

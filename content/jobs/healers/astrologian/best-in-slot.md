@@ -24,7 +24,8 @@ bis:
     name: Rampardos Theorem
     link: 60d1fcc9-8a2e-4e68-8205-f8b25a9de39a
   - type: gsheets
-    description: You can find these and other sets listed with their DPS in the AST
+    description:
+      You can find these and other sets listed with their DPS in the AST
       gear calc. Please don't leave the master sheet open as it causes slowdown
       when many people have the same sheet open. You can Make a Copy of the
       sheet from the File menu.
@@ -51,6 +52,7 @@ authors:
   - zyrk
   - Ahriqi
 ---
+
 # 5.5 AST BiS SETS
 
 > <https://bit.ly/astgearcalc>
@@ -65,27 +67,27 @@ All sets are updated to include relics. If you want pre-relic stuff, it's in the
 
 FAQs at the bottom. As always, keep an eye on food in the sets.
 
-> **Max (Reasonable) Damage Set**  
+> **Max (Reasonable) Damage Set**
 
 (Crafted) "Fastro" <https://etro.gg/gearset/f76ddad7-1cf5-4b03-946b-cd63598157b0>\
 (Tome) "Almost too Fastro" <https://etro.gg/gearset/d9ba9190-5e9d-424c-ab35-617cb3101550>
 
 It's fast. Quite fast. But this level of Piety:SpS has been tested and is very viable for all fights this tier at a high level of play. Please bring ethers with this if things go under
 
-> **Safer but still fairly fast**  
+> **Safer but still fairly fast**
 
 (Crafted) "Need for SpellSpeed" <https://etro.gg/gearset/614d5891-6f03-4894-9802-05f0430134e6>\
 (Tome) "Bring home the pie" <https://etro.gg/gearset/f88f544d-eb84-4add-81b4-0bb815288054>
 
 This makes MP significantly more reasonable than the above, but still has very high damage. Bring this to situations you need a bit more MP.
 
-> **Slow and safe**  
+> **Slow and safe**
 
-"Best in Sloth" <https://etro.gg/gearset/88397043-c634-4a8a-80ab-8c140244ad44>  
+"Best in Sloth" <https://etro.gg/gearset/88397043-c634-4a8a-80ab-8c140244ad44>
 
 Best in Sloth, while not quite as high damage as the faster sets, is a safer option while still maintaining reasonably high damage. It is for those who have high ping and find it hard to not clip with faster GCDs, or just want to be have some extra leeway for mana during weekly re-clears.
 
-- - -
+---
 
 # What about TEA BiS?
 
@@ -97,11 +99,11 @@ Of also great note, certain pieces from The Heroes' Gauntlet are also valid piec
 
 And as always, take some super-ethers.
 
-- - -
+---
 
 # FAQ
 
-> *Which set do I pick?*
+> _Which set do I pick?_
 
 It depends on how much Piety you need, and to a lesser extent how egregious your ping is. I play on 115ms and the 2.30 GCD works perfectly fine. I will clip very slightly in opener depending on what my cards do, and when double weaving Star after an instant, sometimes (depends how nice my tunnel is being). Single weaving Star after a Malefic has been fine. Overall this might lose me (on 115ms), maybe a GCD at worst over a fight, which getting my GCD slow enough to not do this will cost too much damage in other stats.
 
@@ -111,19 +113,19 @@ As for Piety, only you can know how much Piety you need. This is completely indi
 
 If you are a PF warrior, I recommend this tier taking a slower set with more Piety, unlike last tier.
 
-> *Do I use the crafted or tome ring sets?*
+> _Do I use the crafted or tome ring sets?_
 
 What's cute, is you can use both. There are no meld differences between the demarcated "crafted" and "tome" ring sets above. Just swap the ring.
 
-> *My gear is α, I am currently on β fight, what do I meld?*
+> _My gear is α, I am currently on β fight, what do I meld?_
 
 Read Zyrk's post :arrow_up: on melding, or read the AST guide on melding. Piety to comfort (as you can tell, for high damage this usually means dodging it), Crit > SpS tiering > DH/Det
 
-> *What about TEA BiS?*
+> _What about TEA BiS?_
 
 Scroll up! The writeup is still word-for-word valid. Bring a bit more Piety though than the Max Damage BiS has this tier for prog, Bruiser phase is very painful on MP during progression.
 
-> *What about the Do Not Even Look in Here set?*
+> _What about the Do Not Even Look in Here set?_
 
 Did I stutter?
 (No, I did not.)

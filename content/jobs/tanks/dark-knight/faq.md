@@ -49,6 +49,7 @@ qna:
 authors:
   - silaqui-amakiir
 ---
+
 # Frequently Asked Questions
 
 # Why can’t I fit five GCDs in Blood Weapon (or Delirium)?

@@ -25,13 +25,15 @@ bis:
     name: ilvl 660 2.48 Savage BiS
     link: https://etro.gg/gearset/6d7a091d-52f5-49ec-9b2e-d7b1d4c45733
   - type: etro
-    description: If using the TOP weapon, meld three DET. Majestic Manderville and
+    description:
+      If using the TOP weapon, meld three DET. Majestic Manderville and
       Mandervillous weapons are interchangeable for the purposes of this set,
       due to how stat allocation on the relic works.
     name: ilvl 630 2.48 The Omega Protocol BiS
     link: https://etro.gg/gearset/5f972eb8-c3cd-44da-aa73-0fa769957e5b
   - type: etro
-    description: Use three DH melds if using Ultimate weapon. Majestic Manderville
+    description:
+      Use three DH melds if using Ultimate weapon. Majestic Manderville
       and Mandervillous weapons are interchangeable for the purposes of this
       set, due to how stat allocation on the relic works.
     name: ilvl 600 2.48 Dragonsong's Reprise BiS

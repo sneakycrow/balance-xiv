@@ -16,7 +16,7 @@ changes:
 
       Nascent Flash was made into a friend-only skill, which gives mitigation and heals.  
 
-      Raw Intuition was given a healing component, on top of its mitigation.  
+      Raw Intuition was given a healing component, on top of its mitigation.
   - patch: "6.1"
     description: View the latest changes for 6.1 at the Official Site, located
       [here](https://na.finalfantasyxiv.com/jobguide/warrior/)!

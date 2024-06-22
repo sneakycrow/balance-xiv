@@ -21,13 +21,14 @@ changelog:
   - date: 2023-05-29T13:35:37.429Z
     message: Updated patch - no changes
 ---
+
 # Saving The Dragoon
 
 ## Overview
 
 Dragoon is a relatively static melee DPS job with a high focus on weaving off-Global Cooldown (oGCD) actions between a rigid 10-hit sequence of Global Cooldown (GCD) actions. Burst windows can get hectic, and prioritizing the various skills you need to execute can become a rather significant hassle in some instances. Endwalker has doubled down on this by introducing the ability to utilize even more oGCD actions at regular intervals, as if we didn’t have enough already.
 
-- - -
+---
 
 # The Brains Behind the Operation
 
@@ -39,12 +40,12 @@ Contact: **Evie#1153** on Discord | [Twitch](https://www.twitch.tv/evemalqir)
 Contact: **Xiu Ye#0560** on Discord | [Youtube](https://www.youtube.com/channel/UCNOO4Px0BQjgzqPD_DJv-kA) | [Twitch](https://www.twitch.tv/hopedrg)
 
 **Rhy Tamok** (Phoenix) - Our resident cinnamon roll who loves to help and always goes out of his way to go above and beyond for the community. The most active Mentor in the questions channels.
-Contact: **Rhy Tamok#0001** on Discord 
+Contact: **Rhy Tamok#0001** on Discord
 
 **Rubix Bob** (Cerberus) - Probably a bigger math nerd than Eve, Rubix created and maintains a wonderful rotation tool on his personal website and is similarly knowledgeable about the class.
 Contact: **Rubixbob#5304** on Discord
 
-- - -
+---
 
 # Weaponskills
 
@@ -95,14 +96,13 @@ Upon properly completing any of the above combos, you will gain the buff Draconi
 
 #### Piercing Talon
 
-While you always want to maintain your uptime on the above combos as much as possible, occasionally an encounter may push you off for an extended period of time. Rather than doing nothing, you can utilize Piercing Talon. It doesn’t break *any* of the above combos or negates your Draconian Fire. This is only worth doing if you would be unable to re-engage before your GCD spin completes.
+While you always want to maintain your uptime on the above combos as much as possible, occasionally an encounter may push you off for an extended period of time. Rather than doing nothing, you can utilize Piercing Talon. It doesn’t break _any_ of the above combos or negates your Draconian Fire. This is only worth doing if you would be unable to re-engage before your GCD spin completes.
 
 ![](https://xivapi.com/i/000000/000315_hr1.png)
 
 ## Basic Rotation
 
 ![](https://cdn.discordapp.com/attachments/877670675425394709/1022227736019865731/drg_rotation.png)
-
 
 &nbsp;\
 Putting the above information to work, in a single-target encounter, our rotation will simply be the Chaotic Spring Combo followed by the Heavens’ Thrust Combo. We repeat this infinitely, assuming nothing interrupts our rotation.
@@ -113,16 +113,16 @@ Everyone makes them. In attempting to follow this rotation to the best of your a
 
 If you accidentally use an uncomboed GCD (and therefore break your combo) you have to start a fresh combo. Look at your remaining time on the Power Surge buff. If it is still high enough you want to start a Heavens' Thrust combo. Move on with a Chaotic Spring combo otherweise.
 
-- - -
+---
 
 #### Wyrmwind Thrust
 
 Every time you land Raiden Thrust or Draconian Fury, you gain one charge of your Firstminds’ Focus. Two charges allows you to activate Wyrmwind Thrust. Because we don’t start fights with Draconian Fire, the first charge comes during the Heavens’ Thrust combo and the second during the following Chaotic Spring combo. From there, you will always be using Wyrmwind Thrust during your
- Chaotic Spring combo, barring any rotational errors you encounter along the way. When it's ready to to be used, you **must** press Wyrmwind Thrust **before** your next Raiden Thrust or Draconian Fury, otherwise you will **not** gain the charge of Firstminds’ Focus, leading to a drastic loss in damage.
+Chaotic Spring combo, barring any rotational errors you encounter along the way. When it's ready to to be used, you **must** press Wyrmwind Thrust **before** your next Raiden Thrust or Draconian Fury, otherwise you will **not** gain the charge of Firstminds’ Focus, leading to a drastic loss in damage.
 
 ![](https://xivapi.com/i/002000/002597_hr1.png)
 
-- - -
+---
 
 # Positionals
 
@@ -140,7 +140,7 @@ At the bottom of the image, there’s a gap between the two **sides** of the tar
 
 Some enemies will have the **side** mark wrapping their entire hitbox. These target rings are special because you will get positional bonuses from every action without needing to worry about where you attack from. All the enemies in the Palace of the Dead, for example, have this special targeting ring.
 
-As a Dragoon, we only have positional requirements on three of our actions. Each of them provides an additional 40 potency when they hit the proper side of the target. 
+As a Dragoon, we only have positional requirements on three of our actions. Each of them provides an additional 40 potency when they hit the proper side of the target.
 
 #### Side Positionals
 
@@ -165,15 +165,15 @@ As a Dragoon, we only have positional requirements on three of our actions. Each
 While it is a loss to miss your positionals, landing them should be your last priority. Prioritize meeting all of the other combat priority requirements of a melee DPS job. These are listed in order from largest to smallest loss of damage if you fail that level.
 
 **1. Handle Mechanics**\
-   If you fail mechanics, you could cause a potential raid wipe and a fight reset. You do not want to be the cause of that. Nothing is more important than properly handling mechanics.\
+ If you fail mechanics, you could cause a potential raid wipe and a fight reset. You do not want to be the cause of that. Nothing is more important than properly handling mechanics.\
 **2. Stay Alive**\
-   Don’t die. Plain and simple. If you have to sacrifice uptime to stay alive then you know the choice to make. Deaths cause much larger losses than having to use a few Piercing Talons.\
+ Don’t die. Plain and simple. If you have to sacrifice uptime to stay alive then you know the choice to make. Deaths cause much larger losses than having to use a few Piercing Talons.\
 **3. Maintain Uptime (ABC - Always Be Casting)**\
-   Stick to the boss like glue, assuming you meet one and two. Do not let your GCD stop spinning.\
+ Stick to the boss like glue, assuming you meet one and two. Do not let your GCD stop spinning.\
 **4. Land Positionals**\
-   And then, once you have one through three down, worry about maintaining proper positionals. Missing *every single* positional is only a 5% dps loss - much less than mistakes in the aforementioned points.
+ And then, once you have one through three down, worry about maintaining proper positionals. Missing _every single_ positional is only a 5% dps loss - much less than mistakes in the aforementioned points.
 
-- - -
+---
 
 # Abilities
 
@@ -206,11 +206,11 @@ In general, the buffs will be used together every two minutes, with Lance Charge
 
 &nbsp;
 
-- - -
+---
 
 ## Dragon Sight
 
-Dragon Sight is a pain in the ass. We all know it. It’s not going anywhere, though, so let us just get that out of the way and move on to how to mitigate this logistical nightmare of a party-targeted ability. You could theoretically use it without a target but this should never be a consideration as the 5% buff will simply be lost. *You do **not** get a 15% buff this way!*
+Dragon Sight is a pain in the ass. We all know it. It’s not going anywhere, though, so let us just get that out of the way and move on to how to mitigate this logistical nightmare of a party-targeted ability. You could theoretically use it without a target but this should never be a consideration as the 5% buff will simply be lost. _You do **not** get a 15% buff this way!_
 
 This being said, the best ways to handle using it vary based on playstyle.
 
@@ -236,7 +236,7 @@ Different macro options are listed below, along with pros and cons.
 /ac "Dragon Sight" <mo>
 /ac "Dragon Sight" <mo>
 /ac "Dragon Sight" <mo>
-/micon "Dragon Sight" 
+/micon "Dragon Sight"
 ```
 
 This will simply place the tether onto your mouseover target. Just hover your mouse over the proper player in the party list and press the button and you cast it on the proper player. An optimal macro to use with mouse and keyboard.
@@ -285,7 +285,7 @@ Specifically targets whoever is at position 2. The number or party list can be a
 
 This mixes the aforementioned macros to create a macro that would prioritize your mouseover target, but default to your preferred party list position/member. Useful if you don’t trust your ability to mouseover, but you should really just practice that and shift to the mouseover one eventually instead.
 
-- - -
+---
 
 # Attacks
 
@@ -321,7 +321,7 @@ Nastrond is a strong line attack that is essentially a direct upgrade to Geirsko
 
 \
 ![](https://xivapi.com/i/002000/002593_hr1.png)\
-Stardiver has an **excessively long** animation lock. Even with the lowest possible ping and perfect server ticks, you **will** clip when weaving this alongside any other action, so I strongly recommend you just do not try it. That said, you always have a full 30 second window of leeway to use it, so pick the best possible spot. It is our single strongest hit at 620 potency, so it should still take priority during buffs over *anything* else.
+Stardiver has an **excessively long** animation lock. Even with the lowest possible ping and perfect server ticks, you **will** clip when weaving this alongside any other action, so I strongly recommend you just do not try it. That said, you always have a full 30 second window of leeway to use it, so pick the best possible spot. It is our single strongest hit at 620 potency, so it should still take priority during buffs over _anything_ else.
 
 ## Buff Windows x Life Cycle
 
@@ -347,9 +347,9 @@ In certain encounters, we may shuffle the location of certain buttons in order t
 ## Re-Openers
 
 During fights or dungeons, you may find yourself encountering a situation where you are coming up against a boss with resources already in the tank. This shuffles your opener around and makes things harder to manage. \
-In general you want to use your buffs first, followed by high priority oGCDs (mainly Geirskogul and High Jump). Double weaving with jumps is required in reopeners to get everything under buffs. 
+In general you want to use your buffs first, followed by high priority oGCDs (mainly Geirskogul and High Jump). Double weaving with jumps is required in reopeners to get everything under buffs.
 
-- - -
+---
 
 # Multiple Target Situations
 
@@ -378,7 +378,7 @@ Once you have three or more targets, you should cycle through your Coerthan Torm
 
 You ideally want to keep all of your other AoE attacks rolling as often as possible in these situations. Keep in mind that Life Surge does work on Coerthan Torment to force a critical hit on every target all at once. Make sure to prioritize High Jump the same as always to get into Life of the Dragon quickly, as Nastrond and Stardiver are two of your strongest multi-target actions.
 
-- - -
+---
 
 # Gearing Up
 

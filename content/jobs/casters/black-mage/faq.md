@@ -20,7 +20,8 @@ qna:
       After that, for a high crit set it’s Crit > Det >= DH. For a high sps set,
       it’s SpS > Det >= DH > Crit
   - question: Do I need both Fire and Blizzard on my hotbars for Paradox?
-    answer: No, when fulfilling the conditions for Paradox, both Fire and Blizzard
+    answer:
+      No, when fulfilling the conditions for Paradox, both Fire and Blizzard
       are replaced on your hotbars with Paradox, and function the same. So you
       will only need one available (generally recommended to keep Fire over
       Blizzard).
@@ -30,23 +31,27 @@ qna:
       cast to get the Enhanced Flare buff, it’s marginally more potency per
       second to cast a third instead of going for Flares right away.
   - question: How do I use Sharpcast?
-    answer: The general recommendation at this point is to use Sharpcast on Thunder
+    answer:
+      The general recommendation at this point is to use Sharpcast on Thunder
       III. Since the DoT lasts 30s and proc lasts 40s, along with Sharpcast
       being a 30s cd, you can easily keep up the DoT by sharping every
       subsequent Thundercloud proc.
   - question: Is it okay to use a Thundercloud proc early if I need it for movement?
-    answer: If you have no other movement options in the given situation, using the
+    answer:
+      If you have no other movement options in the given situation, using the
       proc early is better than losing out on the GCD entirely. However, try to
       plan better for next time you’re in the situation to have something
       available for movement, allowing you to use the Thundercloud proc with
       more proper timing.
   - question: What is Umbral Soul used for?
-    answer: Purely a downtime tool, a better version of Transpose. Lets you build
+    answer:
+      Purely a downtime tool, a better version of Transpose. Lets you build
       back up to Umbral Ice III + Three Umbral Hearts during downtime, so you
       can Thunder III -> Fire III when you can hit something again. If you end a
       fight in Astral Fire, Transpose into UI so you can use Umbral Soul. Do not
       use Umbral Soul during uptime.
-  - question: Do I do anything to align with raid buffs/maximize damage dealt within
+  - question:
+      Do I do anything to align with raid buffs/maximize damage dealt within
       raid buffs?
     answer: Often it will be advantageous to align pot uses with the rest of the
       party. oGCD abilities if used roughly on cd will often keep some semblance
@@ -56,7 +61,8 @@ qna:
       will generally fit good spells within raid buffs regardless of
       alignment–prioritize uptime and solid rotational choices first and
       foremost.
-  - question: If I have 2.4k MP left and my Astral Fire phase is about to run out,
+  - question:
+      If I have 2.4k MP left and my Astral Fire phase is about to run out,
       do I use Fire -> Despair, or only Despair?
     answer: You use solely Despair, since it’s the better option on average.
   - question: Is Lucid Dreaming useless on BLM?
@@ -65,15 +71,18 @@ qna:
     answer: If you wanna go fast, go fast. If you wanna go slow, go slow. The
       rotation works at both extremes. A popular, yet mostly arbitrary number to
       aim for is ~1.3k+ SpS, but go with what works for you.
-  - question: Sharpcast (or any oGCD) is available, but I don’t have anything to use
+  - question:
+      Sharpcast (or any oGCD) is available, but I don’t have anything to use
       to weave it. Do I clip to use it?
-    answer: Generally, you will want to delay use until the next available weaving
+    answer:
+      Generally, you will want to delay use until the next available weaving
       window. Situationally, if it means potentially losing any uses or you have
       an otherwise strong reason to keep it more strictly on CD, then you can
       clip it (and try to figure out a way to avoid that clip next pull).
 authors:
   - rika-vanih
 ---
+
 # Q: What is Umbral Soul used for?
 
 A: Purely a downtime tool, a better version of Transpose. Lets you build back up to Umbral Ice III + Three Umbral Hearts during downtime, so you can Thunder III -> Fire III when you can hit something again. If you end a fight in Astral Fire, Transpose into UI so you can use Umbral Soul. Do not use Umbral Soul during uptime.
@@ -96,7 +105,7 @@ A: Always maximize ilvl. After that, SpS to comfort > Crit/DH > Det. All stats a
 
 # Q: Well, what's a comfy SpS?
 
-A:  If you wanna go fast, go fast. If you wanna go slow, go slow. The rotation works at both extremes. A popular, yet mostly arbitrary number to aim for is ~2k+ SpS, but go with what works for you. Feel free to use one of the sets in the aforementioned Relative Gear Comparison sheet.
+A: If you wanna go fast, go fast. If you wanna go slow, go slow. The rotation works at both extremes. A popular, yet mostly arbitrary number to aim for is ~2k+ SpS, but go with what works for you. Feel free to use one of the sets in the aforementioned Relative Gear Comparison sheet.
 
 # Q: Which BiS is better for high ping/newer players?
 
@@ -108,11 +117,11 @@ A: Due to a lack of Crit + SpS pieces of gear at cap, a higher speed set ends up
 
 # Q: What stats should I put on my relic?
 
-A:  If you’re using a high SpS set, you will likely want to use more SpS + DH with some Det. High-crit set will generally lean towards a stat spread closer to Crit + SpS + DH/Det. You can min-max using the [5.X relative gear comparison sheet if desired.](http://bit.ly/BLMGear)
+A: If you’re using a high SpS set, you will likely want to use more SpS + DH with some Det. High-crit set will generally lean towards a stat spread closer to Crit + SpS + DH/Det. You can min-max using the [5.X relative gear comparison sheet if desired.](http://bit.ly/BLMGear)
 
 # Q: What's the UCoB/UwU BiS?
 
-A:  If you just aim to clear you can use synced gear just fine. If you want to speedrun old Ultimates use the following:
+A: If you just aim to clear you can use synced gear just fine. If you want to speedrun old Ultimates use the following:
 
 UwU: i375 head/hands/feet. i470+ everything else.
 UCoB: i430+ weapon. i345 everything else.

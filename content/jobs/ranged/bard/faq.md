@@ -10,13 +10,14 @@ changelog:
     message: Endwalker update
 qna:
   - question: How does Repertoire work?
-    answer: "While under a song, we get one 80% chance at a proc every three seconds
+    answer:
+      "While under a song, we get one 80% chance at a proc every three seconds
       of the song timer. Specifically, proc chances occur at 42, 39, 36, etc.
       seconds remaining, and not at 45 or zero.\r\n"
   - question: How do I approach the two minute burst?
     answer: "\r
 
-      Try to late-weave **The Wanderer's Minuet**.\ 
+      Try to late-weave **The Wanderer's Minuet**.\
 
 
       Use **Raging Strikes** in the next oGCD window, then you have a free
@@ -25,7 +26,7 @@ qna:
 
 
       Then, two GCDs after the Raging, double-weave **Battle Voice** and
-      **Radiant Finale**.\ 
+      **Radiant Finale**.\
 
 
       \r
@@ -38,7 +39,7 @@ qna:
 
       Yes and no. While it's not crucial, being at 2.48 or 2.47 makes it
       feasible to keep Empyreal Arrow on cooldown without it running into your
-      GCD, while also minimizing song cycle drift.\ 
+      GCD, while also minimizing song cycle drift.\
 
 
       \r
@@ -54,7 +55,8 @@ qna:
 
       Yes, keep it aligned with Battle Voice. It will be at three coda for
       every usage after the first."
-  - answer: Keeping it aligned with two minute buffs is so valuable, that it's worth
+  - answer:
+      Keeping it aligned with two minute buffs is so valuable, that it's worth
       treating it as a 60 second cooldown. During **Mage's Ballad**, use it at
       100, or before **Sidewinder** at the lastest. Then hold it until two
       minute buffs are all up.
@@ -66,12 +68,14 @@ qna:
   - question: How does Barrage interact with Shadowbite?
     answer: "It only increases **Shadowbite's** potency. It does not give you
       Shadowbite Ready, nor does it increase the number of hits.\r\n"
-  - answer: If the fight will last 8:30 or more, aim to use it before the two minute
+  - answer:
+      If the fight will last 8:30 or more, aim to use it before the two minute
       burst, and then again for the eight minute. Otherwise, use it before the
       pull and then at six minutes.
     question: When do I use tinctures?
   - question: Should I macro (any damage skill)?
-    answer: No. Macros cannot be queued in advance, so you lose casts over time by
+    answer:
+      No. Macros cannot be queued in advance, so you lose casts over time by
       using them since every use will have a little delay. Targeting macros
       (`<tt>`, `<2>`, and so on) for Nature's Minne and Warden's Paean are okay,
       since the time you lose to not queueing can be gained back by not having
@@ -79,31 +83,32 @@ qna:
 authors:
   - TKCetonis
 ---
+
 # Single target FAQ
 
-> *When should I use Raging Strikes after the opener?*  
+> _When should I use Raging Strikes after the opener?_
 
 A couple of GCDs into Minuet. This is to cover as much Pitch Perfect potential as possible.
 
-> *When do I use my second/third potion?*
+> _When do I use my second/third potion?_
 
 Try to cover Raging Strikes and Barrage with it. That damage spike is bigger than any heap of party buffs. If you can, also try to pop it right before an Iron Jaws, so that you can IJ at the end and get two runs of buffed DoTs.
 
-> *Should I use Iron Jaws at the start and end of Raging Strikes?*
+> _Should I use Iron Jaws at the start and end of Raging Strikes?_
 
 No, this isn't worth it. Try to use Iron Jaws once under each Raging -- when either Raging or your DoTs are about to end.
 
-> *When should I use Apex Arrow?*
+> _When should I use Apex Arrow?_
 
 As soon as you hit 100 gauge. You can hold it one to two GCDs, or use it at 90-95, if it lets you catch some buffs.
 
-> *Should I hold Empyreal Arrow under Army's Paeon?*
+> _Should I hold Empyreal Arrow under Army's Paeon?_
 
 Only if you're within ~2s of starting Wanderer's Minuet. Otherwise, fire away -- you get two EAs under each Minuet/Ballad regardless.
 
-> *Can I do anything with Enhanced Army's Paeon?*
+> _Can I do anything with Enhanced Army's Paeon?_
 
-If you have a little skill speed, you can set up a clean last-moment WM to Mage's Ballad transition:  \
+If you have a little skill speed, you can set up a clean last-moment WM to Mage's Ballad transition: \
 Burst Shot - Pitch Perfect - Mage's Ballad - Burst Shot
 
 To do this, you MUST wait to press WM until late in the weaving window, AND avoid any GCD delays while in Minuet. Normally, your transition will look like:\
@@ -111,21 +116,21 @@ Burst Shot - Wanderer's Minuet - Burst Shot - Burst Shot - Raging Strikes - Burs
 
 Failure to wait a tad on that WM, or clipping under Muse, may result in that last-moment PP "ghosting" - animating without actually going off or going on cooldown.
 
-> *Should I macro (any damage skill)?*
+> _Should I macro (any damage skill)?_
 
 No. Macros cannot be queued in advance, so you lose casts over time by using them since every use will have a little delay. Targeting macros (`<tt>`, `<2>`, and so on) for Nature's Minne and Warden's Paean are okay, since the time you lose to not queueing can be gained back by not having to target a party member manually.
 
 # AoE FAQ
 
-> *How many DoTs should I put up?*
+> _How many DoTs should I put up?_
 
 It's complicated. The full guide (<link>) goes into the details.\
 But as a very general rule of thumb, any DoT that will run most to all of its 30s (i.e. the mob won't die soon) is worth applying.
 
-> *How does Shadowbite's damage work?*
+> _How does Shadowbite's damage work?_
 
 It's based on the DoTs on the primary target, so you only need both DoTs on that one enemy.
 
-> *Should I use Apex sooner when I have a lot of DoTs running?*
+> _Should I use Apex sooner when I have a lot of DoTs running?_
 
 Yes, 85 to 90 is pretty fine depending on DoT count to lessen the risk of overfilling the gauge.

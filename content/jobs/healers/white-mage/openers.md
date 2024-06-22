@@ -12,9 +12,10 @@ changelog:
   - date: 2023-01-19T16:35:18.835Z
     message: Confirmed for 6.3
 ---
+
 # Standard Opener
 
-![\-3s Pre-pull Current Tincture of Mind\ -1.5s Pre-pull Glare III\ PULL\ Dia\ Glare III\ Glare III Weave: Presence of Mind\ Glare III Weave: Assize Glare III (etc.)](/img/jobs/whm/whm_ew_no_swift_opener.png "No Swift White Mage Endwalker Opener General Use")
+![-3s Pre-pull Current Tincture of Mind\ -1.5s Pre-pull Glare III\ PULL\ Dia\ Glare III\ Glare III Weave: Presence of Mind\ Glare III Weave: Assize Glare III (etc.)](/img/jobs/whm/whm_ew_no_swift_opener.png "No Swift White Mage Endwalker Opener General Use")
 
 In most cases, use this:\
 -3s Pre-pull Current Tincture of Mind\

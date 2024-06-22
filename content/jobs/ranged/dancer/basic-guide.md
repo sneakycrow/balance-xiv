@@ -20,9 +20,10 @@ changelog:
   - date: 2023-01-20T15:12:07.053Z
     message: Updated for 6.3
 ---
+
 # Foreword
 
-Welcome to the basic Dancer guide. Within this document, you’ll find all the information you’ll need to learn to play the job. Other links will be included below for further references and resources. Any further questions can also be directed to the Dancer channels in the Balance’s Discord. 
+Welcome to the basic Dancer guide. Within this document, you’ll find all the information you’ll need to learn to play the job. Other links will be included below for further references and resources. Any further questions can also be directed to the Dancer channels in the Balance’s Discord.
 
 For a video version of this guide [click here!](https://www.youtube.com/watch?v=fvafO3u3VcA)
 
@@ -42,7 +43,7 @@ For a video version of this guide [click here!](https://www.youtube.com/watch?v=
 
 # What is a Dancer?
 
-Dancer, alongside Bard and Machinist, is one of the three physical ranged DPS. Dancers focus on providing sizable damage buffs to the party through a big two-minute raid buff and a handful of single target buffs to be given to a single party member of their choosing.  Like other physical ranged DPS jobs, Dancer’s skills are instantly cast, and thus allow for nearly unrestricted movement.
+Dancer, alongside Bard and Machinist, is one of the three physical ranged DPS. Dancers focus on providing sizable damage buffs to the party through a big two-minute raid buff and a handful of single target buffs to be given to a single party member of their choosing. Like other physical ranged DPS jobs, Dancer’s skills are instantly cast, and thus allow for nearly unrestricted movement.
 
 Dancers also bring a good amount of defensive utility, making it great for raids as Curing Waltz, Improvisation and Shield Samba allow for a decent amount of free healing and damage mitigation.
 
@@ -62,7 +63,7 @@ The yellow bar, with the corresponding number, is your Esprit gauge. This resour
 
 &nbsp;
 
-The second gauge we have shows us our step actions. Dancer has two dance abilities, Standard Step and Technical Step. When initiating these dances you are given random steps to press. Two steps for Standard Step, and four for Technical Step. 
+The second gauge we have shows us our step actions. Dancer has two dance abilities, Standard Step and Technical Step. When initiating these dances you are given random steps to press. Two steps for Standard Step, and four for Technical Step.
 
 These step abilities will replace your main single target and AoE abilities and turn into the dance step of their corresponding color.
 
@@ -80,11 +81,11 @@ Standard Step should be generally used whenever it becomes available -- even whe
 
 Dancer’s main gimmick is the Dance Partner mechanic. Using Closed Position on a party member sets them as your Dance Partner, allowing several of your skills (Standard Finish and Devilment) to buff said party member and to provide significant boosts to their damage output.
 
-You therefore want to put your Dance Partner on someone that does a lot of damage and is able to utilize said buffs to their fullest extent. 
+You therefore want to put your Dance Partner on someone that does a lot of damage and is able to utilize said buffs to their fullest extent.
 
-Differences in gear and other factors can have an effect on who the optimal dance partner is  in any given situation. Weigh the pros and cons of each of your party members and decide a dance partner based on your own discretion. 
+Differences in gear and other factors can have an effect on who the optimal dance partner is in any given situation. Weigh the pros and cons of each of your party members and decide a dance partner based on your own discretion.
 
-In a vacuum where gear and skill level is equal the priority would be such: 
+In a vacuum where gear and skill level is equal the priority would be such:
 
 SAM > NIN > MNK > RPR > DRG > BLM > SMN > RDM > MCH > BRD > DNC
 
@@ -98,13 +99,13 @@ There is also a Dance Partner calculator which you can use to determine exactly 
 
 Before reading this part of the guide, it might be wise to read up on all of Dancer’s abilities [here.](/jobs/ranged/dancer/skills-overview/)
 
-The backbone of Dancer's rotation is a set of four GCD combo actions that are simple, yet flexible. 
+The backbone of Dancer's rotation is a set of four GCD combo actions that are simple, yet flexible.
 
-The first two of these actions are Cascade and Fountain.  Cascade combos into Fountain.  Both Cascade and Fountain have a 50% chance of unlocking ("proccing") a separate GCD -- Cascade can unlock Reverse Cascade, and Fountain can unlock Fountainfall.  
+The first two of these actions are Cascade and Fountain. Cascade combos into Fountain. Both Cascade and Fountain have a 50% chance of unlocking ("proccing") a separate GCD -- Cascade can unlock Reverse Cascade, and Fountain can unlock Fountainfall.
 
 Reverse Cascade and Fountainfall can be used flexibly in any order, and they can be used between Cascade and Fountain without breaking combo. While flexible, there are still some rules to follow regarding these actions:
 
-1. Don't use Fountain uncombo'd, and don't use Cascade when a combo'd Fountain is available.  
+1. Don't use Fountain uncombo'd, and don't use Cascade when a combo'd Fountain is available.
 2. If you have Reverse Cascade available, avoid using Cascade, and similarly for Fountainfall and Fountain. Reverse Cascade and Fountainfall have a 50% chance to generate a Fourfold Feather, which can be spent on Fan Dance I or Fan Dance II, which are oGCDs.
 
 Graph of our procs:
@@ -125,7 +126,7 @@ Flourish is our one-minute cooldown. It grants all possible procs: Fan Dance III
 
 &nbsp;
 
-Lastly, your two-minute cooldowns are Devilment and Technical Step. Devilment grants you and your dance partner 20% Crit and Direct Hit rating, while Technical Finish gives your entire party a 5% flat damage buff and the ability to generate Esprit for you. All of these buffs last 20 seconds, and as they have the same cooldown, it’s best to keep them aligned with each other. During its duration, Devilment also grants access to Starfall Dance, a hard hitting GCD, and Technical Finish transforms into Tillana, which refreshes the Standard Finish buff.  
+Lastly, your two-minute cooldowns are Devilment and Technical Step. Devilment grants you and your dance partner 20% Crit and Direct Hit rating, while Technical Finish gives your entire party a 5% flat damage buff and the ability to generate Esprit for you. All of these buffs last 20 seconds, and as they have the same cooldown, it’s best to keep them aligned with each other. During its duration, Devilment also grants access to Starfall Dance, a hard hitting GCD, and Technical Finish transforms into Tillana, which refreshes the Standard Finish buff.
 
 Since these abilities are on a two minute cooldown, there's a specific sequence of how to use them. Outside of that, you do not have to worry about these abilities.
 
@@ -135,21 +136,21 @@ Since Dancer heavily revolves around RNG procs, your opener and two-minute burst
 
 ![](https://i.imgur.com/AvOuHDs.png)
 
-For the opener, we use Standard Step 15.5 seconds before the pull. Do both of the random steps, but hold off from finishing the dance. 
+For the opener, we use Standard Step 15.5 seconds before the pull. Do both of the random steps, but hold off from finishing the dance.
 
 We recommend using Peloton before the pull, as it will help your melees and tanks get into range quickly.
 
-Use the appropriate Dexterity potion at 1.5 seconds left. 
+Use the appropriate Dexterity potion at 1.5 seconds left.
 
-Instantly afterward, use Standard Finish before going into the Technical Step. 
+Instantly afterward, use Standard Finish before going into the Technical Step.
 
 Use all four steps and do Technical Finish, weaving in Devilment. Use Starfall Dance, weaving in Flourish and Fan Dance III.
 
-Next, use Tillana, weaving in Fan Dance IV.  
+Next, use Tillana, weaving in Fan Dance IV.
 
 Now this is where RNG starts to factor in. From here on out, focus on spending all your Fan Dance I's and their corresponding Fan Dance III's whilst preventing Esprit from overcapping by using Saber Dance as much as possible. Once you’re out of Esprit, use up your Fountainfall and Reverse Cascade procs. If you run out of all of the above with at least five seconds left in Technical Finish, use Standard Step.
 
-It’s encouraged to use Saber Dance over Standard Step if you risk overcapping. 
+It’s encouraged to use Saber Dance over Standard Step if you risk overcapping.
 
 For the two-minute burst window, we do the exact same except for the pre-pull part. We use Technical step on cooldown and go into our burst in the exact same manner afterward.
 
@@ -180,8 +181,8 @@ As previously mentioned, Dancer brings a lot of utility to the raid. By properly
 The noteworthy abilities are as follows:
 
 1. Shield Samba. This ability has a 90 second cooldown and applies a 15 second buff to all nearby party members that reduces all damage taken by 10%. This is one of the strongest damage mitigations a DPS can bring, as you do not have to target the boss and because the duration is considerably longer than other DPS mitigation abilities. These abilities will not stack with the Bard and Machinist versions, Troubadour and Tactician.
-2. Curing Waltz. This 60 second cooldown heals party members in a three yalm range around you and your dancer partner for a small amount. That said, if you and your dance partner are stacked up the heal becomes notably more potent. Having your party stack up within this three yalm circle can heal a good chunk of damage on a fairly short cooldown.  While it is worth coordinating the usage of this ability in a static, I do not recommend getting Party Finder groups to play around this ability. In Party Finder, simply use it on cooldown when the party is stacked up and is not at full health.
-3. Improvisation. This ability, when used, provides a  regen on all party members within an eight yalm range. It also grants a stack of the Rising Rhythm buff every three seconds up to a maximum of four stacks. When the ability is used a second time, the button changes to Improvised Finish, which applies a barrier equal to a percentage of the player's max HP. The barrier strength scales with the duration that it was channeled. Using this ability makes it so you are unable to deal damage, and thus it is  recommended to only fully channel the ability if there is downtime with no boss or adds targetable and you cannot prepare either Standard Step or Technical Step during the downtime instead.
+2. Curing Waltz. This 60 second cooldown heals party members in a three yalm range around you and your dancer partner for a small amount. That said, if you and your dance partner are stacked up the heal becomes notably more potent. Having your party stack up within this three yalm circle can heal a good chunk of damage on a fairly short cooldown. While it is worth coordinating the usage of this ability in a static, I do not recommend getting Party Finder groups to play around this ability. In Party Finder, simply use it on cooldown when the party is stacked up and is not at full health.
+3. Improvisation. This ability, when used, provides a regen on all party members within an eight yalm range. It also grants a stack of the Rising Rhythm buff every three seconds up to a maximum of four stacks. When the ability is used a second time, the button changes to Improvised Finish, which applies a barrier equal to a percentage of the player's max HP. The barrier strength scales with the duration that it was channeled. Using this ability makes it so you are unable to deal damage, and thus it is recommended to only fully channel the ability if there is downtime with no boss or adds targetable and you cannot prepare either Standard Step or Technical Step during the downtime instead.
 4. En Avant. This oGCD has up to three charges and allows you to quickly dash for ten yalms in a straight line. Using this ability at key moments makes you very mobile.
 
 # Final Notes

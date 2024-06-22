@@ -13,8 +13,7 @@ changelog:
   - date: 2024-01-18T07:24:50.874Z
     message: Removed out-of-date guide
 ---
+
 Post-6.3 rework, there is very little to optimize outside of rolling your GCD, keeping oGCDs on cooldown, and not dropping resources (Divine Might, Sword Oath stacks).
-
-
 
 Encounter-specific optimizations can be discussed in the PLD Encounter forum in the Balance Discord.

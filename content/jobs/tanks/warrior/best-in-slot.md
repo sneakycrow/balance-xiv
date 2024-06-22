@@ -15,7 +15,8 @@ changelog:
   - date: 2023-05-28T14:32:34.619Z
     message: Updated for Patch 6.4
   - date: 2023-07-11T20:00:14.733Z
-    message: Removed the 2.47 GCD set, as the Savage tier does not offer any fights
+    message:
+      Removed the 2.47 GCD set, as the Savage tier does not offer any fights
       where such GCD speed is useful.
   - date: 2024-01-17T20:00:00.368Z
     message: Added Relic BIS sets
@@ -59,6 +60,7 @@ authors:
   - Mox-Xinmagar
 tags: []
 ---
+
 # What is the BiS for Ultimates? UCoB / UWU / TEA ?
 
 Sets are currently being gathered in one doc: <http://bit.ly/WARultimateBIS>
@@ -68,33 +70,33 @@ The 'low' stat on the higher ilvl gear will reach the stat cap on the lower ilvl
 
 This outweighs the melds you lose in some cases, and in others it is few points of stats behind.
 
-* UCoB: ilvl 418 and above will have both stats capped
-* UWU: ilvl 470 and above will have both stats capped
-* TEA: No available ilvl cap yet, syncing gear will not cap all substats and will ignore melding slots.
+- UCoB: ilvl 418 and above will have both stats capped
+- UWU: ilvl 470 and above will have both stats capped
+- TEA: No available ilvl cap yet, syncing gear will not cap all substats and will ignore melding slots.
 
 See the calculator (WIP) - <https://bit.ly/XIVGearSyncCalc>
 
 Notes:
 
-* Alternative sets offer less farming required for specific items
-* If there are any Synced sets with Crit + Sks rings, change the ring(s) for Crit + SkS bracelet/earring.
-* Chest and weapons are virtually the same piece of gear when it comes to stats.
+- Alternative sets offer less farming required for specific items
+- If there are any Synced sets with Crit + Sks rings, change the ring(s) for Crit + SkS bracelet/earring.
+- Chest and weapons are virtually the same piece of gear when it comes to stats.
 
 ## The Epic of Alexander
 
 > **Relic**
 
-2.43  ![2.43](https://cdn.discordapp.com/attachments/277962749630349312/816306240493322300/unknown.png)
+2.43 ![2.43](https://cdn.discordapp.com/attachments/277962749630349312/816306240493322300/unknown.png)
 
-Fully upgraded relic - 9164.7 DPS   ![](https://cdn.discordapp.com/attachments/277962807813865472/850088248709742672/thisisstupid.png)	
+Fully upgraded relic - 9164.7 DPS ![](https://cdn.discordapp.com/attachments/277962807813865472/850088248709742672/thisisstupid.png)
 
-2.38  ![](https://cdn.discordapp.com/attachments/277962807813865472/880166684365828196/unknown.png)
+2.38 ![](https://cdn.discordapp.com/attachments/277962807813865472/880166684365828196/unknown.png)
 
-2.37 - 9143.7 DPS  ![](https://cdn.discordapp.com/attachments/277962749630349312/878384272812163112/unknown.png)
+2.37 - 9143.7 DPS ![](https://cdn.discordapp.com/attachments/277962749630349312/878384272812163112/unknown.png)
 
 > **Non-Relic**
 
-2.43 - 9055.3 DPS  ![](https://cdn.discordapp.com/attachments/277962807813865472/847536625676582933/unknown.png) 
+2.43 - 9055.3 DPS ![](https://cdn.discordapp.com/attachments/277962807813865472/847536625676582933/unknown.png)
 
 2.38\
 <https://ffxiv.ariyala.com/1DLQT>
@@ -113,7 +115,7 @@ ilv 470
 
 2.37\
 ![](https://cdn.discordapp.com/attachments/436621844838088748/862677161127444530/unknown.png)
-(if you had 7 leftover stats put them in tnc)	
+(if you had 7 leftover stats put them in tnc)
 
 > **Non-Relic**
 
@@ -146,7 +148,7 @@ Alternative, no Eureka![](https://cdn.discordapp.com/attachments/821271250663505
 
 > **Non-Relic**
 
-2.43![](https://cdn.discordapp.com/attachments/277962749630349312/812782632117993502/unknown.png)  
+2.43![](https://cdn.discordapp.com/attachments/277962749630349312/812782632117993502/unknown.png)
 
 alternative![](https://cdn.discordapp.com/attachments/277962749630349312/812782897983127623/unknown.png)
 
@@ -154,7 +156,7 @@ alternative![](https://cdn.discordapp.com/attachments/277962749630349312/8127828
 
 2.37![](https://cdn.discordapp.com/attachments/277962749630349312/812782499834232832/unknown.png)
 
-- - -
+---
 
 ## What is the **BiS** for 5.4+?
 
@@ -166,13 +168,13 @@ Oh boy what's this a load of links and stuff? Simulated on **XAELA**, **PARTY**,
 <https://etro.gg/gearset/3e45ae71-4acf-40b8-a4b8-1daefa84d7d9>
 
 2.43 GCD - Smoked Chicken with Diamond Zeta\
-[https\://etro.gg/gearset/b7d3e754-992c-4675-a251-62424193ae23](https\://etro.gg/gearset/b7d3e754-992c-4675-a251-62424193ae23)
+[https\://etro.gg/gearset/b7d3e754-992c-4675-a251-62424193ae23](https://etro.gg/gearset/b7d3e754-992c-4675-a251-62424193ae23)
 
 > **BIS sets:**
 
 2.37 GCD - 13312.1 dps - Chicken Fettuccine\
 <https://etro.gg/gearset/465c5777-b594-497d-8eac-b45fe2646009>\
-*Some TNC melds for tiering*  
+_Some TNC melds for tiering_
 
 2.38 GCD - 13297.0 dps - Smoked Chicken\
 <https://etro.gg/gearset/6e7c6fd5-7618-466c-8284-8c2cc0f611c3>\
@@ -180,10 +182,10 @@ Unlucky stat tiering, thus lower dps in an infinite sim
 
 2.43 GCD - 13334.1 dps - Smoked Chicken\
 <https://etro.gg/gearset/1f52b3ea-3bab-4a6b-8bfd-8bdcac766d39>\
-*Some TNC melds for tiering*
+_Some TNC melds for tiering_
 
 > **BIS but with Relic (Tentative set(s))**\
-> *Thanks Synnove Kusaribe & Manami Pai !*
+> _Thanks Synnove Kusaribe & Manami Pai !_
 
 2.37 GCD - 13397.2 dps - Chicken Fettuccine\
 <https://etro.gg/gearset/f344710e-37b1-4c42-a422-76188ab680cf>

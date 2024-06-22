@@ -13,6 +13,7 @@ changelog:
   - date: 2023-01-19T16:33:57.967Z
     message: "6.3"
 ---
+
 # Gear and Job Quests
 
 Keep up to date with job quests; job quests will give you solid spells or vital gear. Make sure your gear has mind stat on it. You should always aim to keep your gear up to date, roll for dungeon gear with mind, and spend your tomestones on tomestone gear to equip it when you hit 50, 60, 70, and 80. You can find the vendors in Mor Dhona (50), Idyllshire (60), Rhalgr's Reach (70), and Eulmore (80). Major cities also have Sundry Splendors, which sells the gear based on the zone's level.
@@ -23,20 +24,20 @@ This guide will help a casual player looking for advice playing White Mage while
 
 # Glossary
 
-* WHM: White Mage.
-* CD (Cooldown): The time it takes before you can cast an action again.
-* GCD (Global Cooldown): Spells share the same base recast time. On WHM, these are mostly spells with about 2.5s recast time.
-* Instant (Instant Cast): GCD Spells that do not have a cast bar.
-* oGCD (Off Global Cooldown): Abilities that don’t share the 2.5s base recast time can be used while GCD spells are on cooldown.
+- WHM: White Mage.
+- CD (Cooldown): The time it takes before you can cast an action again.
+- GCD (Global Cooldown): Spells share the same base recast time. On WHM, these are mostly spells with about 2.5s recast time.
+- Instant (Instant Cast): GCD Spells that do not have a cast bar.
+- oGCD (Off Global Cooldown): Abilities that don’t share the 2.5s base recast time can be used while GCD spells are on cooldown.
   Weaving: Using oGCDs in between GCDs. To avoid delaying your GCD, you can safely weave two oGCDs after an instant cast GCD or one oGCD after your casted damaging GCD.
-* HoT (Heal over Time): Actions that heal the target over time. These actions heal for their listed potency once every three seconds.
-* Regen: Another word for HoT.
-* DoT (Damage over Time): Actions that damage the target over time. These actions deal damage for their listed potency once every three seconds.
-* Haste: Buff that reduces cast and recast time during its duration; this seems like SPS but doesn't act the same as it doesn't increase DoT/HoT damage.
-* AoE (Area of Effect): Actions that affect every target in a specified area. AoE heals heal all allies in a circle around their source. AoE damage abilities affect all enemies in an area specified by the ability; enemies can perform AoE attacks too.
-* HP (Health Points): Your life. Don’t let this hit zero.
-* MP (Mana Points): This resource allows you to cast spells.
-* Lily (Lillies): Refers to your healing that requires your Lily job gauge
+- HoT (Heal over Time): Actions that heal the target over time. These actions heal for their listed potency once every three seconds.
+- Regen: Another word for HoT.
+- DoT (Damage over Time): Actions that damage the target over time. These actions deal damage for their listed potency once every three seconds.
+- Haste: Buff that reduces cast and recast time during its duration; this seems like SPS but doesn't act the same as it doesn't increase DoT/HoT damage.
+- AoE (Area of Effect): Actions that affect every target in a specified area. AoE heals heal all allies in a circle around their source. AoE damage abilities affect all enemies in an area specified by the ability; enemies can perform AoE attacks too.
+- HP (Health Points): Your life. Don’t let this hit zero.
+- MP (Mana Points): This resource allows you to cast spells.
+- Lily (Lillies): Refers to your healing that requires your Lily job gauge
 
 # Role Actions
 
@@ -44,11 +45,11 @@ This guide will help a casual player looking for advice playing White Mage while
 
 ## New Abilities
 
-* *Stone (level 1)*: Single target damage (GCD).
-* *Cure (level 2)*: Single target heal (GCD).
-* *Aero (Level 4)*: Single target DoT (GCD, instant cast).
-* *Medica (level 10)*: AoE heal (GCD).
-* *Stone -> Stone II (level 18)*: Single target damage (GCD, replaces Stone).
+- _Stone (level 1)_: Single target damage (GCD).
+- _Cure (level 2)_: Single target heal (GCD).
+- _Aero (Level 4)_: Single target DoT (GCD, instant cast).
+- _Medica (level 10)_: AoE heal (GCD).
+- _Stone -> Stone II (level 18)_: Single target damage (GCD, replaces Stone).
 
 ## Healing
 
@@ -62,18 +63,18 @@ During boss fights, keep your Aero on the boss, refreshing it when it has a two 
 
 ## New Abilities
 
-* *Cure II (level 30)*: Single target heal (GCD).
-* *Presence of Mind (level 30)*: Self haste buff (oGCD).
-* *Regen (level 35)*: Single target HoT heal (GCD, instant cast).
-* *Cure III (level 40*: Targeted AoE heal (GCD).
-* *Holy (level 45)*: AoE Damage (GCD).
-* *Aero -> Aero II (level 46)*: Single target DoT (GCD, instant cast).
-* *Medica II (level 50)*: AoE HoT Heal (GCD)
-* *Benediction (level 50)*: Single target heal (oGCD)
+- _Cure II (level 30)_: Single target heal (GCD).
+- _Presence of Mind (level 30)_: Self haste buff (oGCD).
+- _Regen (level 35)_: Single target HoT heal (GCD, instant cast).
+- _Cure III (level 40_: Targeted AoE heal (GCD).
+- _Holy (level 45)_: AoE Damage (GCD).
+- _Aero -> Aero II (level 46)_: Single target DoT (GCD, instant cast).
+- _Medica II (level 50)_: AoE HoT Heal (GCD)
+- _Benediction (level 50)_: Single target heal (oGCD)
 
 ## Healing
 
-Cure II is an upgrade over Cure, letting you heal much more for more mana. Cure becomes more niche and is only used if you're low on mana. Regen becomes your best healing tool, restoring 1,200p  over 18s, and should be kept on the tank during dungeon trash pulls as it is worth almost double Cure IIs potency.
+Cure II is an upgrade over Cure, letting you heal much more for more mana. Cure becomes more niche and is only used if you're low on mana. Regen becomes your best healing tool, restoring 1,200p over 18s, and should be kept on the tank during dungeon trash pulls as it is worth almost double Cure IIs potency.
 
 Cure III becomes an upgrade over Medica with just a slightly smaller range. It costs more mana while having a smaller range, so Cure III shouldn't be used too much. Your best AoE heal becomes Medica II. Medica II becomes equal to Medica with one tick and stronger than Medica with two ticks. Medica II should be your primary AoE heal if you need to heal your party and they aren't in danger of dying.
 
@@ -81,22 +82,22 @@ At level 50, you get Benediction, and this should be used proactively, letting t
 
 ## Damage
 
- At level 45, you gain Holy, one of the best spells for dungeon mobs; it stuns for four seconds for the first time, two seconds for the second time, and one second for the last time, stunning groups for a total of seven seconds. Holy is what makes WHM so good for dungeons.  Use this for trash pulls as long as you can hit more than one mob.
+At level 45, you gain Holy, one of the best spells for dungeon mobs; it stuns for four seconds for the first time, two seconds for the second time, and one second for the last time, stunning groups for a total of seven seconds. Holy is what makes WHM so good for dungeons. Use this for trash pulls as long as you can hit more than one mob.
 
 # Levels 51-60
 
 ## New Abilities
 
-* *Afflatus Solace (level 52)*: Single target heal (GCD, instant cast)
-* *Asylum (level 52)*: ground target, AoE, HoT (oGCD)
-* *Stone II -> Stone III (level 54)*: Single target damage (GCD)
-* *Assize (level 56)*: AoE heal, AoE damage (oGCD)
-* *Thin Air (level 58)*: Self MP reduction buff (oGCD)
-* *Tetragrammaton (level 60)*: Single target heal (oGCD)
+- _Afflatus Solace (level 52)_: Single target heal (GCD, instant cast)
+- _Asylum (level 52)_: ground target, AoE, HoT (oGCD)
+- _Stone II -> Stone III (level 54)_: Single target damage (GCD)
+- _Assize (level 56)_: AoE heal, AoE damage (oGCD)
+- _Thin Air (level 58)_: Self MP reduction buff (oGCD)
+- _Tetragrammaton (level 60)_: Single target heal (oGCD)
 
 ## Healing
 
-At level 52, you unlock Solace. Solace is one of your three Lily spells. You should use Solace over Cure II, as it does not cost mana. You also unlock Asylum, an ability that provides a powerful regen to any party member standing within. Asylum should be used often as it has a decent cooldown of 90s. Asylum can also be used just for healing tanks during trash pulls. 
+At level 52, you unlock Solace. Solace is one of your three Lily spells. You should use Solace over Cure II, as it does not cost mana. You also unlock Asylum, an ability that provides a powerful regen to any party member standing within. Asylum should be used often as it has a decent cooldown of 90s. Asylum can also be used just for healing tanks during trash pulls.
 
 Thin Air is unlocked at 58. It’s okay to hold Thin Air unless mana is a concern. If it is, try to use it for your high mana cost spells. At 60, you get Tetragrammaton. Tetra has a strong single-target heal. It's primarily used as a tank healing tool but can also be used to top off a low DPS. Tetra should be used often during trash pulls over cure II and Solace since it's a free heal.
 
@@ -108,13 +109,13 @@ At level 54, your Stone II upgrades to Stone III, but Holy is still more damage 
 
 ## New Abilities
 
-* *Stone III -> Stone IV (level 64)*: Single target damage (GCD)
-* *Divine Benison (level 66)*: Single Target shield (oGCD)
-* *Plenary Indulgence (level 70)*: Buff that triggers additional healing to self and nearby party members (oGCD)
+- _Stone III -> Stone IV (level 64)_: Single target damage (GCD)
+- _Divine Benison (level 66)_: Single Target shield (oGCD)
+- _Plenary Indulgence (level 70)_: Buff that triggers additional healing to self and nearby party members (oGCD)
 
 ## Healing
 
-* Divine Benison should be used as much as possible, as it's a free 500 potency shield; use it on cooldown during a fight or pre-pull. Plenary Indulgence should be used if you are ever thinking of using Medica, Medica II, or Cure III, as it adds a 200 potency heal to these skills on a short 60s cooldown.
+- Divine Benison should be used as much as possible, as it's a free 500 potency shield; use it on cooldown during a fight or pre-pull. Plenary Indulgence should be used if you are ever thinking of using Medica, Medica II, or Cure III, as it adds a 200 potency heal to these skills on a short 60s cooldown.
 
 ## Damage
 
@@ -124,11 +125,11 @@ You get an upgrade to Stone at level 64. Nothing changes about damage priority a
 
 ## New Abilities
 
-* *Aero II -> Dia (level 72)*: Single target DoT (GCD, instant cast)
-* *Stone IV -> Glare (level 72)*: Single target damage (GCD)
-* *Afflatus Misery (level 74)*: Targeted AoE damage (GCD, instant cast)
-* *Afflatus Rapture (level 76)*: AoE heal (GCD, instant cast)
-* *Temperance (level 80)*: Healing buff to self & Mitigation buff to self and nearby party members (oGCD)
+- _Aero II -> Dia (level 72)_: Single target DoT (GCD, instant cast)
+- _Stone IV -> Glare (level 72)_: Single target damage (GCD)
+- _Afflatus Misery (level 74)_: Targeted AoE damage (GCD, instant cast)
+- _Afflatus Rapture (level 76)_: AoE heal (GCD, instant cast)
+- _Temperance (level 80)_: Healing buff to self & Mitigation buff to self and nearby party members (oGCD)
 
 ## Healing
 
@@ -142,12 +143,12 @@ At level 72, Aero changes to Dia, and Stone changes to Glare. Both are purely vi
 
 ## New Abilities
 
-* *Glare -> Glare III (level 82)*: Single target damage (GCD)
-* *Holy -> Holy III (level 82)*: AoE Damage (GCD).
-* *Enhanced Healing Magic (level 85)*: Healing spell up
-* *Aquaveil (level 86)*: Single target mitigation buff (oGCD)
-* *Enhanced Divine Benison (Level 88)*: Gains a second charge of Divine Benison (oGCD)
-* *Liturgy of the Bell (level 90)*: Ground target healing (oGCD)
+- _Glare -> Glare III (level 82)_: Single target damage (GCD)
+- _Holy -> Holy III (level 82)_: AoE Damage (GCD).
+- _Enhanced Healing Magic (level 85)_: Healing spell up
+- _Aquaveil (level 86)_: Single target mitigation buff (oGCD)
+- _Enhanced Divine Benison (Level 88)_: Gains a second charge of Divine Benison (oGCD)
+- _Liturgy of the Bell (level 90)_: Ground target healing (oGCD)
 
 ## Healing
 

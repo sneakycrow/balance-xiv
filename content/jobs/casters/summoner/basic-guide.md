@@ -13,18 +13,19 @@ changelog:
   - date: 2023-05-30T23:34:02.348Z
     message: Patch Update 6.4
 ---
+
 # Introduction
 
 This guide will cover Summoner changes, rotations and ability usage in the Endwalker expansion. The core foundation of Summoner has changed significantly, most notably with the complete removal of damage over time abilities (dots) and the newly added primal arcanum system (gems). The basic flow and idea of Summoner’s rotation can be simplified as follows:
 
-* Use Searing Light in alignment with party raid buffs
-* Summon Bahamut and use all abilities to refresh your primal gems
-* Go through three primal phases
-* Summon Phoenix and use all abilities to refresh your primal gems
-* Go through three primal phases
-* Repeat
+- Use Searing Light in alignment with party raid buffs
+- Summon Bahamut and use all abilities to refresh your primal gems
+- Go through three primal phases
+- Summon Phoenix and use all abilities to refresh your primal gems
+- Go through three primal phases
+- Repeat
 
-Within that framework, there is additional nuance such as optimizing damage into raid buffs, moving certain spells around based on movement requirements, and making effective use of Summoner’s various utility tools. These will be covered more extensively in below sections. 
+Within that framework, there is additional nuance such as optimizing damage into raid buffs, moving certain spells around based on movement requirements, and making effective use of Summoner’s various utility tools. These will be covered more extensively in below sections.
 
 Overall, Summoner is considered one of the easiest to pick up and play at a basic level given its straightforward rotation and high degree of mobility for a caster, with only a few hardcasted spells per minute. The combination of simplicity and party utility Summoner brings makes it a popular choice for newer players getting into endgame raiding.
 
@@ -32,13 +33,13 @@ If you have questions after reading the guide, please visit #smn_questions on Th
 
 # Resources and Job Gauges
 
-Summoner’s resources are displayed on two gauges: the Aetherflow Gauge and the Trance Gauge. The Aetherflow Gauge indicates the number of available Festers and Painflares. On the Trance Gauge, the availability of the Demi is shown as well as its duration. In addition, the status of Egi summons can also be seen with their corresponding colors. 
+Summoner’s resources are displayed on two gauges: the Aetherflow Gauge and the Trance Gauge. The Aetherflow Gauge indicates the number of available Festers and Painflares. On the Trance Gauge, the availability of the Demi is shown as well as its duration. In addition, the status of Egi summons can also be seen with their corresponding colors.
 
 1. Aetherflow Gauge
 2. Demi status
 3. Trance timer
 4. Gem status
-5. Primal Elemental Attunement timer 
+5. Primal Elemental Attunement timer
 
 ![](/img/jobs/smn/1.png)
 
@@ -46,19 +47,19 @@ Summoner’s resources are displayed on two gauges: the Aetherflow Gauge and the
 
 When a certain resource is available, the indicator for said resource becomes brightened. Conversely, they are dimmed when unavailable. In this image, two stacks of Aetherflow and Bahamut are available to be used, whereas the Primal summons are unavailable. The type of Demi is also indicated and changes upon summon.
 
-In this image, the Elemental Attunement is shown with its available amount of uses. 
+In this image, the Elemental Attunement is shown with its available amount of uses.
 
 ![](/img/jobs/smn/2.png)
 
 &nbsp;
 
-Same principles apply to simplified gauge, just with a slightly different visual. 
+Same principles apply to simplified gauge, just with a slightly different visual.
 
 ![](/img/jobs/smn/3.png)
 
 &nbsp;
 
-In addition to the gauges, the readiness of Ruin IV can be seen on the buffs bar (middle), The amount of available Aetherflow stacks can also be seen on the buffs bar (left). Each Primal summon also provides special actions used via Astral Flow, and their readiness can also be seen with a buff (right). 
+In addition to the gauges, the readiness of Ruin IV can be seen on the buffs bar (middle), The amount of available Aetherflow stacks can also be seen on the buffs bar (left). Each Primal summon also provides special actions used via Astral Flow, and their readiness can also be seen with a buff (right).
 
 ![](/img/jobs/smn/4.png)
 
@@ -68,12 +69,12 @@ In addition to the gauges, the readiness of Ruin IV can be seen on the buffs bar
 
 The overall rotation involves a relatively static loop consisting of several short phases. As mentioned in the introduction, the general flow is as follows:
 
-* Use Searing Light in alignment with party raid buffs
-* Summon Bahamut and use all abilities to refresh your primal gems
-* Go through three primal phases
-* Summon Phoenix and use all abilities to refresh your primal gems
-* Go through three primal phases
-* Repeat
+- Use Searing Light in alignment with party raid buffs
+- Summon Bahamut and use all abilities to refresh your primal gems
+- Go through three primal phases
+- Summon Phoenix and use all abilities to refresh your primal gems
+- Go through three primal phases
+- Repeat
 
 ![](/img/jobs/smn/5.png)
 
@@ -111,13 +112,13 @@ The adjustments mentioned in the general opener are also valid for this opener, 
 
 **Searing Light** is Summoner’s partywide damage buff. Searing Light has a recast timer of 120 seconds and buffs all damage done by yourself as well as all party members by 3% for 30 seconds. Searing Light can only be activated while the Carbuncle is summoned, which renders its use unavailable during Demi phases as well as immediately after a primal summon. Searing Light should be used on cooldown to align with all other two minute party buffs, unless a specific buff delay is agreed upon by the entire party. Aligning with other party buffs should be prioritized over aligning with your own burst phases.
 
-Note that the Searing Light buff comes from your pet, and not your character. The pet will also not cast Searing Light if it is moving. As such, we can use a place command macro as follows to ensure the pet is stationary where we want it before casting: 
+Note that the Searing Light buff comes from your pet, and not your character. The pet will also not cast Searing Light if it is moving. As such, we can use a place command macro as follows to ensure the pet is stationary where we want it before casting:
 
-Placing the pet under the boss: 
+Placing the pet under the boss:
 
 `/petaction “place” <t>`
 
-Placing the pet where we are standing: 
+Placing the pet where we are standing:
 
 `/petaction “place” <me>`
 
@@ -143,13 +144,13 @@ Our suggested openers prioritize Titan or Garuda first for damage. But for subse
 
 **Astral Flow** will change into a unique ability for each primal.
 
-During each primal summon, your priority is to utilize all of their abilities without casting Ruin III or Tri-disaster. This means consuming all the attunement stacks (i.e. using our modified Gemshine and/or Precious Brilliance), and using our unique primal ability (the modified Astral Flow). 
+During each primal summon, your priority is to utilize all of their abilities without casting Ruin III or Tri-disaster. This means consuming all the attunement stacks (i.e. using our modified Gemshine and/or Precious Brilliance), and using our unique primal ability (the modified Astral Flow).
 
 # Titan, Garuda and Ifrit Phases
 
 While each primal phase follows a similar logic, there are some important differences between them.
 
-**Titan phase** does the most damage and has no hardcasts. This means we try to use this under raid buffs, but it can also be useful if used for movement-heavy mechanics. 
+**Titan phase** does the most damage and has no hardcasts. This means we try to use this under raid buffs, but it can also be useful if used for movement-heavy mechanics.
 
 Its main spells, **Topaz Rite** and **Topaz Catastrophe**, are both instant casts. We cast four of these spells during the phase.
 
@@ -183,7 +184,7 @@ For example, during Garuda phase, you may find yourself about to cast Slipstream
 
 After cycling through the primals and the two additional Ruin casts, **Summon Phoenix** should become available. This functions similarly to Bahamut with comparable damage potencies, with some minor differences.
 
-Phoenix will automatically cast **Everlasting Flight**, a passive AoE regen with healing potencies on par with various healer abilities. 
+Phoenix will automatically cast **Everlasting Flight**, a passive AoE regen with healing potencies on par with various healer abilities.
 
 Moreover, instead of Deathflare (a damage oGCD), we gain **Rekindle** instead as the Astral Flow equivalent. Rekindle is a single target healing ability. More information on these abilities will be covered in the utility and support section.
 
@@ -191,7 +192,7 @@ Phoenix’s other abilities are otherwise comparable to Bahamut. Summon Phoenix 
 
 **Enkindle Phoenix (Revelation)** is a very hard hitting oGCD, much like Enkindle Bahamut (Akh Morn). We also get new instant cast GCDs over Ruin III and Tri-disaster during the phase: **Fountain of Fire** for single target, and **Brand of Purgatory** for AoE.
 
-While Bahamut has an extra damaging oGCD (Deathflare), the potency from Phoenix’s other attacks are slightly stronger than Bahamut’s, resulting in them being very close in terms of total damage potency output. 
+While Bahamut has an extra damaging oGCD (Deathflare), the potency from Phoenix’s other attacks are slightly stronger than Bahamut’s, resulting in them being very close in terms of total damage potency output.
 
 Phoenix is usually summoned during odd minutes, so if buffs are available, you should also use Enkindle Phoenix within them (e.g. Trick Attack, Astrologian cards, or modified raid buff windows done for optimization or specific killtimes). Fester from your odd minute Energy Drain can be used during these buffs, but can also be saved for 2-minute buff windows as long as they are used before the next Energy Drain.
 
@@ -199,7 +200,7 @@ Phoenix is usually summoned during odd minutes, so if buffs are available, you s
 
 From this point onwards, the loop will repeat. We go through the three primal phases, use two Ruin casts, then Summon Bahamut will become available with Searing Light.
 
-One important disclaimer here is that **Summoner can either run critical hit or spell speed as its prioritized sub stat, and this will affect your demi-summon alignment with Searing Light**. 
+One important disclaimer here is that **Summoner can either run critical hit or spell speed as its prioritized sub stat, and this will affect your demi-summon alignment with Searing Light**.
 
 With high spell speed builds, subsequent Summon Bahamuts will become available before Searing Light and raid buff windows, causing them to misalign. This is because “Summon Bahamut” and “Summon Phoenix” abilities also scale with spell speed. For spell speed builds, this is expected, because the entire purpose of the spell speed build is to eventually gain more demi-summon phases over the course of a fight. Do not delay your demi-summons by inserting additional Ruin III casts to fill the gaps; at that point you are running a strictly worse critical hit build.
 
@@ -207,7 +208,7 @@ If you are running a critical hit build, Searing Light will become available jus
 
 ## Potion Windows
 
-Outside of the opener, we generally aim for subsequent potion windows to be during our 6-minute demi-summon and party raid buff window. 
+Outside of the opener, we generally aim for subsequent potion windows to be during our 6-minute demi-summon and party raid buff window.
 
 For certain encounters, we may opt to use our first potion at two minutes instead, which allows us to buff more Festers, but this is very encounter and kill time dependent because it will delay our second potion. For fights longer than nine minutes, we generally use potions as close to on cooldown as possible to ensure maximum uses, even if it can mean missing demi-summon phases or buff windows.
 
@@ -229,7 +230,7 @@ Outside of the opener, we try to catch four Festers, one demi-summon, and two pr
 
 There are situations where boss phase transitions can result in eventually having both primal gems and demi-summons available. In this scenario, we follow this decision making flowchart:
 
-*Will I lose a use of a demi-summon by delaying?*
+_Will I lose a use of a demi-summon by delaying?_
 
 **Yes:** Do not delay demi-summon.
 **No:** Use primals and demi-summon.
@@ -299,7 +300,7 @@ Much like Everlasting Flight, this ability also has comparable potencies to sing
 
 For those who have trouble quickly targeting party members mid rotation, you can use a Rekindle macro:
 
-`/ac “Astral Flow” <>` 
+`/ac “Astral Flow” <>`
 
 Between <> you can put “TT” for the target holding boss aggro at the time of cast, but you can also put a number between 1 to 8 for a specific party member if you wish.
 
@@ -325,11 +326,11 @@ With Summoner’s rotation having so many instant casts, we will have plenty of 
 
 ## Radiant Aegis
 
-Creates a barrier around self that absorbs damage totaling 20% of your maximum HP. This ability has two charges with a cooldown of 60 seconds, but can only be used when Carbuncle is summoned. This means it cannot be used at all during demi-summon phases, and cannot be used for a few seconds after each primal summon. There may be times your shield is not immediately available for a reactionary “panic” use. 
+Creates a barrier around self that absorbs damage totaling 20% of your maximum HP. This ability has two charges with a cooldown of 60 seconds, but can only be used when Carbuncle is summoned. This means it cannot be used at all during demi-summon phases, and cannot be used for a few seconds after each primal summon. There may be times your shield is not immediately available for a reactionary “panic” use.
 
 However, the shield lasts for up to 30 seconds. This means that when used more proactively, it is fairly easy to have a shield up on yourself for any hard hitting mechanic or raidwide you want. This ability, being a free oGCD, also has no DPS cost for us.
 
-A 20% shield of our maximum HP can often be the difference between life or death, especially in situations where mistakes are likely or healing is not yet optimized. While a personal shield sounds more like a “selfish” skill than party utility, it is important to remember that one of Summoner’s most important roles in raiding is to help revive fallen party members, thus preventing wipes. And as a caster capable of reviving fallen allies, our survival is more important than other DPS in the party. 
+A 20% shield of our maximum HP can often be the difference between life or death, especially in situations where mistakes are likely or healing is not yet optimized. While a personal shield sounds more like a “selfish” skill than party utility, it is important to remember that one of Summoner’s most important roles in raiding is to help revive fallen party members, thus preventing wipes. And as a caster capable of reviving fallen allies, our survival is more important than other DPS in the party.
 
 Viewed from that perspective, Radiant Aegis is not only a selfish survival tool, but one that gives Summoner additional value for the party in progression.
 
@@ -339,11 +340,11 @@ The following are additional abilities that Summoner has access to.
 
 ## Swiftcast (Role Action)
 
-Ensures the next spell can be cast immediately. Swiftcast on Summoner has three main functions in order of usage priority: 
+Ensures the next spell can be cast immediately. Swiftcast on Summoner has three main functions in order of usage priority:
 
 1. Used on Resurrection to instantly revive a teammate. This should be the primary usage in progression as well as anytime when extra damage is not necessary.
 2. The second most important use is to keep GCD uptime during movement when it would otherwise be impossible or very risky to slidecast. This is generally preventable with better fight planning due to how many instant casts Summoner has, but it is a valid way to use Swiftcast if needed.
-3. Lastly, when used on certain spells, Swiftcast can situationally result in a small DPS gain. The primary use for this is snapshotting Garuda’s Slipstream under buffs, such as during certain potion windows or in the fast Garuda opener. 
+3. Lastly, when used on certain spells, Swiftcast can situationally result in a small DPS gain. The primary use for this is snapshotting Garuda’s Slipstream under buffs, such as during certain potion windows or in the fast Garuda opener.
 
 ## Sleep (Role Action)
 
@@ -359,24 +360,24 @@ Gradually recover MP, totaling 3850 MP restored over its full duration (550 MP p
 
 ## Primal Effects in Battle
 
-For some, the visual presence of summons can be distracting due to their size. You can modify the sizes of summons you see in battle with the following commands: 
+For some, the visual presence of summons can be distracting due to their size. You can modify the sizes of summons you see in battle with the following commands:
 
 `/petsize \[summon] \[size]`
 
 Replace \[summon] with:
 
-* Demi-Bahamut
-* Demi-Phoenix
-* Ruby Ifrit
-* Topaz Titan
-* Emerald Garuda
-* all
+- Demi-Bahamut
+- Demi-Phoenix
+- Ruby Ifrit
+- Topaz Titan
+- Emerald Garuda
+- all
 
 Replace \[size] with:
 
-* large
-* medium
-* small
+- large
+- medium
+- small
 
 For example, a complete command would look like:
 

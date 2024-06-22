@@ -9,6 +9,7 @@ changelog:
   - date: 2022-04-14T23:00:07.308Z
     message: Initial Version
 ---
+
 # **6.x BLM Raid Guide**
 
 By: Rika Vanih
@@ -25,9 +26,9 @@ Overall, this fight does not require many extra considerations or adjustments. W
 
 ### Opener
 
-* Standard opener is sufficient, you should not have to save movement tools or adjust the opener for this fight.
-* Consider slidecasting/moving during the pot weave to place your Ley Lines closer to your assigned spot for chains.
-* If you need to move for chains, don’t move instantly as soon as the debuffs go out. Positioning doesn’t matter until the chains resolve so you can maintain more uptime in your Ley Lines. Just make sure your team knows you might be late to move.
+- Standard opener is sufficient, you should not have to save movement tools or adjust the opener for this fight.
+- Consider slidecasting/moving during the pot weave to place your Ley Lines closer to your assigned spot for chains.
+- If you need to move for chains, don’t move instantly as soon as the debuffs go out. Positioning doesn’t matter until the chains resolve so you can maintain more uptime in your Ley Lines. Just make sure your team knows you might be late to move.
 
 ### Ley Lines timings/positioning
 
@@ -44,24 +45,26 @@ Overall Ley Lines should be used roughly on cooldown for this fight.
 
 ### Positioning/movement for mechanics
 
-* Chains
+- Chains
 
-  * Ideally you have a set position and only have to move if you get the other debuff. For example, if you have NE for chains, you always have that spot unless you get purple chain and have to take an inner spot.
-  * For Fourfold, if you are doing timer strat, try to preposition in the center of the arena to lower the distance required to get into position for your debuff.
-* Intemperance
+  - Ideally you have a set position and only have to move if you get the other debuff. For example, if you have NE for chains, you always have that spot unless you get purple chain and have to take an inner spot.
+  - For Fourfold, if you are doing timer strat, try to preposition in the center of the arena to lower the distance required to get into position for your debuff.
 
-  * Having a position W/E/SW/SE allows you to stay within your Ley Lines as you move between squares as needed to do the mechanic.
-  * If you get stuck with a NW/NE position and can’t get anyone to swap with you, when the pattern comes up that you have to change your color South you will have to momentarily abandon your Ley Lines
-* Gaoler’s Flail
+- Intemperance
 
-  * For the in/out variant, the border of the safe spots is shared. Standing near this border allows you to do the in → out or out → in movement with a small slidecast
-  * For the left/right variant, you can stand in the center of the boss’ hitbox, one step to the safe side for the first cleave. This is sufficient to avoid the first cleave, and leaves just a small movement to avoid the second hit. Consider zooming your camera in for better visibility for the center of the hitbox (see [here ](https://www.youtube.com/watch?v=TfvzYF01Z2M)for reference).
+  - Having a position W/E/SW/SE allows you to stay within your Ley Lines as you move between squares as needed to do the mechanic.
+  - If you get stuck with a NW/NE position and can’t get anyone to swap with you, when the pattern comes up that you have to change your color South you will have to momentarily abandon your Ley Lines
+
+- Gaoler’s Flail
+
+  - For the in/out variant, the border of the safe spots is shared. Standing near this border allows you to do the in → out or out → in movement with a small slidecast
+  - For the left/right variant, you can stand in the center of the boss’ hitbox, one step to the safe side for the first cleave. This is sufficient to avoid the first cleave, and leaves just a small movement to avoid the second hit. Consider zooming your camera in for better visibility for the center of the hitbox (see [here ](https://www.youtube.com/watch?v=TfvzYF01Z2M)for reference).
 
 ## **\[P2S] Asphodelos: The Second Circle (Savage)**
 
 ### Opener
 
-* Standard opener with prepull Ley Lines is generally recommended. Ley Lines \~4s prepull, F3 \~3s prepull
+- Standard opener with prepull Ley Lines is generally recommended. Ley Lines \~4s prepull, F3 \~3s prepull
 
 ### Ley Lines timings/positioning
 
@@ -73,21 +76,21 @@ Overall Ley Lines should be used roughly on cooldown for this fight.
 
 ### Positioning/movement for mechanics
 
-* For Sewage Deluge, it takes a while for the water to actually rise. Instead of standing on one edge and potentially having to run all the way to the opposite side, you can actually stand in the center of the arena when the cast goes out, shortening the distance you have to travel.
-* To prepare for Spoken/Winged Cataract, it can generally be beneficial to be near or at the square opposite the dirty one beforehand, so at most you will have to move one square of distance to dodge.
-* If you do end up on the opposite corner from the safe spot for Spoken/Winged Cataract, depending on orientation there is sometimes a small section of the grate right next to the dirty square that is safe that you can use. However, make sure that you/the party can be properly situated for Coherence (or other mechanics) afterwards.
+- For Sewage Deluge, it takes a while for the water to actually rise. Instead of standing on one edge and potentially having to run all the way to the opposite side, you can actually stand in the center of the arena when the cast goes out, shortening the distance you have to travel.
+- To prepare for Spoken/Winged Cataract, it can generally be beneficial to be near or at the square opposite the dirty one beforehand, so at most you will have to move one square of distance to dodge.
+- If you do end up on the opposite corner from the safe spot for Spoken/Winged Cataract, depending on orientation there is sometimes a small section of the grate right next to the dirty square that is safe that you can use. However, make sure that you/the party can be properly situated for Coherence (or other mechanics) afterwards.
 
 ### Additional notes
 
-* It is generally recommended to not attempt to use Aetherial Manipulation through the water. Like all movement skills, it is not a teleport but instead fast movement, and so there is a good chance that you will get dropsy if you AM through the water.
-* As a last resort, getting dropsy is better than outright dying. Try to alert your healers that you might get (or already have gotten) dropsy, use Manaward to have a better chance at survival, and try to avoid the situation next time
-* You can (and should) aim to nullify the knockback from Shockwave via Surecast. Since it is a long cast, make sure you don’t use it too early (around 50% into the cast or later is sufficient).
+- It is generally recommended to not attempt to use Aetherial Manipulation through the water. Like all movement skills, it is not a teleport but instead fast movement, and so there is a good chance that you will get dropsy if you AM through the water.
+- As a last resort, getting dropsy is better than outright dying. Try to alert your healers that you might get (or already have gotten) dropsy, use Manaward to have a better chance at survival, and try to avoid the situation next time
+- You can (and should) aim to nullify the knockback from Shockwave via Surecast. Since it is a long cast, make sure you don’t use it too early (around 50% into the cast or later is sufficient).
 
 ## **\[P3S] Asphodelos: The Third Circle (Savage)**
 
 ### Opener
 
-* Standard opener is generally fine. Consider saving Swiftcast (using the second Triplecast in its place) to help with movement for the first Experimental Fireplume.
+- Standard opener is generally fine. Consider saving Swiftcast (using the second Triplecast in its place) to help with movement for the first Experimental Fireplume.
 
 ### Ley Lines timings/positioning
 
@@ -105,27 +108,29 @@ Overall Ley Lines should be used roughly on cooldown for this fight.
 
 ### Positioning/movement for mechanics
 
-* For the initial Experimental Fireplume, Xeno→AM will generally be able to handle the movement. Consider saving Swiftcast from the opener for an additional instant if needed. The F3P from the sharp Paradox can be used to help with getting into position for Darkened Fires
+- For the initial Experimental Fireplume, Xeno→AM will generally be able to handle the movement. Consider saving Swiftcast from the opener for an additional instant if needed. The F3P from the sharp Paradox can be used to help with getting into position for Darkened Fires
 
-  * For the Shiva pattern, keep in mind that you do not need to go to the edge of the arena, just outside of the center circle to dodge the final hit.
-* For Fountain of Fire, ideally you can take the first or second set of baits so you can drop your LL after stretching your tether without delaying them or losing uptime in them.
-* Try to save a Triple to handle the movement for the Searing Breeze AoEs during tornado phase.
-* For the first set of Fledgling Flight adds, they do not all need to be positioned outside of the hitbox. If you get targeted, you can instead opt to slidecast out to place yours, instead of utilizing instants to place it further out like normal. Just make sure your party is aware that they may have to adjust slightly, that you don’t place yours too close to another party member’s add, and that you’re not preventing a melee player from doing positionals.
+  - For the Shiva pattern, keep in mind that you do not need to go to the edge of the arena, just outside of the center circle to dodge the final hit.
+
+- For Fountain of Fire, ideally you can take the first or second set of baits so you can drop your LL after stretching your tether without delaying them or losing uptime in them.
+- Try to save a Triple to handle the movement for the Searing Breeze AoEs during tornado phase.
+- For the first set of Fledgling Flight adds, they do not all need to be positioned outside of the hitbox. If you get targeted, you can instead opt to slidecast out to place yours, instead of utilizing instants to place it further out like normal. Just make sure your party is aware that they may have to adjust slightly, that you don’t place yours too close to another party member’s add, and that you’re not preventing a melee player from doing positionals.
 
 ### Additional notes
 
-* For the Darkened Fire adds, unless the boss is moved closer to any fires, you can’t hit any of them while targeting the boss and casting Foul. You can, however, target one of the fires with Foul and hit the fire + boss for a small gain over using Xeno.
+- For the Darkened Fire adds, unless the boss is moved closer to any fires, you can’t hit any of them while targeting the boss and casting Foul. You can, however, target one of the fires with Foul and hit the fire + boss for a small gain over using Xeno.
 
-  * If you have to assist with killing the fires outside of Foul, try to use an instant cast if possible–the fires do not have much HP and ideally you don’t want to have a cast canceled due to someone killing it before your cast completes.
-* Adds phase damage is not counted on fflogs. While of course it is important that the adds die in time (and you should burn resources if needed to pass the phase), if your group has damage to spare you can make sure you have two polyglot stacks, prep a thundercloud proc and potentially spam Fire to have a firestarter proc ready for a reopener post-adds.
+  - If you have to assist with killing the fires outside of Foul, try to use an instant cast if possible–the fires do not have much HP and ideally you don’t want to have a cast canceled due to someone killing it before your cast completes.
 
-  * For efficiency on adds, Thunder is not worth it on the small adds but can be worth it on the big ones (sharp T3 → T3P on another add), especially if they take a bit longer to die.
+- Adds phase damage is not counted on fflogs. While of course it is important that the adds die in time (and you should burn resources if needed to pass the phase), if your group has damage to spare you can make sure you have two polyglot stacks, prep a thundercloud proc and potentially spam Fire to have a firestarter proc ready for a reopener post-adds.
+
+  - For efficiency on adds, Thunder is not worth it on the small adds but can be worth it on the big ones (sharp T3 → T3P on another add), especially if they take a bit longer to die.
 
 ## **\[P4S P1] Asphodelos: The Fourth Circle (Savage) Part 1**
 
 ### Opener
 
-* Standard opener is sufficient, you should not have to save movement tools or adjust the opener for this fight.
+- Standard opener is sufficient, you should not have to save movement tools or adjust the opener for this fight.
 
 ### Ley Lines timings/positioning
 
@@ -138,19 +143,19 @@ With a faster killtimes, some groups will switch to 0/3/5 raid buff timings, whi
 
 ### Positioning/movement for mechanics
 
-* For the tethers during tether + rot and tether + towers, there is room to take a tether directly under the boss/between all four towers without clipping others. The tether AoE is around the size of the boss’ hitbox, so as long as others are a few steps away from his hitbox they should be safe. Make sure the party knows if you plan on doing this.
-* For the stack/spread at the end of Pinax 1, it is preferable to be able to stay at the edge near sword/cape so you can LL immediately and not have to move for the stack/spread.
-* Planning for triple use to help deal with Pinax and orb movements is generally recommended
+- For the tethers during tether + rot and tether + towers, there is room to take a tether directly under the boss/between all four towers without clipping others. The tether AoE is around the size of the boss’ hitbox, so as long as others are a few steps away from his hitbox they should be safe. Make sure the party knows if you plan on doing this.
+- For the stack/spread at the end of Pinax 1, it is preferable to be able to stay at the edge near sword/cape so you can LL immediately and not have to move for the stack/spread.
+- Planning for triple use to help deal with Pinax and orb movements is generally recommended
 
 ### Additional notes
 
-* For Pinax, you can time Surecast to cover both the water knockback as well as the cape knockback if they occur together–the timing is when the water finishes spouting, which is around the 60% mark in the Cardinal Shift cast bar.
+- For Pinax, you can time Surecast to cover both the water knockback as well as the cape knockback if they occur together–the timing is when the water finishes spouting, which is around the 60% mark in the Cardinal Shift cast bar.
 
 ## **\[P4S P2] Asphodelos: The Fourth Circle (Savage) Part 2**
 
 ### Opener
 
-* Standard opener is sufficient. You may consider saving Swiftcast to help with movement for Act 1, especially on a higher sps set
+- Standard opener is sufficient. You may consider saving Swiftcast to help with movement for Act 1, especially on a higher sps set
 
 ### Ley Lines timings/positioning
 
@@ -165,9 +170,9 @@ With a killtime at enrage, an earlier 3rd LL can result in a partial extra usage
 
 ### Positioning/movement for mechanics
 
-* With lower sps, a standard opener followed by a sharped AF Paradox allows you to handle movement for Act 1 with the standard AF1 F3P line. With higher sps, consider saving swift for the following F4, and potentially use Xeno to help adjust for Nearsight/Farsight if needed.
-* Being conservative with Triplecast usage, especially when newer to the fight, can help keep uptime during the mechanics. Having a use for Act 2 and one (or two) uses for Act 4 makes this very cozy.
+- With lower sps, a standard opener followed by a sharped AF Paradox allows you to handle movement for Act 1 with the standard AF1 F3P line. With higher sps, consider saving swift for the following F4, and potentially use Xeno to help adjust for Nearsight/Farsight if needed.
+- Being conservative with Triplecast usage, especially when newer to the fight, can help keep uptime during the mechanics. Having a use for Act 2 and one (or two) uses for Act 4 makes this very cozy.
 
 ### Additional notes
 
-* Manaward has very high value in prog/in pugs during Curtain Call when you step out to break your tether.
+- Manaward has very high value in prog/in pugs during Curtain Call when you step out to break your tether.

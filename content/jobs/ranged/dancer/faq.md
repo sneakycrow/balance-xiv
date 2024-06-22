@@ -25,7 +25,8 @@ qna:
 
       For more accurate results for your group and needs, plug your logs into [partnercalc](https://partnercalc.app/).
   - question: How should I approach gearing up the class?
-    answer: You can review Ringabel's guide on how to best approach gearing DNC in
+    answer:
+      You can review Ringabel's guide on how to best approach gearing DNC in
       6.2 by clicking
       [](https://docs.google.com/document/d/1BkaVg7n_rcjwWjiPheHF4MZxlP67KlhoU0SkW3n1UX0/edit)[https://bit.ly/DNCGearingGuide6-30](https://bit.ly/DNCGearingGuide6-30
       "https\://bit.ly/DNCGearingGuide6-30")
@@ -75,16 +76,17 @@ tags:
   - FFXIV
   - DNC
 ---
+
 # DANCE PARTNER PRIORITY
 
 This list is made in a gear/skill vacuum. This is the recommended partner priority list.\
 Special Note: some fights may favor certain Dance Partners over others based on phases/mechanics or ability to hit multiple targets.
 
-*Updated: January 19, 2021 to account for balance changes in patch 5.4.*
+_Updated: January 19, 2021 to account for balance changes in patch 5.4._
 
 1. SAM
 2. NIN
-3. MNK / BLM (crit build)*
+3. MNK / BLM (crit build)\*
 4. DRG / SMN
 5. RDM
 6. MCH

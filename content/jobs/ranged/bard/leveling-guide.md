@@ -13,21 +13,22 @@ changelog:
   - date: 2023-01-10T16:42:54.569Z
     message: Updated for 6.3 changes
 ---
+
 # Bard Leveling Guide
 
 ## Gear
 
-Always use the gear with the highest dexterity available to you. This is more important than any secondary stat - you should not worry about those until endgame. 
+Always use the gear with the highest dexterity available to you. This is more important than any secondary stat - you should not worry about those until endgame.
 
 Aside from some early quest rewards and vendor gear bought for gil, a piece's item level correlates to its Dexterity. So you can just use the highest item level gear and you'll be good to go.
 
-Bards use "Aiming" gear, so if you see that label on a coffer quest reward, that one is for you. 
+Bards use "Aiming" gear, so if you see that label on a coffer quest reward, that one is for you.
 
 ## Your Role
 
-As a ranged physical DPS, you deal a little bit less damage in exchange for complete freedom of mobility. 
+As a ranged physical DPS, you deal a little bit less damage in exchange for complete freedom of mobility.
 
-Your job is to take full advantage of this. If it can be dodged, you should be dodging it. If someone needs to be across the room to deal with some mechanic out there, that someone should be you. 
+Your job is to take full advantage of this. If it can be dodged, you should be dodging it. If someone needs to be across the room to deal with some mechanic out there, that someone should be you.
 
 That said, party-wide heals have a range, so you don't want to be way out in the distance for no reason. Try to stay roughly near the party as much as possible. If you outrange a heal and die, that's your fault, not the healer's!
 
@@ -35,11 +36,11 @@ And of course, never stop attacking. Your global cooldown - that is, the 2.5s co
 
 Lastly, the ranged role action Head Graze can interrupt enemy casts with a shaking red bar. Don't worry about the fast ones, but slower casts are generally meant to be interrupted. Keep an eye out for them!
 
-- - -
+---
 
 # Terminology
 
-DoT - Damage over time. DoT skills add a debuff to the enemy that deals damage every three seconds. 
+DoT - Damage over time. DoT skills add a debuff to the enemy that deals damage every three seconds.
 
 AoE - Area of effect. AoE skills are skills that hit all targets in an area. An AoE situation is one in which you'd be using AoE skills.
 
@@ -49,11 +50,11 @@ Normally, you have enough time between GCD skills to use two oGCD skills. If you
 
 Also, note that you can press a GCD skill a little in advance, and it will fire as soon as possible. Use this fact to make sure your global cooldown never stops spinning.
 
-- - -
+---
 
 # Skill usage by level
 
-Bard has a priority-based skill kit. In other words, your skill use boils down to "Use your basic attack repeatedly, until there's another one you need to use." 
+Bard has a priority-based skill kit. In other words, your skill use boils down to "Use your basic attack repeatedly, until there's another one you need to use."
 
 As you level, you gain more weaponskill (GCDs) options, and abilities (oGCDs) you can use between them.
 
@@ -81,9 +82,9 @@ You also have a few abilities in this range. Abilities can be used between GCD s
 
 ### Role actions
 
-The role skills **Leg Graze** and **Foot Graze** are neat when solo questing but that's about it. **Peloton** is welcome by groups to get from one fight to the next a bit quicker, or to charge a boss a little faster. It does not work in combat. 
+The role skills **Leg Graze** and **Foot Graze** are neat when solo questing but that's about it. **Peloton** is welcome by groups to get from one fight to the next a bit quicker, or to charge a boss a little faster. It does not work in combat.
 
-**Second Wind** is a simple self-heal. In group content, it's best used when you take damage you could have avoided, or miss an area heal for whatever reason. You also get **Head Graze** in this level range. 
+**Second Wind** is a simple self-heal. In group content, it's best used when you take damage you could have avoided, or miss an area heal for whatever reason. You also get **Head Graze** in this level range.
 
 ### Area of effect (AoE)
 
@@ -101,7 +102,7 @@ Your single-target priorities change little here, only adding **Windbite**:
 
 ### Songs
 
-The main change at these levels is that you become a Bard! This introduces the song mechanic. 
+The main change at these levels is that you become a Bard! This introduces the song mechanic.
 
 The skills **Mage's Ballad** and **Army's Paeon** put you in a song for the next 45 seconds. During a song, every three seconds (at 42, 39, 36 etc. on the timer) you have an 80% chance to get some "Repertoire" effect. You also give the party a small buff for the duration.
 
@@ -117,7 +118,7 @@ You get a couple of potent abilities in these levels.
 
 **Battle Voice** is a powerful party buff on a two-minute cooldown. Use it with your other two-minute skills (Raging Strikes and Barrage) to get the most impact.
 
-For example, you might use Raging Strikes, then Windbite (+Mage's Ballad +Battle Voice), then Venomous Bite (+Barrage +Bloodletter) into a triple Straight Shot (+Bloodletter) to pack a lot of damage into a short window. 
+For example, you might use Raging Strikes, then Windbite (+Mage's Ballad +Battle Voice), then Venomous Bite (+Barrage +Bloodletter) into a triple Straight Shot (+Bloodletter) to pack a lot of damage into a short window.
 
 You also get **The Warden's Paean**. This utility skill cleanses or (usually) prevents debuffs with a white bar over their icon. The last role skill, **Arm's Length**, stops an attack from pushing or pulling you. It can also slow down field mobs when solo questing.
 
@@ -136,7 +137,7 @@ This is your strongest song, and enables you to keep a song running at all times
 1. The Wanderer's Minuet for 42+ seconds
 2. Mage's Ballad for 42+ seconds
 3. Army's Paeon until Wanderer's is available again
-(repeat)
+   (repeat)
 
 ### Empyreal Arrow
 
@@ -163,11 +164,11 @@ Each line here is a GCD plus up to two oGCDs you'd use before the next one:
 
 1. Windbite (The Wanderer's Minuet + Raging Strikes)
 2. Venomous Bite (Empyreal Arrow + Bloodletter)
-3. Heavy Shot (Battle Voice) 
+3. Heavy Shot (Battle Voice)
 4. Heavy Shot / Straight Shot (Barrage if Straight Shot is not proc'd)
 5. Heavy Shot / Straight Shot (Barrage if Straight Shot is not proc'd)
 6. Heavy Shot / Straight Shot (Bloodletter)
-7. Heavy Shot / Straight Shot 
+7. Heavy Shot / Straight Shot
 8. Heavy Shot / Straight Shot (Empyreal Arrow + Bloodletter)
 9. Iron Jaws (Pitch Perfect)
 
@@ -202,7 +203,7 @@ At level 76, your Heavy Shot upgrades to **Burst Shot**. This potency increase m
 1. The Wanderer's Minuet for 42+ seconds
 2. Mage's Ballad for 33+ seconds (change once the timer is at 12 or less)
 3. Army's Paeon until Wanderer's is available again
-(repeat)
+   (repeat)
 
 This is not a big deal, so don't worry if you mess it up from time to time at first. It's only a little bit more optimal.
 
@@ -210,11 +211,11 @@ At the same time, your proc rate for Refulgent Arrow will increase, and can also
 
 ### Apex and Blast Arrow
 
-**Apex Arrow** and the Soul Gauge unlock at level 80. The gauge simply goes up any time you get a Repertoire proc. **Blast Arrow** at level 86 adds a follow-up attack, provided you spent 80 gauge or more. 
+**Apex Arrow** and the Soul Gauge unlock at level 80. The gauge simply goes up any time you get a Repertoire proc. **Blast Arrow** at level 86 adds a follow-up attack, provided you spent 80 gauge or more.
 
-The gauge fills around once per minute on average. So the best way to time Apex uses is to try to land them under your two-minute buff windows. 
+The gauge fills around once per minute on average. So the best way to time Apex uses is to try to land them under your two-minute buff windows.
 
-That means using Apex at some point between windows. A good rule of thumb is to try and fire it before you hit 18 seconds left in Mage's Ballad. Using it early if your gauge fills early is fine too. Then sit on the gauge (even if it fills) until all your two-minute buffs are active. 
+That means using Apex at some point between windows. A good rule of thumb is to try and fire it before you hit 18 seconds left in Mage's Ballad. Using it early if your gauge fills early is fine too. Then sit on the gauge (even if it fills) until all your two-minute buffs are active.
 
 Adding them into our GCD priority:
 
@@ -224,7 +225,7 @@ Adding them into our GCD priority:
 4. Use **Refulgent Arrow** if it's available.
 5. Use **Burst Shot** otherwise.
 
-In AoE situations, Apex Arrow especially is very strong, so try to line it up to hit as many targets as you can. 
+In AoE situations, Apex Arrow especially is very strong, so try to line it up to hit as many targets as you can.
 
 ### Other Skills and Traits
 
@@ -232,6 +233,6 @@ The **Enhanced Army's Paeon** tooltip is a lot to parse out. In short, it gives 
 
 From 82-88, you'll get the Quick Nock upgrade **Ladonsbite**, a third Bloodletter charge, and a shorter Troubadour cooldown. While nice, these have little gameplay impact outside of more initial Bloodletters.
 
-- - -
+---
 
 Next is level 90 - congratulations! Check out the endgame [basics guide](/jobs/ranged/bard/basic-guide/) for a complete overview of Bard at level 90, much of which you've already read here. When you're more comfortable, you can check out the [advanced guide](/jobs/ranged/bard/advanced-guide/) for some finer details and small optimizations. Thanks for reading!

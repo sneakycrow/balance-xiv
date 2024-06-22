@@ -20,11 +20,12 @@ changelog:
   - date: 2023-05-25T16:27:10.297Z
     message: Updated skills according to the Patch 6.4 notes.
 ---
+
 # Dragoon Skills Overview
 
 ## Global Cooldown Actions (Single Target)
 
-All potencies assume level 90, meaning potency increases through traits are already included.   
+All potencies assume level 90, meaning potency increases through traits are already included.
 
 | Icon                                                           | Name            | Acronym | Level | Description                                                                                                                                                                                                                                                                                                 |
 | -------------------------------------------------------------- | --------------- | ------- | ----- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |

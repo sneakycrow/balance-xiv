@@ -22,6 +22,7 @@ tags:
   - MCH
   - FFXIV
 ---
+
 # Basic Machinist Guide
 
 Welcome to the Basic Machinist Guide! Within this document, you'll find all the information you'll need to play the job well. The links below can be used as teleports to other pages if you need the information while learning the job. Any questions can be directed to the Machinist channels in our Discord.
@@ -32,7 +33,7 @@ Welcome to the Basic Machinist Guide! Within this document, you'll find all the 
 
 [Video Guide](https://www.youtube.com/watch?v=-OPOskH-llQ)
 
-[Gearing and Meld Priority](/jobs/ranged/machinist/best-in-slot/) 
+[Gearing and Meld Priority](/jobs/ranged/machinist/best-in-slot/)
 
 [Skills Overview](/jobs/ranged/machinist/skills-overview/)
 
@@ -60,9 +61,9 @@ While reading this guide, the following image can be referenced to get a better 
 
 The most basic description of the level 90 rotation can be broken down by following these rules:
 
-* Not drifting Drill, Air Anchor, Chainsaw, or Wildfire.
-* Not overcapping resources. This includes Heat, Battery, and Gauss Round / Ricochet charges.
-* Using your flexible burst inside of raid buffs as much as possible.
+- Not drifting Drill, Air Anchor, Chainsaw, or Wildfire.
+- Not overcapping resources. This includes Heat, Battery, and Gauss Round / Ricochet charges.
+- Using your flexible burst inside of raid buffs as much as possible.
 
 The base rotation for Machinist revolves around two minute windows starting and ending with Wildfire application. Wildfire and Barrel Stabilizer are outliers in our kit as the cooldown does not scale with skill speed. While Heat and Battery will not loop perfectly due to differing Hypercharge windows in these segments, Wildfire can still be used as a landmark in the rotation for tracking other cooldowns in our kit, mechanics or even just used to help reset our rotation in case mistakes were made with some of the more strict timers.
 
@@ -99,7 +100,7 @@ Queen’s summon should be delayed if scripted downtime is about to happen. Usin
 
 While the Heat gauge may not be as flexible as the Battery gauge, there is still some finesse that can be had around its timings to make sure that you get the most out of your Hypercharge windows. Hypercharge windows can be chained together, but require a single GCD in between each window. Not only is this a good way to avoid overcapping heat during certain parts of the rotation, but it is also an excellent way of making the most out of raid buffs that may be lingering longer than a full Hypercharge window.
 
-Reassemble comes on a charge system, stacking up to two charges. Since Drill, Air Anchor and Chainsaw are all the same potency and Reassemble is no longer on a strict timer, we can place Reassemble on any three of these GCDs depending on our opening alignment, the raid buffs we have in our party, down time, and kill time. 
+Reassemble comes on a charge system, stacking up to two charges. Since Drill, Air Anchor and Chainsaw are all the same potency and Reassemble is no longer on a strict timer, we can place Reassemble on any three of these GCDs depending on our opening alignment, the raid buffs we have in our party, down time, and kill time.
 
 ![](/img/jobs/mch/2022-01-03_15-35-21-553_okaminightlight.png)
 
@@ -109,24 +110,24 @@ The basic AoE priority is as follows:
 
 **Two Targets**
 
-* The Heated Combo is a gain over Scattergun
-* Heat Blast should still be used over Auto-Crossbow
-* Bioblaster is equal to Drill as long as the entire duration of the DoT will tick
-* Reassemble priority is on Chainsaw
+- The Heated Combo is a gain over Scattergun
+- Heat Blast should still be used over Auto-Crossbow
+- Bioblaster is equal to Drill as long as the entire duration of the DoT will tick
+- Reassemble priority is on Chainsaw
 
 **Three Targets**
 
-* Flamethrower > Scattergun 
-* Auto-Crossbow becomes a gain over Heat Blast while in Hypercharge
-* Bioblaster is a gain over Drill, so long as the full duration of DoT ticks is allowed to register
+- Flamethrower > Scattergun
+- Auto-Crossbow becomes a gain over Heat Blast while in Hypercharge
+- Bioblaster is a gain over Drill, so long as the full duration of DoT ticks is allowed to register
 
 **4-6 Targets**
 
-* Reassemble priority after Chainsaw is Scattergun, overcoming Drill and Air Anchor
+- Reassemble priority after Chainsaw is Scattergun, overcoming Drill and Air Anchor
 
 **7+ Targets**
 
-* Same as above, except you should delay Air Anchor until there’s less enemies.
+- Same as above, except you should delay Air Anchor until there’s less enemies.
 
 If making the choice between what to Reassemble between Drill, Chainsaw, and Air Anchor on two target fights, Chainsaw should be the first choice, followed by Air Anchor as a second choice. You’ll never be forced to use Reassemble on Drill when at 90.
 
@@ -138,7 +139,7 @@ As far as Flamethrower is concerned, it’s equal in potency to a three-target r
 
 &nbsp;
 
-There are some niche cases where Flamethrower is a small gain on two targets but it’s heavily reliant upon phasing and current Heat and Battery gauge levels. Two target Flamethrower is something that needs to be mapped out on a per-fight-basis and should not be the standard. 
+There are some niche cases where Flamethrower is a small gain on two targets but it’s heavily reliant upon phasing and current Heat and Battery gauge levels. Two target Flamethrower is something that needs to be mapped out on a per-fight-basis and should not be the standard.
 
 # Gearing and Stat Allocation
 
@@ -158,18 +159,18 @@ Food: Listed inside gearing pages
 
 You may have noticed parts of the Machinist rotation feeling somewhat unresponsive to your button pushing. This is a common occurrence that can happen for a multitude of reasons, almost always related to poor connection to the server. What you’re experiencing is referred to as “clipping”, due to prolonged animation lock that happens when your ping exceeds the allotted time the game gives you between GCDs to use your oGCDs. Machinist suffers more than most other jobs simply because of the Hypercharge window forcing a 1.5 second GCD and also requiring you to weave between Heat Blasts. There are a few ways to handle this:
 
-* If possible, ensure you are using a wired connection. WiFi can be spotty and result in packet loss.
-* If playing on an older computer, lower graphics settings and turn off particle effects to increase your framerate. This only matters when your frame rate is so low that it is visibly affecting your gameplay.
-* Utilize a gaming VPN. Occasionally, ISPs will route your connection inefficiently, and a VPN can correct the issue by lowering packet loss and ping, creating a more stable connection to the server. Listed below are VPN options.
-* * Mudfish
-  * ExitLag
-  * WTFast
-  * Pingzapper
-  * NoPing
-  * BattlePing
+- If possible, ensure you are using a wired connection. WiFi can be spotty and result in packet loss.
+- If playing on an older computer, lower graphics settings and turn off particle effects to increase your framerate. This only matters when your frame rate is so low that it is visibly affecting your gameplay.
+- Utilize a gaming VPN. Occasionally, ISPs will route your connection inefficiently, and a VPN can correct the issue by lowering packet loss and ping, creating a more stable connection to the server. Listed below are VPN options.
+- - Mudfish
+  - ExitLag
+  - WTFast
+  - Pingzapper
+  - NoPing
+  - BattlePing
 
 A full explanation on how VPNs work and how to check your ping for FFXIV specifically can be found in [this guide](https://www.icy-veins.com/ffxiv/vpn-guide-for-ffxiv). The best VPN for you will differ based on location and ISP. It’s suggested that you try all possible options before deciding on one since they do cost money to use on top of your sub. Most, if not all of these should come with free trials so you can see if they help your connection.
 
-After attempting to fix these issues with the above suggestions, the only thing you can really do without the use of illegal ToS breaking software, is adjust your rotation in a way that won’t have you doing double Hypercharge windows. This lessens the need to weave between Heat Blasts. As long as you’re capable of getting all six GCDs in Wildfire while also not overcapping on Gauss Round and Ricochet, you should have no issues playing the job. 
+After attempting to fix these issues with the above suggestions, the only thing you can really do without the use of illegal ToS breaking software, is adjust your rotation in a way that won’t have you doing double Hypercharge windows. This lessens the need to weave between Heat Blasts. As long as you’re capable of getting all six GCDs in Wildfire while also not overcapping on Gauss Round and Ricochet, you should have no issues playing the job.
 
 If you’re on a PC, and you’re okay with the morality issues of injection based programs, [QuickLauncher](https://github.com/goatcorp/FFXIVQuickLauncher) has a plug-in called [NoClippy](https://github.com/UnknownX7/NoClippy) that will help your clipping issue. This program will simulate a low ping environment specifically for the animation lock of combat actions. This will not actually lower your ping or make your connection to the servers any more stable than it already is or isn’t. The instructions on how to enable NoClippy are listed on the GitHub page. While I’ve not heard of anyone being punished by Square Enix for using programs like this, the reality of the situation is they could potentially endanger your service account. Please keep this in mind if you decide to use QuickLauncher and any plug-in associated with it.

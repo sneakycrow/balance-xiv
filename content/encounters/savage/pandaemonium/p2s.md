@@ -44,26 +44,26 @@ The Second Circle (Savage) is the first raid encounter in the Pandaemonium serie
 
 One of:
 
-* Asphodelos Head Gear Coffer
-* Asphodelos Hand Gear Coffer
-* Asphodelos Foot Gear coffer
+- Asphodelos Head Gear Coffer
+- Asphodelos Hand Gear Coffer
+- Asphodelos Foot Gear coffer
 
 **Chest Two**:
 
 One of:
 
-* Asphodelos Head Gear Coffer
-* Asphodelos Hand Gear Coffer
-* Asphodelos Foot Gear coffer
+- Asphodelos Head Gear Coffer
+- Asphodelos Hand Gear Coffer
+- Asphodelos Foot Gear coffer
 
 Both of:
 
-* Discal Tomestone
-* Radiant Coating
+- Discal Tomestone
+- Radiant Coating
 
 **Token**
 
-* Asphodelos Mythos II
+- Asphodelos Mythos II
 
 Six of these tokens can be traded in for head, hand, or foot gear at a Pandaemonium gear vendor. Four of these tokens can be traded in for a Radiant Coating.
 
@@ -111,8 +111,8 @@ The Hippokampos will jump to a random safe raised platform and do a knockback fr
 
 Inflicts a random tank and random DPS with Mark of the Tides and a random healer with Mark of the Depths.
 
-* When Mark of the Tides expires, the player will pulse a large AoE that knocks back players in the radius.
-* When Mark of the Depths expires, the player will pulse a large AoE that deals magic damage to all players in the radius.
+- When Mark of the Tides expires, the player will pulse a large AoE that knocks back players in the radius.
+- When Mark of the Depths expires, the player will pulse a large AoE that deals magic damage to all players in the radius.
 
 **Channeling Flow**
 
@@ -144,18 +144,18 @@ Three sets of AoE markers appear under all players. Bait these and move together
 
 ### Phase 1
 
-* The fight starts off with a raidwide, a dual tank buster, and another heavy raidwide. Sewage Deluge deals massive damage, so it's important to use extra mitigation for it.
-* After Sewage Deluge and each subsequent one, players should move to the raised platform directly opposite of the overflowing raised platform, which will be glowing. This is to make moving for mechanics easier.
-* Spoken Cataract is the same mechanic as in the Normal difficulty, while Winged Cataract has the head do an AoE behind where it is facing instead of in front. Either way, get in front of or behind where the head is facing based on the mechanic, and then move to the side of the body.
-* All players should stand further than max melee range so that the main tank can easily pick up the Coherence tether. After they pick it up, they should move to the opposite side of the arena on the drained passage (but not on the overflowing platform). The off tank should then stand in front of the stacked party to soak the line AoE stack. Both hits need to be lightly mitigated.
-* The boss will then cast Ominous Bubbling and Shockwave. All players should head towards the platform that is being Shockwaved, and hit their knockback immunity halfway through the castbar. The raid needs to split into their light parties - one group should be on the platform, and the other group should be on the drained passage leading to the platform. This is to do the light party healer stacks.
-* The party needs to move back to the platform opposite of the overflowing platform to make moving for Cataract easier.
-* For Predatory Avarice, the party needs to move to the safe spot for Spoken Cataract or Winged Cataract first. After it goes off, the debuffed tank needs to move left away from the party, and the debuffed DPS needs to move right away from the party. Move to the edge of the drained passage. All other players will take magic damage from the healer's debuff.
-* After this, the water will recede.
-* All players will get an arrow indicating the direction they are going to be pushed back. Simply head behind the grate of the direction you are being pushed to, but not overlapping with the other player. Ranged can head out a bit, and melee can be max melee as long as they are fully behind the grate. You can do DPS left and H/T right facing the middle, but adjusting is very simple. Players will all get stunned and pushed towards the middle, and collide with the player on the other side, which solves the mechanic.
-* Another dual tank buster and raidwide follow this, and then the arena will be flooded again by Sewage Deluge.
-* The boss will then jump to a platform with Shockwave, and do Kampeos Harma. It is an intermission of sorts, and the boss is untargetable during this.
-* [Here is a toolbox diagram showing how to do Kampeos Harma](https://ff14.toolboxgaming.space/?id=677343458141461&preview=1). Essentially, purple marked players will move to their respective numbered marker, while blue marked players need to bait the dashes across the arena. For blue dots, 1 and 3 will go across to where the boss jumped for Shockwave, while 2 and 4 will stay in the corner. 1 and 2 will stand in front, and after they are dashed to, they will move behind while 3 and 4 move in front.
+- The fight starts off with a raidwide, a dual tank buster, and another heavy raidwide. Sewage Deluge deals massive damage, so it's important to use extra mitigation for it.
+- After Sewage Deluge and each subsequent one, players should move to the raised platform directly opposite of the overflowing raised platform, which will be glowing. This is to make moving for mechanics easier.
+- Spoken Cataract is the same mechanic as in the Normal difficulty, while Winged Cataract has the head do an AoE behind where it is facing instead of in front. Either way, get in front of or behind where the head is facing based on the mechanic, and then move to the side of the body.
+- All players should stand further than max melee range so that the main tank can easily pick up the Coherence tether. After they pick it up, they should move to the opposite side of the arena on the drained passage (but not on the overflowing platform). The off tank should then stand in front of the stacked party to soak the line AoE stack. Both hits need to be lightly mitigated.
+- The boss will then cast Ominous Bubbling and Shockwave. All players should head towards the platform that is being Shockwaved, and hit their knockback immunity halfway through the castbar. The raid needs to split into their light parties - one group should be on the platform, and the other group should be on the drained passage leading to the platform. This is to do the light party healer stacks.
+- The party needs to move back to the platform opposite of the overflowing platform to make moving for Cataract easier.
+- For Predatory Avarice, the party needs to move to the safe spot for Spoken Cataract or Winged Cataract first. After it goes off, the debuffed tank needs to move left away from the party, and the debuffed DPS needs to move right away from the party. Move to the edge of the drained passage. All other players will take magic damage from the healer's debuff.
+- After this, the water will recede.
+- All players will get an arrow indicating the direction they are going to be pushed back. Simply head behind the grate of the direction you are being pushed to, but not overlapping with the other player. Ranged can head out a bit, and melee can be max melee as long as they are fully behind the grate. You can do DPS left and H/T right facing the middle, but adjusting is very simple. Players will all get stunned and pushed towards the middle, and collide with the player on the other side, which solves the mechanic.
+- Another dual tank buster and raidwide follow this, and then the arena will be flooded again by Sewage Deluge.
+- The boss will then jump to a platform with Shockwave, and do Kampeos Harma. It is an intermission of sorts, and the boss is untargetable during this.
+- [Here is a toolbox diagram showing how to do Kampeos Harma](https://ff14.toolboxgaming.space/?id=677343458141461&preview=1). Essentially, purple marked players will move to their respective numbered marker, while blue marked players need to bait the dashes across the arena. For blue dots, 1 and 3 will go across to where the boss jumped for Shockwave, while 2 and 4 will stay in the corner. 1 and 2 will stand in front, and after they are dashed to, they will move behind while 3 and 4 move in front.
 
 ### Ability Order
 
@@ -182,22 +182,22 @@ Kampeos Harma
 
 ### Phase 2
 
-* After Kampeos Harma, there will be a tank buster and raidwide. The boss will then do Channeling Overflow.
-* All players will be marked with Mark of the Tides, the arrow debuff from Channeling Flow. However, there will two different durations of debuffs, as the water is still overflowing.
-* Players will have to use the drained passages and platforms to resolve this mechanic.
-  * To do Mark of the Tides during this phase, players simply have to move to the edge of the platform horizontally or vertically long and safe.
-  * The players whose debuffs are expiring first should head to the edge where they will be knocked into another player.
-  * Players whose debuffs are expiring second should go to the drained passages not in the path of these players, and spread for Tainted Flood. Players with Tainted Flood are fine as long as they are not hitting any other player or in the path of a marked player. Use the image below as a reference.
+- After Kampeos Harma, there will be a tank buster and raidwide. The boss will then do Channeling Overflow.
+- All players will be marked with Mark of the Tides, the arrow debuff from Channeling Flow. However, there will two different durations of debuffs, as the water is still overflowing.
+- Players will have to use the drained passages and platforms to resolve this mechanic.
+  - To do Mark of the Tides during this phase, players simply have to move to the edge of the platform horizontally or vertically long and safe.
+  - The players whose debuffs are expiring first should head to the edge where they will be knocked into another player.
+  - Players whose debuffs are expiring second should go to the drained passages not in the path of these players, and spread for Tainted Flood. Players with Tainted Flood are fine as long as they are not hitting any other player or in the path of a marked player. Use the image below as a reference.
 
 ![](https://i.imgur.com/vYcJBzZ.jpeg)
 
-* Get together and heal up, and do the same mechanic but with reversed groups - the players that previously had to do Mark of the Tides will have Tainted Flood, and vice-versa.
-* The water will then recede.
-* Predatory Avarice will occur again, but this time with a Dissociation and a Spoken Cataract or Winged Cataract. This leaves one quadrant of the arena safe to do Predatory Avarice's debuffs.
-* The party should stand directly in front of the boss on the safe spot. The DPS with the debuff should always go to the corner and the tank with the debuff should go to the safe spot at the wall not at the corner. Both players should be as close to the dangerous zone as possible to ensure no players are hit with their debuffs.
-* Afterwards, Dissociation will happen with baited AoEs. Players need to stand on a numbered marker. Once the AoEs from Sewage Eruption appear under them, everyone should move towards on the safe side as a group to bait these AoEs.
-* Afterwards, spread for Tainted Flood and do Coherence. The party should stack in one corner and the main tank should bring the tether to the opposite side. The off tank needs to stand in front of the stack.
-* After another dual tank buster and raidwide, the boss will flood the arena with Sewage Deluge for the final time in the fight.
+- Get together and heal up, and do the same mechanic but with reversed groups - the players that previously had to do Mark of the Tides will have Tainted Flood, and vice-versa.
+- The water will then recede.
+- Predatory Avarice will occur again, but this time with a Dissociation and a Spoken Cataract or Winged Cataract. This leaves one quadrant of the arena safe to do Predatory Avarice's debuffs.
+- The party should stand directly in front of the boss on the safe spot. The DPS with the debuff should always go to the corner and the tank with the debuff should go to the safe spot at the wall not at the corner. Both players should be as close to the dangerous zone as possible to ensure no players are hit with their debuffs.
+- Afterwards, Dissociation will happen with baited AoEs. Players need to stand on a numbered marker. Once the AoEs from Sewage Eruption appear under them, everyone should move towards on the safe side as a group to bait these AoEs.
+- Afterwards, spread for Tainted Flood and do Coherence. The party should stack in one corner and the main tank should bring the tether to the opposite side. The off tank needs to stand in front of the stack.
+- After another dual tank buster and raidwide, the boss will flood the arena with Sewage Deluge for the final time in the fight.
 
 ### Ability Order
 
@@ -224,13 +224,13 @@ Sewage Deluge
 
 ### Phase 3
 
-* The final Channeling Overflow is the final challenge in the fight. The party should move to the raised platform opposite of the overflowing platform. All players should stand at max melee range. 
-* As soon as players receive their debuffs, the players that need to move to position for Mark of the Tides should do so. Right after, the tether will appear. The tank that does not have Mark of the Tides going off first needs to pick up this tether, which is either on the party or outside on a player, and move to the opposite end of the arena just like before (but not on the overflowing platform).
-* Players who do not have Mark of the Tides going off first should move to the corner of the platform they were on to dodge the pushed players. Right after the push back, Coherence will go off - the tank that was pushed back needs to stand in front of the group. Players will need to be healed up from the collisions as soon as possible.
-* After this, the second set of players needs to do their Mark of the Tides. All other players stand on the corner of the platform. Heal up and stay on the platform opposite of the overflowing platform.
-* There is another Dissociation and Sewage Eruption pattern. Players should stay on their current platform and wait for the AoEs to appear, then move as a group to or on the safe side.
-* Return to the platform opposite of the overflowing platform. Do Shockwave and Ominous Bubbling the same as before. Afterwards, there is a dual tank buster, so move away from the tanks.
-* Do damage and heal up before the enrage at 10:28.
+- The final Channeling Overflow is the final challenge in the fight. The party should move to the raised platform opposite of the overflowing platform. All players should stand at max melee range.
+- As soon as players receive their debuffs, the players that need to move to position for Mark of the Tides should do so. Right after, the tether will appear. The tank that does not have Mark of the Tides going off first needs to pick up this tether, which is either on the party or outside on a player, and move to the opposite end of the arena just like before (but not on the overflowing platform).
+- Players who do not have Mark of the Tides going off first should move to the corner of the platform they were on to dodge the pushed players. Right after the push back, Coherence will go off - the tank that was pushed back needs to stand in front of the group. Players will need to be healed up from the collisions as soon as possible.
+- After this, the second set of players needs to do their Mark of the Tides. All other players stand on the corner of the platform. Heal up and stay on the platform opposite of the overflowing platform.
+- There is another Dissociation and Sewage Eruption pattern. Players should stay on their current platform and wait for the AoEs to appear, then move as a group to or on the safe side.
+- Return to the platform opposite of the overflowing platform. Do Shockwave and Ominous Bubbling the same as before. Afterwards, there is a dual tank buster, so move away from the tanks.
+- Do damage and heal up before the enrage at 10:28.
 
 ### Ability Order
 
@@ -259,20 +259,20 @@ As the fights have just released, there are no strategies set in stone. I would 
 
 ### Tank
 
-* Mitigate the tank busters, Doubled Impact and Coherence.
-* The boss is omni-directional and the boss will jump to the middle for all mechanics that require it, so there is no complicated boss movement necessary.
-* One tank can hold the boss for the entire fight.
-* Use party mitigation tools for Murky Depths, Sewage Deluge, and Ominous Bubbling.
-* For the second Channeling Overflow, the tank that has their debuffs expire second needs to take the tether.
+- Mitigate the tank busters, Doubled Impact and Coherence.
+- The boss is omni-directional and the boss will jump to the middle for all mechanics that require it, so there is no complicated boss movement necessary.
+- One tank can hold the boss for the entire fight.
+- Use party mitigation tools for Murky Depths, Sewage Deluge, and Ominous Bubbling.
+- For the second Channeling Overflow, the tank that has their debuffs expire second needs to take the tether.
 
 ### Healer
 
-* Make sure players return to the platform opposite of the overflowing raised platform between mechanics to receive healing.
-* Use heavy mitigation tools for Sewage Deluge, as this does massive damage. However, there is no incoming damage afterwards so healers can rely on healing over time to cover these.
+- Make sure players return to the platform opposite of the overflowing raised platform between mechanics to receive healing.
+- Use heavy mitigation tools for Sewage Deluge, as this does massive damage. However, there is no incoming damage afterwards so healers can rely on healing over time to cover these.
 
 ### DPS
 
-* The boss is omni-directional.
-* Use Addle and Feint for tank busters and raidwides, especially Sewage Deluge.
-* This fight has 99% uptime, with the only caveat being that it may be necessary to move early for Kampeos Harma and move out for the second Predatory Avarice.
-* Kampeos Harma occurs at around four minutes into the fight. Delay two minute raid buffs until afterwards to get full effect.
+- The boss is omni-directional.
+- Use Addle and Feint for tank busters and raidwides, especially Sewage Deluge.
+- This fight has 99% uptime, with the only caveat being that it may be necessary to move early for Kampeos Harma and move out for the second Predatory Avarice.
+- Kampeos Harma occurs at around four minutes into the fight. Delay two minute raid buffs until afterwards to get full effect.

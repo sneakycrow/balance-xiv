@@ -13,9 +13,7 @@ changelog:
     message: Added/Updated for Endwalker
 ---
 
-
 # Introduction
-
 
 This guide is intended to help you level Astrologian to level 90 from any given starting point, while also beginning to slowly suggest fundamental strategies and techniques. Habits develop early, and practice makes permanent.
 
@@ -23,10 +21,9 @@ This guide is not intended to be a complete guide on how to heal in dungeons, tr
 
 ## Gear
 
-You will continually gain gear doing role quests and in dungeons as you level, as well as gain access to various other sources of gear depending on what you are doing. If you are fresh leveling through a Main Scenario Quest (MSQ), you will be rewarded with gear, or coffers that give you access to High Quality-grade gear for your level. Additionally, as you do roulettes to gain exp you will also gain access to Tomestones of Poetics, which can be exchanged for gear of high item level (ilvl, as demarcated in-game) at levels 50, 60, 70, and 80. 
+You will continually gain gear doing role quests and in dungeons as you level, as well as gain access to various other sources of gear depending on what you are doing. If you are fresh leveling through a Main Scenario Quest (MSQ), you will be rewarded with gear, or coffers that give you access to High Quality-grade gear for your level. Additionally, as you do roulettes to gain exp you will also gain access to Tomestones of Poetics, which can be exchanged for gear of high item level (ilvl, as demarcated in-game) at levels 50, 60, 70, and 80.
 
 Gear is important on healers to ensure your spells do enough healing and enough damage from pull to pull. Please make some concerted effort to ensure your gear is relatively close to your own. It’s okay for it to be a few levels below, but once you start hitting dungeons with gear level 10 levels or lower than your own current level, it will start to get difficult.
-
 
 ## Know Your Role
 
@@ -40,28 +37,25 @@ This does not mean play so risky that someone does, in fact, die. People will in
 
 Job quests have not been re-introduced for Astrologian since Shadowbringers, but still exist up to level 70. Lots of key actions are locked behind doing these job quests. Make sure to go to the Aethenium Astrologicum in Foundation (Ishgard), see if you have any to do, and stay up to date on them at all points. Do these as you level up the job normally.
 
-
 ### Dungeons
 
-* The most important job for us is to ensure the tank of the party stays alive. It should be self-evident, but they are the ones who are best suited to hold mobs’ attention/aggro. Other party members will quickly die when incurring damage from trash mobs in pulls.
-* All healers have very strong Area of Effect (AoE) abilities that will damage multiple enemies. These are usually announced in tooltips with phrasing like “delivers an attack with a potency of 130 to target and all enemies around it”. These are your primary damage tools in dungeons. Ours is called Gravity.
-* For bosses, you want to put your Damage over Time (DoT) spell on the boss to start and keep that up as often as possible, refreshing when it falls below three seconds. Ours is called Combust.
-* Your best usage of abilities to keep a player healthy will be to use your Healing over Time (HoT) effects. On trash pulls, this will be your Aspected Benefic on the tank. During bosses, if the whole party takes damage, this will be Aspected Helios. These spells are often better uses of your time than Benefic and Helios unless the heal is needed immediately.
-* Weaving moves that are known as off-Global Cooldowns (oGCDs) will be the best way to start feeling in control of a dungeon. At higher level dungeons and higher levels of play, these will be your primary form of healing. We get more of these as we gain levels.
-
+- The most important job for us is to ensure the tank of the party stays alive. It should be self-evident, but they are the ones who are best suited to hold mobs’ attention/aggro. Other party members will quickly die when incurring damage from trash mobs in pulls.
+- All healers have very strong Area of Effect (AoE) abilities that will damage multiple enemies. These are usually announced in tooltips with phrasing like “delivers an attack with a potency of 130 to target and all enemies around it”. These are your primary damage tools in dungeons. Ours is called Gravity.
+- For bosses, you want to put your Damage over Time (DoT) spell on the boss to start and keep that up as often as possible, refreshing when it falls below three seconds. Ours is called Combust.
+- Your best usage of abilities to keep a player healthy will be to use your Healing over Time (HoT) effects. On trash pulls, this will be your Aspected Benefic on the tank. During bosses, if the whole party takes damage, this will be Aspected Helios. These spells are often better uses of your time than Benefic and Helios unless the heal is needed immediately.
+- Weaving moves that are known as off-Global Cooldowns (oGCDs) will be the best way to start feeling in control of a dungeon. At higher level dungeons and higher levels of play, these will be your primary form of healing. We get more of these as we gain levels.
 
 ### Trials and Raids
 
-* In Full Party content, Astrologian will often be the main Regen Healer of the group. Like with dungeons, your primary job is to keep the main tank and party alive. Use HoTs.
-* Try not to overheal your co-healer too much! This is very difficult to coordinate, and it is better to assume you will be the main source of healing. Try your best to see what they are doing and act accordingly, but:
-  * Minimize your time spent doing nothing. Every second lost on your Global Cooldown (GCD) will add up and lead to last Malefics in the fight, or might make you feel more ‘behind the damage upkeep’. Playing safe and reactionary to damage often is actually more dangerous than keeping high uptime on your GCD.
-  * Some higher level content will have healer-specific mechanics. These vary from fight to fight. Otherwise, play the fight as if you were a caster DPS job.
-* There is a healer mechanic that does rarely show up to be mindful of, known as “Doom”, eponymous with the debuff’s name that the mechanic revolves around. Not all “Doom” debuffs are the same, but if you see “Doom” ever, it is possibly a mechanic that requires the person to be healed to 100% max HP or the effect removed with Esuna. This is very rare and you may never see it, but be mindful of it.
-
+- In Full Party content, Astrologian will often be the main Regen Healer of the group. Like with dungeons, your primary job is to keep the main tank and party alive. Use HoTs.
+- Try not to overheal your co-healer too much! This is very difficult to coordinate, and it is better to assume you will be the main source of healing. Try your best to see what they are doing and act accordingly, but:
+  - Minimize your time spent doing nothing. Every second lost on your Global Cooldown (GCD) will add up and lead to last Malefics in the fight, or might make you feel more ‘behind the damage upkeep’. Playing safe and reactionary to damage often is actually more dangerous than keeping high uptime on your GCD.
+  - Some higher level content will have healer-specific mechanics. These vary from fight to fight. Otherwise, play the fight as if you were a caster DPS job.
+- There is a healer mechanic that does rarely show up to be mindful of, known as “Doom”, eponymous with the debuff’s name that the mechanic revolves around. Not all “Doom” debuffs are the same, but if you see “Doom” ever, it is possibly a mechanic that requires the person to be healed to 100% max HP or the effect removed with Esuna. This is very rare and you may never see it, but be mindful of it.
 
 ## Levels 15-50
 
-While you can only access Astrologian at level 30, you can sync as low as level 15 (Sastasha). You want to be following the basic priority system as outlined above: using HoTs before Benefic and Helios if you have access to them, weave as many oGCDs between GCDs while your GCD itself is still on cooldown, and doing damage as much as possible. If the mob in question will live for at least 15 seconds, use Combust before Malefic. 
+While you can only access Astrologian at level 30, you can sync as low as level 15 (Sastasha). You want to be following the basic priority system as outlined above: using HoTs before Benefic and Helios if you have access to them, weave as many oGCDs between GCDs while your GCD itself is still on cooldown, and doing damage as much as possible. If the mob in question will live for at least 15 seconds, use Combust before Malefic.
 
 Essential Dignity is a very powerful ability you will always have access to, since it is unlocked at level 15. This ability is an oGCD heal that gives a strong burst of healing based on the target’s missing HP, capped at 30% total remaining HP. Try to hold off using this ability until the tank is somewhere between 30-50% remaining HP to feel its true effect.
 
@@ -80,8 +74,8 @@ Lastly, level 50 will also unlock Synastry. Synastry will grant a given target a
 \
 At this level you will unlock Collective Unconscious (CUnc, or CU). CUnc is an ability (meaning it is an oGCD) that has two key effects. The first will give everyone inside the effective radius a buff that reduces their damage taken by 10%. This buff is interesting in the following ways:
 
-* This buff is applied instantly when the button is pressed.
-* The buff will disappear after the first server tick it recognizes you are no longer holding the bubble. This means, if you use the ability and let go immediately, everyone will get the buff and it is guaranteed to last at least three seconds, usually longer.
+- This buff is applied instantly when the button is pressed.
+- The buff will disappear after the first server tick it recognizes you are no longer holding the bubble. This means, if you use the ability and let go immediately, everyone will get the buff and it is guaranteed to last at least three seconds, usually longer.
 
 Additionally, this ability will also give everyone in its radius a potent HoT that will total 500 potency over 15 seconds. You do not have to hold the bubble down for a long period of time to catch one instance of damage, and please do not try to maximize holding this ability down to continue refreshing the HoT. You are better off continuing to do damage after you have weaved it in briefly.
 
@@ -97,19 +91,17 @@ Ah, Earthly Star. One of the most iconic abilities for Astrologian. This ability
 \
 You place down the ability. It is a ground-targeted one, which will make sense when you try to use it. If used immediately, it will then have:
 
-* A healing potency of 540 and a damage potency of 205
+- A healing potency of 540 and a damage potency of 205
 
 If you wait 10 seconds, the Earthly Star will become a Giant Star, and Stellar Burst will now become Stellar Detonation. It will now have:
 
-* A healing potency of 710, and a damage potency of 310
+- A healing potency of 710, and a damage potency of 310
 
 In essence, you want to place this ability down ahead of time, before the healing needs to be done. Use this ability often! 310 potency is a lot of damage. Do not hold this ability just for the heal, even as potent as it is. Start using it right as the tank starts setting their feet in dungeons, and a bit before you would want to use the heal in the first place in Full Party content.
 
 ### Level 70: Minor Arcana
 
 Minor Arcana is an ability like Draw in some ways. It will gain you either a Lord or Lady of Crowns, which can then be executed using Crown Play. Lord of Crowns is an AoE damage ability, Lady of Crowns is an AoE heal. Be as aggressive with this as you can, but making sure Draw’s cooldown is cycling is more important.
-
-
 
 ## Levels 71-80
 
@@ -119,7 +111,7 @@ Celestial Intersection is an ability which heals the target for a small amount (
 
 ### Level 76: Horoscope
 
-Horoscope is a fascinating oGCD which might be more confusing in the tooltip than it is in practice. Horoscope is an oGCD buff on all targets within 20 yalms of you. You can reactivate this ability immediately to again lightly heal all targets with the Horoscope buff within 20 yalms within 10 seconds. 
+Horoscope is a fascinating oGCD which might be more confusing in the tooltip than it is in practice. Horoscope is an oGCD buff on all targets within 20 yalms of you. You can reactivate this ability immediately to again lightly heal all targets with the Horoscope buff within 20 yalms within 10 seconds.
 
 If you heal a target with the Horoscope buff with either Helios or Aspected Helios, it is upgraded to the Horoscope Helios buff. This will refresh the buff timer and increase its duration to 30 seconds, and upgrade the heal from 200 potency to 400 potency.
 

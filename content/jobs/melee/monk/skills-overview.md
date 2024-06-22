@@ -12,6 +12,7 @@ changelog:
   - date: 2023-05-30T00:32:11.375Z
     message: Updated to 6.4
 ---
+
 # Single Target GCDs
 
 Monk has six core single-target GCDs:
@@ -34,7 +35,7 @@ Monk has three core AOE GCDs, one for each of its forms:
 | ----------------------------------------------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 | ![](https://xivapi.com/i/002000/002979_hr1.png) | Opo-Opo form has **Shadow of the Destroyer**, a circle AoE around you with 110 potency which becomes a guaranteed critical hit when executed with its form bonus.          |
 | ![](https://xivapi.com/i/002000/002544_hr1.png) | Raptor form has **Four-Point Fury**, another circle AoE around you with 120 potency. It also grants a 15% damage increase buff, Discipled Fist, that lasts for 15 seconds. |
-| ![](https://xivapi.com/i/002000/002529_hr1.png) | Coeurl form has **Rockbreaker**, *another* circle AoE around you with 130 potency.                                                                                         |
+| ![](https://xivapi.com/i/002000/002529_hr1.png) | Coeurl form has **Rockbreaker**, _another_ circle AoE around you with 130 potency.                                                                                         |
 
 # The Form System
 
@@ -42,13 +43,13 @@ Forms are a concept unique to Monk, and is what separates it from standard combo
 
 Monks have three forms: Opo-Opo, Raptor, and Coeurl:
 
-* In Opo-Opo form, Bootshine, Dragon Kick, and Shadow of the Destroyer gain additional effects. Using an Opo-opo GCD grants Raptor form.
-* In Raptor form, True Strike, Twin Snakes, and Four-point Fury gain additional effects. Using a Raptor GCD grants Coeurl form.
-* In Coeurl form, Demolish, Snap Punch, and Rockbreaker gain additional effects. Using a Coeurl GCD grants Opo-opo form.
+- In Opo-Opo form, Bootshine, Dragon Kick, and Shadow of the Destroyer gain additional effects. Using an Opo-opo GCD grants Raptor form.
+- In Raptor form, True Strike, Twin Snakes, and Four-point Fury gain additional effects. Using a Raptor GCD grants Coeurl form.
+- In Coeurl form, Demolish, Snap Punch, and Rockbreaker gain additional effects. Using a Coeurl GCD grants Opo-opo form.
 
 # Opening Inner Chakra
 
-Chakra is the simpler of Monk's two job gauges.  Chakra can be stacked up to five times. At five stacks, it can be spent to execute either of the following two oGCDs:
+Chakra is the simpler of Monk's two job gauges. Chakra can be stacked up to five times. At five stacks, it can be spent to execute either of the following two oGCDs:
 
 | Icon                                            | Name                 | Cooldown | Effect                                                               |
 | ----------------------------------------------- | -------------------- | -------- | -------------------------------------------------------------------- |
@@ -57,23 +58,23 @@ Chakra is the simpler of Monk's two job gauges.  Chakra can be stacked up to fiv
 
 There are multiple ways to generate Chakra.
 
-|                                                 |                                                                                                                                                                                                                                                                                                                                                                                                                                                              |
-| ----------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
-| ![](https://xivapi.com/i/002000/002534_hr1.png) | Meditation is a GCD with a one-second cooldown that opens a single Chakra upon being pressed. When outside of combat, it generates five stacks of Chakra instantly.                                                                                                                                                                                                                                                                                          |
-| ![](https://xivapi.com/i/005000/005238_hr1.png) | Deep Meditation I & II are two job traits. Deep Meditation I grants an 80% chance of generating a Chakra upon landing a critical weaponskill. Deep Meditation II increases that 80% chance into a 100% chance.                                                                                                                                                                                                                                               |
-| ![](https://xivapi.com/i/002000/002542_hr1.png) | Brotherhood has multiple effects, but specifically as to Chakra generation, upon execution, all party members within 30 yalms will gain the effect of Meditative Brotherhood for 15 seconds.  While this buff is active on an ally, every time they execute a weaponskill or a spell, there is a 20% chance of gaining a stack of Chakra. While the buff is active on yourself, you have a 100% chance to gain a Chakra each time you execute a weaponskill. |
+|                                                 |                                                                                                                                                                                                                                                                                                                                                                                                                                                             |
+| ----------------------------------------------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| ![](https://xivapi.com/i/002000/002534_hr1.png) | Meditation is a GCD with a one-second cooldown that opens a single Chakra upon being pressed. When outside of combat, it generates five stacks of Chakra instantly.                                                                                                                                                                                                                                                                                         |
+| ![](https://xivapi.com/i/005000/005238_hr1.png) | Deep Meditation I & II are two job traits. Deep Meditation I grants an 80% chance of generating a Chakra upon landing a critical weaponskill. Deep Meditation II increases that 80% chance into a 100% chance.                                                                                                                                                                                                                                              |
+| ![](https://xivapi.com/i/002000/002542_hr1.png) | Brotherhood has multiple effects, but specifically as to Chakra generation, upon execution, all party members within 30 yalms will gain the effect of Meditative Brotherhood for 15 seconds. While this buff is active on an ally, every time they execute a weaponskill or a spell, there is a 20% chance of gaining a stack of Chakra. While the buff is active on yourself, you have a 100% chance to gain a Chakra each time you execute a weaponskill. |
 
 # Beast Chakra
 
 Beast Chakra is a new Monk job gauge in Endwalker, and hinges around the changes to Perfect Balance.
 
-Perfect Balance has a similar effect as it did previously -- nullifying form requirements -- however now it has two charges and a 40s cooldown.  Upon executing a weaponskill, it grants a Chakra of the corresponding Form.  These Beast Chakra can now be spent on one of 4 new Blitz weaponskills. depending on the Chakra  accumulated.
+Perfect Balance has a similar effect as it did previously -- nullifying form requirements -- however now it has two charges and a 40s cooldown. Upon executing a weaponskill, it grants a Chakra of the corresponding Form. These Beast Chakra can now be spent on one of 4 new Blitz weaponskills. depending on the Chakra accumulated.
 
 |                                                 |                                                                                                                                                                                                                                                                    |
 | ----------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
 | ![](https://xivapi.com/i/002000/002533_hr1.png) | With three of the **same** type of Beast Chakra, Masterful Blitz is upgraded to **Elixir Field**, an AoE with a potency of 600 that deals 70% less damage to all subsequent targets hit. Using Elixir Field will grant a Lunar Nadi.                               |
 | ![](https://xivapi.com/i/002000/002980_hr1.png) | With three **different** Beast Chakra, Masterful Blitz is upgraded to **Rising Phoenix**, an AoE with a potency of 700 that deals 70% less damage to all subsequent targets hit. Using Rising Phoenix will grant a Solar Nadi.                                     |
-| ![](https://xivapi.com/i/002000/002977_hr1.png) | With **two** different Beast Chakra, Masterful Blitz is upgraded to **Celestial Revolution**, a single-target attack with a potency of 450. Using Celestial Revolution will grant  a Lunar Nadi by default, or a Solar Nadi if a Lunar Nadi is already active.     |
+| ![](https://xivapi.com/i/002000/002977_hr1.png) | With **two** different Beast Chakra, Masterful Blitz is upgraded to **Celestial Revolution**, a single-target attack with a potency of 450. Using Celestial Revolution will grant a Lunar Nadi by default, or a Solar Nadi if a Lunar Nadi is already active.      |
 | ![](https://xivapi.com/i/002000/002981_hr1.png) | If both a Solar and Lunar Nadi are active, any combination of three Beast Chakra will upgrade Masterful Blitz to **Phantom Rush**, an AoE with a potency of 1150 potency that deals 50% less damage to all subsequent targets hit. It consumes both Nadi upon use. |
 
 # Other oGCDs
@@ -84,4 +85,4 @@ In terms of other oGCDs, Monk has three core buffs:
 | ----------------------------------------------- | --------------- | --------------- | -------------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 | ![](https://xivapi.com/i/002000/002541_hr1.png) | Riddle of Fire  | 60s             | 20s            | Increases damage dealt by 15%.                                                                                                                                          |
 | ![](https://xivapi.com/i/002000/002542_hr1.png) | Brotherhood     | 120s            | 15s            | Applies two effects to you and all party members within 30 yalms. The first is a 5% damage increase. The second is Meditative Brotherhood, which helps generate Chakra. |
-| ![](https://xivapi.com/i/000000/000217_hr1.png) | Perfect Balance | 40s (2 charges) | 20s / 3 stacks | Enables the use of any GCD as if you have its form bonus.  Also grants Beast Chakra corresponding to GCDs used.                                                         |
+| ![](https://xivapi.com/i/000000/000217_hr1.png) | Perfect Balance | 40s (2 charges) | 20s / 3 stacks | Enables the use of any GCD as if you have its form bonus. Also grants Beast Chakra corresponding to GCDs used.                                                          |
