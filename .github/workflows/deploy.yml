@@ -1,10 +1,11 @@
 # https://github.com/actions/deploy-pages#usage
-name: Deploy to GitHub Pages
+name: build & deploy
 on:
   workflow_dispatch:
   push:
     branches:
       - main
+  pull_request:
 
 concurrency:
   group: ${{ github.workflow }}-${{ github.ref }}
@@ -30,6 +31,8 @@ jobs:
           path: ./.output/public
   # Deployment job
   deploy:
+    # Only do this on the main branch, that way we can use the build job to test PRs
+    if: github.ref == 'refs/heads/main'
     # Add a dependency to the build job
     needs: build
     # Grant GITHUB_TOKEN the permissions required to make a Pages deployment
