@@ -99,6 +99,7 @@ module.exports = {
       },
       backgroundImage: {
         endwalker: "url('/endwalker@2x.png')",
+        paladin: "url('/assets/jobs/tanks/paladin/background.png')"
       },
     },
   },

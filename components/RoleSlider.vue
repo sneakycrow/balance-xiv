@@ -62,7 +62,7 @@
                                 :src="job.icon"
                             />
                             <a
-                                href="#"
+                                :href="`/${role?.slug}/${job.slug}`"
                                 class="text-link-orange mt-2 hidden md:block font-sans font-bold tracking-wide"
                                 >Guides & Resources »</a
                             >
@@ -78,6 +78,7 @@
 <script lang="ts">
 import { ref } from "vue";
 import { register } from "swiper/element/bundle";
+import type { PartialRole } from "~/models/PartialRole";
 // initialize swiper web components
 register();
 export default {
@@ -92,20 +93,7 @@ export default {
         const { data } = await useAsyncData("data", () =>
             queryContent("/roles").findOne(),
         );
-        // TODO: Replace with type for actual role json
-        type PartialRole = {
-            order: number;
-            slug: string;
-            jobs: PartialJob[]
-            description: string;
-            name: string;
-            nameSingular: string;
-        }
-        type PartialJob = {
-            slug: string;
-            name: string;
-            description: string;
-        }
+
         const roles: PartialRole[] = data.value?.roles.toSorted((a: PartialRole, b: PartialRole) => a.order - b.order);
         // Job Images
         // We use the slug of the role/job to parse the relevant image from the assets directory
@@ -195,3 +183,4 @@ export default {
     },
 };
 </script>
+
