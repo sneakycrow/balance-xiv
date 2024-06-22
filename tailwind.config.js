@@ -99,6 +99,7 @@ module.exports = {
       },
       backgroundImage: {
         endwalker: "url('/endwalker@2x.png')",
+        'join-community': "url('/join-community.png')",
       },
     },
   },
