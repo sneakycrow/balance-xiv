@@ -2,6 +2,7 @@
   <header
     class="bg-endwalker bg-center bg-cover relative h-64 md:h-96 mt-10 lg:mt-0"
   >
+    <BalanceNavigation />
     <div
       class="absolute top-16 left-0 w-full flex items-center justify-center my-20 z-10"
     >
