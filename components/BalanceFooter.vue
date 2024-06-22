@@ -7,18 +7,17 @@
       <div class="grid grid-cols-3 mt-16 justify-evenly">
         <div class="flex flex-col w-1/2 sm:w-1/3">
           <h3 class="">Combat Jobs</h3>
-          <ul class="">
-            <li><a href="/jobs/casters/">Casters</a></li>
-            <li><a href="/jobs/healers/">Healers</a></li>
-            <li><a href="/jobs/melee/">Melee</a></li>
-            <li><a href="/jobs/ranged/">Ranged</a></li>
-            <li><a href="/jobs/tanks/">Tanks</a></li>
+          <ul v-for="item in combatNavItems" :key="item.id">
+            <li>
+              <a :href="item.href">{{ item.copy }}</a>
+            </li>
           </ul>
         </div>
         <div class="flex-auto col-start-3">
           <h3 class="">Info</h3>
           <ul class="">
-            <li><a href="/pages/credits/">Credits</a></li>
+            <!-- Replace with credits page link when created -->
+            <li><a href="#">Credits</a></li>
           </ul>
         </div>
       </div>
@@ -35,5 +34,17 @@
 <script lang="ts">
 export default {
   name: "BalanceFooter",
+  setup() {
+    const combatNavItems = ref([
+      // These temporarily have "#" as the href until the pages are created
+      { id: "casters", href: "#", copy: "Casters" },
+      { id: "healers", href: "#", copy: "Healers" },
+      { id: "melee", href: "#", copy: "Melee" },
+      { id: "ranged", href: "#", copy: "Ranged" },
+      { id: "tanks", href: "#", copy: "Tanks" },
+    ]);
+
+    return { combatNavItems };
+  },
 };
 </script>
