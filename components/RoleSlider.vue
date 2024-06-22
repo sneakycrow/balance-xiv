@@ -78,7 +78,8 @@
 <script lang="ts">
 import { ref } from "vue";
 import { register } from "swiper/element/bundle";
-import type { PartialRole } from "~/models/PartialRole";
+import type { Role, RoleImage } from "~/models/Role";
+import type { Glob } from "~/models/Glob";
 // initialize swiper web components
 register();
 export default {
@@ -94,29 +95,16 @@ export default {
             queryContent("/roles").findOne(),
         );
 
-        const roles: PartialRole[] = data.value?.roles.toSorted((a: PartialRole, b: PartialRole) => a.order - b.order);
+        const roles: Role[] = data.value?.roles.toSorted((a: Role, b: Role) => a.order - b.order);
         // Job Images
         // We use the slug of the role/job to parse the relevant image from the assets directory
         // Icons for jobs should be /assets/jobs/{role-slug}/{job-slug}/icon.svg
         // Icons for roles should be /assets/jobs/{role-slug}/icon.svg
-        type ExpectedGlob = {
-            [key: string]: {
-                default: string;
-            };
-        }
-        const rolesGlob: ExpectedGlob = import.meta.glob("@/assets/jobs/**/*.svg", {
+
+        const rolesGlob: Glob = import.meta.glob("@/assets/jobs/**/*.svg", {
             eager: true,
         });
-        type RoleImage = {
-            slug: string;
-            icon: string;
-            icon_white: string;
-            jobs: JobImage[]
-        }
-        type JobImage = {
-            slug: string;
-            icon: string;
-        }
+
         const roleImages: RoleImage[] = roles.map((role) => {
             // Use the slug of the role to get the role icon
             const { slug: roleSlug } = role;
