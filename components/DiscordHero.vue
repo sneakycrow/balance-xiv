@@ -1,10 +1,13 @@
 <template>
-  <a class="block" href="https://discord.gg/thebalanceffxiv">
+  <a
+    class="flex w-full justify-start"
+    href="https://discord.gg/thebalanceffxiv"
+  >
     <div
-      class="bg-join-community bg-cover bg-center my-24 px-4 pt-12 pb-36 sm:pb-12"
+      class="bg-join-community bg-cover bg-center my-24 px-20 pt-12 pb-36 sm:pb-12 w-full"
     >
-      <div class="container mx-auto">
-        <div class="mx-4 sm:mx-14">
+      <div class="mx-auto">
+        <div>
           <h1 class="text-md sm:text-2xl pb-2 uppercase font-bold mb-0">
             Join the community
           </h1>
