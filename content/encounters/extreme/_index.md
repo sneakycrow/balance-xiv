@@ -1,8 +1,8 @@
 ---
 # menu:
 # main:
-    name: Extreme
-    parent: encounters
+name: Extreme
+parent: encounters
 # layout: encounters/list
 # title: Extreme
 # difficulty: extreme

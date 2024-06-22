@@ -17,9 +17,11 @@ qna:
     answer: The highest available Strength potion. Currently, that is **Grade 8
       Tincture of Strength**. Current food is **Baked Eggplant.** Always use
       High Quality!
-  - question: Why do we use Arcane Circle halfway through the GCD instead of in the
+  - question:
+      Why do we use Arcane Circle halfway through the GCD instead of in the
       second weave space?
-    answer: Plentiful Harvest cannot be used for 6.7s after using Arcane Circle. You
+    answer:
+      Plentiful Harvest cannot be used for 6.7s after using Arcane Circle. You
       must early weave it or it will cause a clip if used where it is in the
       openers. The only way to avoid clipping if you do not early weave Arcane
       Cirlce is for Plentiful Harvest, and therefore your burst, to be delayed
@@ -28,7 +30,8 @@ qna:
       faster.
   - question: Why do we use Arcane Circle so early in the opener when it is
       misaligned from other buffs?
-    answer: Due to the nature of Plentiful Harvest being tied to Arcane Circle, we
+    answer:
+      Due to the nature of Plentiful Harvest being tied to Arcane Circle, we
       are forced to use Arcane Circle early in the opener in order to fit the
       most potency under buffs. If we do Arcane Circle later, Plentiful Harvest
       is available later, meaning we end up pushing the end of our opener out of
@@ -40,16 +43,19 @@ qna:
       the rest of the fight. See the Two Minute Burst Window section of the
       Advanced Guide for more details.
   - question: How do we properly use Harvest Moon/Harpe?
-    answer: Harpe should be used prepull in the opener and when you are forced out
+    answer:
+      Harpe should be used prepull in the opener and when you are forced out
       of melee range for at least one GCD, provided it is not possible to keep
       your melee GCDs rolling. Harvest Moon should always be used for this
       instead, if it is available. Otherwise, Harvest Moon should be used for
       AoE, if applicable, or used in place of a weaker GCD for an overall
       potency gain. Harvest Moon uses will very much be a fight-specific
       optimization and there is no "this is always the best way to use it."
-  - question: Why do we precast Harpe instead of using Harvest Moon or just running
+  - question:
+      Why do we precast Harpe instead of using Harvest Moon or just running
       in and immediately doing Shadow of Death?
-    answer: Using a casted ability before the countdown is finished does two things.
+    answer:
+      Using a casted ability before the countdown is finished does two things.
       1. It starts your GCD clock early without early pulling. 2. The damage
       doesn't go out until the cast is finished which means the damage does not
       land until the countdown reaches 0. By the time you actually reach the
@@ -62,9 +68,11 @@ qna:
       precast Harpe will gain you a stronger GCD in the phase due to fight
       phasing or kill time. Consult fight-specific resources for more
       information.
-  - question: When should we refresh Death's Design?/How often should we use Shadow
+  - question:
+      When should we refresh Death's Design?/How often should we use Shadow
       of Death?
-    answer: Use Shadow of Death before Death's Design falls off, or as needed for
+    answer:
+      Use Shadow of Death before Death's Design falls off, or as needed for
       filler for even-minute burst windows. See the Advanced Guide for more info
       on even-minute burst windows.
   - question: What is the difference between Blood Stalk, Unveiled Gibbets, and
@@ -75,7 +83,8 @@ qna:
       will never use the base form unless you drop the Enhanced Gallows/Gibbet
       buff (aside from once in the opener if you do not have Gluttony yet).
   - question: How does Soul Reaver work?
-    answer: "Gluttony gives 2 Soul Reaver stacks. Blood Stalk (as well as Unveiled
+    answer:
+      "Gluttony gives 2 Soul Reaver stacks. Blood Stalk (as well as Unveiled
       Gibbet/Gallows) gives 1 Soul Reaver stack. Soul Reaver allows for the
       execution of Gibbet and Gallows. Any ability that grants Soul Reaver MUST
       be followed by Gibbet or Gallows, or the Soul Reaver stack will be lost. "
@@ -95,14 +104,16 @@ qna:
       Reaping -> Shadow of Death -> Arcane Circle during Double Enshroud instead
       of doing Shadow of Death -> Shadow of Death -> Void/Cross Reaping ->
       Void/Cross Reaping -> Arcane Cricle?
-    answer: Doing the second option causes the GCD to come up in such a way that at
+    answer:
+      Doing the second option causes the GCD to come up in such a way that at
       the moment you need to use Arcane Circle, it is forced to be delayed
       another ~1 second, which causes Arcane Circle to drift out of alignment
       with party buffs. This also means that since Arcane Circle will be later,
       Plentiful Harvest will be ready later, which is highly likely to cause a
       clip as well as push the second Communio out of 15s raid buffs.
   - question: When should I use a Potion?
-    answer: If a fight allows for it, Potions should be used at the 2:XX and 8:XX
+    answer:
+      If a fight allows for it, Potions should be used at the 2:XX and 8:XX
       windows. If the fight is shorter than eight minutes, the second pot can be
       used at 6:30 or 7:XX. You will need to adjust your burst accordingly, but
       exactly how will be fight specific. If the fight is longer than nine

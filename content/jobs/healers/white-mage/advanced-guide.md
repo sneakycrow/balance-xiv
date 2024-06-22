@@ -11,4 +11,5 @@ changelog:
   - date: 2023-01-19T16:35:44.682Z
     message: Patch bump.
 ---
+
 Oops, we don't have that guide yet! Interested in contributing? Feel free to join the [Balance Discord server](https://discord.gg/thebalanceffxiv) to contact a job mentor/admin and express your interest!

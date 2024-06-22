@@ -12,13 +12,14 @@ changelog:
   - date: 2023-03-06T14:16:19.723Z
     message: Added new opener graphic and updated video links.
 ---
+
 ## Openers
 
 ![](/img/jobs/mnk/all-openers.jpg "Monk Openers")
 
 ### Other Resources
 
-- - -
+---
 
 ## Rotation
 
@@ -42,8 +43,8 @@ changelog:
 
 Videos:
 
-* [Comprehensive Monk Video Guide](https://youtu.be/cVkARdaslMQ)
-* [Braindead Looping 6:30 dummy rotation](https://youtu.be/c4JlsvC4VIg)
-* [Optimal Drift 6:30 dummy rotation](https://youtu.be/suUrxb3CohQ)
-* [Double Solar 6:30 dummy rotation](https://youtu.be/Aqpt0aqC5z0)
-* [6:30 Double Solar dummy + explanation](https://youtu.be/L-wrn2P7M_M) (French)
+- [Comprehensive Monk Video Guide](https://youtu.be/cVkARdaslMQ)
+- [Braindead Looping 6:30 dummy rotation](https://youtu.be/c4JlsvC4VIg)
+- [Optimal Drift 6:30 dummy rotation](https://youtu.be/suUrxb3CohQ)
+- [Double Solar 6:30 dummy rotation](https://youtu.be/Aqpt0aqC5z0)
+- [6:30 Double Solar dummy + explanation](https://youtu.be/L-wrn2P7M_M) (French)

@@ -14,6 +14,7 @@ changelog:
   - date: 2023-05-29T18:08:49.400Z
     message: 6.4 Update, Mild Style Edits
 ---
+
 # Single Target Leveling Rotation
 
 ## Sub Level 35
@@ -38,7 +39,7 @@ Use Foul whenever.
 
 B3 > B4 > T3 > F3 > F4 > F4 > F4 > F1 > F4 > F4 > F4 > Despair > repeat
 
-Use Foul whenever. Use Xenoglossy (Xeno) instead of Foul when you get it at level 80. 
+Use Foul whenever. Use Xenoglossy (Xeno) instead of Foul when you get it at level 80.
 
 ## Level 90
 
@@ -46,7 +47,7 @@ B3 > B4 > T3 > Paradox > F3 > F4 > F4 > F4 > Paradox > F4 > F4 > F4 > Despair > 
 
 See [the main guide](/jobs/casters/black-mage/basic-guide/#single-target-rotation) for further details.
 
-- - -
+---
 
 # AoE Leveling Rotation
 

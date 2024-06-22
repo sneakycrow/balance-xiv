@@ -13,10 +13,12 @@ changelog:
   - date: 2022-09-20T23:30:23.414Z
     message: Updated to reflect the new Crit / DH formulas in patch 6.2.
   - date: 2023-01-14T19:57:55.740Z
-    message: Updated math for patch 6.3, replaced WF > HC with HC > WF, and added a
+    message:
+      Updated math for patch 6.3, replaced WF > HC with HC > WF, and added a
       new tip about using GCDs during HC.
   - date: 2023-07-13T00:04:00.446Z
-    message: Further math and wording updates to reflect the state of the Machinist
+    message:
+      Further math and wording updates to reflect the state of the Machinist
       job in 6.4.
   - date: 2023-07-13T17:20:40.239Z
     message: Additional infographics for the opener section and macro pulling section.
@@ -28,9 +30,10 @@ tags:
   - machinist opener
   - machinist guide
 ---
-*This guide is intended to give the reader the tools needed to approach encounter optimization as a Machinist.
+
+_This guide is intended to give the reader the tools needed to approach encounter optimization as a Machinist.
 It assumes you are already familiar with the fundamentals of the job – if you need a refresher, please
-read the [Basic Guide](/jobs/ranged/machinist/basic-guide/) and come back when you're done.*
+read the [Basic Guide](/jobs/ranged/machinist/basic-guide/) and come back when you're done._
 
 # Introduction to Optimization
 
@@ -64,45 +67,48 @@ This leads us to the second rule:
 
 **2. Make your cooldowns deal as much damage as possible.**
 
-What separates good Machinists from great Machinists is their ability to coordinate as many cooldowns and resources as possible into periods where there they have raid buffs, tinctures, or other fight-specific burst phases. This is why the general opener calls for delaying **Chain Saw** and **Wildfire** into raid buffs, but is that always the right choice? 
+What separates good Machinists from great Machinists is their ability to coordinate as many cooldowns and resources as possible into periods where there they have raid buffs, tinctures, or other fight-specific burst phases. This is why the general opener calls for delaying **Chain Saw** and **Wildfire** into raid buffs, but is that always the right choice?
 
 We'll tackle opener optimization shortly, but hopefully it's clear to you that the two golden rules work in opposition to each other. Delaying your cooldowns for raid buffs means potentially losing uses, and using your cooldowns as early as possible means potentially missing raid buffs. The key to encounter optimization is therefore to **identify how many uses** you can get in a fight, and then **plan those uses effectively**.
 
 ## Average Case vs. Fixed Case
 
-The general rotation is designed for the **average case**. These are the situations where kill time is completely unknown. This is why the general opener delays certain cooldowns into raid buffs: *on average* you deal more damage by following this opener, even though there's a chance that you will lose uses at the end of the fight.
+The general rotation is designed for the **average case**. These are the situations where kill time is completely unknown. This is why the general opener delays certain cooldowns into raid buffs: _on average_ you deal more damage by following this opener, even though there's a chance that you will lose uses at the end of the fight.
 
-The average case is a good framework for general theorycrafting, but when we're optimizing an encounter we're generally dealing with the **fixed case**. In this scenario, we know exactly how long each phase is and we have a fairly good idea of what our kill time will be. This enables us to be precise with our cooldown usage: we can use the delayed opener, or a rushed opener (which we'll see shortly), or any number of tricks which allow us to maximize the two golden rules. 
+The average case is a good framework for general theorycrafting, but when we're optimizing an encounter we're generally dealing with the **fixed case**. In this scenario, we know exactly how long each phase is and we have a fairly good idea of what our kill time will be. This enables us to be precise with our cooldown usage: we can use the delayed opener, or a rushed opener (which we'll see shortly), or any number of tricks which allow us to maximize the two golden rules.
 
 When raiding, try to always be aware of which of the above cases you're currently in. Do you know exactly when the boss is going to disappear for downtime? If so, do you know which GCD you'll hit the boss with last? Is there an opportunity for you to use a cooldown earlier in the opener (to gain a use) or, if not, later in the opener (to align with more buffs)?
 
 # Battery
 
-Let's face it, Queen really puts the *auto* in "automaton". It can be boring to press one button and watch your pet do the rest on its own. For this reason, you might just overlook how completely bonkers its damage is. A 100-Battery Queen deals **2660 potency** (around 2367 player potency)! That's over four **Drills** worth of damage, which also means that
-**Queen is the single most important action to align to raid buffs**. If you're serious about optimizing an encounter, the best place to start is by carefully planning out the timing for your Queen summons to fit as many of her hits as possible into raid buffs. 
+Let's face it, Queen really puts the _auto_ in "automaton". It can be boring to press one button and watch your pet do the rest on its own. For this reason, you might just overlook how completely bonkers its damage is. A 100-Battery Queen deals **2660 potency** (around 2367 player potency)! That's over four **Drills** worth of damage, which also means that
+**Queen is the single most important action to align to raid buffs**. If you're serious about optimizing an encounter, the best place to start is by carefully planning out the timing for your Queen summons to fit as many of her hits as possible into raid buffs.
 
 ## Queen Mechanics
 
 Pets have slightly different stat modifiers than player characters do. Here are some of Queen's quirks, in no particular order:
 
-* Queen mirrors our raid buffs, including Tinctures, in real time.
+- Queen mirrors our raid buffs, including Tinctures, in real time.
 
-  * Queen is unaffected by Dragon Sight.
-* Queen mirrors our debuffs, including damage downs and stuns, in real time.
+  - Queen is unaffected by Dragon Sight.
 
-  * Queen is unaffected by Resurrection Sickness.
-* Queen snapshots the player's stats and substats at the time of summoning.
+- Queen mirrors our debuffs, including damage downs and stuns, in real time.
 
-  * Eating food or using a tincture will force Queen's stats to update.
-* Queen has a 100 DEX modifier instead of the Machinist's 115 DEX modifier.
-* Queen does not benefit from the Party Bonus mainstat buff.
-* Queen does not benefit from the player's racial stat bonuses.
+  - Queen is unaffected by Resurrection Sickness.
+
+- Queen snapshots the player's stats and substats at the time of summoning.
+
+  - Eating food or using a tincture will force Queen's stats to update.
+
+- Queen has a 100 DEX modifier instead of the Machinist's 115 DEX modifier.
+- Queen does not benefit from the Party Bonus mainstat buff.
+- Queen does not benefit from the player's racial stat bonuses.
 
 Altogether, Queen's potency is worth about **89% of the player's potency**. For example, the 120 potency Arm Punch is roughly equivalent to 106.8 potency from your direct damaging actions.
 
 ## Summon Timings
 
-In a two minute cycle you can expect to generate 180-190 Battery, which is enough for two large Queens – one aligned to buffs and one outside buffs. 
+In a two minute cycle you can expect to generate 180-190 Battery, which is enough for two large Queens – one aligned to buffs and one outside buffs.
 
 If there's a downtime phase in the fight, you need to be strategic about where you use your Battery. Certain kinds of add phases lend themselves to building gauge so you can spend it all in a big reopener when the boss becomes targetable. In these situations, you should make sure to dump Battery before the downtime so that you don't overcap.
 
@@ -118,9 +124,9 @@ If you've already summoned your last Queen of the fight, you've entered the "pos
 
 # Reassemble
 
-In Endwalker we received a second charge of **Reassemble** which has some interesting consequences. Since we generate two charges every 110 seconds, this cooldown doesn't loop cleanly with our two minute cycle.  If we try to always use **Reassemble** under buffs we'll drift the cooldown by 10 seconds every two minutes which generally (but not necessarily) results in a missed use for typical full uptime fights.
+In Endwalker we received a second charge of **Reassemble** which has some interesting consequences. Since we generate two charges every 110 seconds, this cooldown doesn't loop cleanly with our two minute cycle. If we try to always use **Reassemble** under buffs we'll drift the cooldown by 10 seconds every two minutes which generally (but not necessarily) results in a missed use for typical full uptime fights.
 
-**Still, fitting two Reassembles into as many buff windows as possible without losing a use is a key element of encounter optimization**. The best way to work this out for yourself is with a spreadsheet that includes the timings of each of your tool uses as well as the time ranges where raid buffs are located. Note that raid buff windows where tinctures are used are especially important to try to fit two Reassembles into  if the fight allows it.
+**Still, fitting two Reassembles into as many buff windows as possible without losing a use is a key element of encounter optimization**. The best way to work this out for yourself is with a spreadsheet that includes the timings of each of your tool uses as well as the time ranges where raid buffs are located. Note that raid buff windows where tinctures are used are especially important to try to fit two Reassembles into if the fight allows it.
 
 ## General Rotation Cheatsheet
 
@@ -139,7 +145,7 @@ If you are strictly following the general opener's tool timings in a full uptime
 
 &nbsp;
 
-Note that if your kill time isn't within any of the above ranges, that doesn't necessarily mean you should use **Reassemble** fully on cooldown – it just means you won't be able to fit two Reassembles in *every* buff window.
+Note that if your kill time isn't within any of the above ranges, that doesn't necessarily mean you should use **Reassemble** fully on cooldown – it just means you won't be able to fit two Reassembles in _every_ buff window.
 
 # Wildfire Setups
 
@@ -189,10 +195,10 @@ Using an opener Queen is usually a good way to squeeze some extra juice out of y
 ## Wildfire
 
 As mentioned above, there may be situations where we need to skip the opener Queen in order to get **Wildfire**
-on cooldown earlier. Setting up **Wildfire** in the opener is a bit more involved than other cooldowns: 
+on cooldown earlier. Setting up **Wildfire** in the opener is a bit more involved than other cooldowns:
 first, we need the 50 Heat from **Barrel Stabilizer**.
 Second, we need to dump a minimum of three charges total of **Gauss Round** and **Ricochet** to prevent them from overcapping
-during **Hypercharge**. The earliest we can use **Wildfire** without overcapping is **after the 2nd GCD**. 
+during **Hypercharge**. The earliest we can use **Wildfire** without overcapping is **after the 2nd GCD**.
 To do so requires a WF > GCD > HC setup – you can see an example in the "fast opener" at the end of this section.
 
 An interesting quirk about **Wildfire** is that it's handled internally as a DoT effect rather than direct damage.
@@ -208,7 +214,7 @@ One final thing to note about **Wildfire** is that it cannot benefit from critic
 
 Getting **Reassemble** on cooldown before the pull is a nice way to potentially gain an extra charge by the end of the fight.
 If it doesn't get you an extra charge, you can consider delaying the first use of **Reassemble** until your first tool GCD
-under raid buffs. The second charge can then be used on the **Drill** which follows **Wildfire** to catch more buffs. 
+under raid buffs. The second charge can then be used on the **Drill** which follows **Wildfire** to catch more buffs.
 
 ## Secondary Hypercharges
 
@@ -252,14 +258,14 @@ This variant uses **Drill** last to enable double **Hypercharge** windows in bet
 Tinctures are an ~8% damage buff, bigger than any raid buff. It's important that you get as much damage into these windows
 as possible, which ideally includes:
 
-* Automaton Queen
-* 2 Drills
-* 1-2 Reassembles
-* Air Anchor
-* Chain Saw
-* Wildfire
-* 10+ Heat Blasts
-* 15+ Gauss Rounds / Ricochets
+- Automaton Queen
+- 2 Drills
+- 1-2 Reassembles
+- Air Anchor
+- Chain Saw
+- Wildfire
+- 10+ Heat Blasts
+- 15+ Gauss Rounds / Ricochets
 
 Since Queen is our single biggest source of direct potency in one button, **Machinists greatly prefer to use their first tincture
 at the two minute window** where they can fit in a full Queen. However, this is not always possible: if we use our tincture at 2:00
@@ -285,7 +291,7 @@ The following table can be used to help plan your tincture usage in a typical fi
 
 Skill Speed is our worst substat on average, but there are some situations where you're forced to take it on your gear.
 Our GCD alignment remains intact at every 0.06s interval of our GCD (i.e. 2.50, 2.44, 2.38, and so on). For each of these
-tiers below 2.50, you'll need to insert one extra filler Heated Combo GCD per two minute loop to prevent your tool GCDs 
+tiers below 2.50, you'll need to insert one extra filler Heated Combo GCD per two minute loop to prevent your tool GCDs
 from reverse drifting into your **Wildfire** window.
 
 If you're not at one of these tiers, your **Wildfire** cooldown will no longer cleanly align to your GCD rotation.
@@ -306,37 +312,37 @@ Note that if Drill is the very next GCD after **Wildfire** + **Hypercharge**, dr
 
 ## Phase Optimizations
 
-There are some rare scenarios where Skill Speed allows you to net an extra tool GCD at the end of a phase. 
-If it requires a small amount of Skill Speed and the fight is short enough, it might just be a small gain 
+There are some rare scenarios where Skill Speed allows you to net an extra tool GCD at the end of a phase.
+If it requires a small amount of Skill Speed and the fight is short enough, it might just be a small gain
 to use a sub-2.50 set for this particular encounter.
 
 # Graduate Studies: Potency Analysis
 
-After reading the above you should have a general sense of *how* to adapt your rotation to suit a particular encounter.
-The missing puzzle piece is knowing *when* you should adapt your rotation, and what the expected gains and losses might be.
+After reading the above you should have a general sense of _how_ to adapt your rotation to suit a particular encounter.
+The missing puzzle piece is knowing _when_ you should adapt your rotation, and what the expected gains and losses might be.
 This section will spend some time introducing the basics of potency analysis for Machinist actions, which will hopefully
-enable you to theorycraft your own rotations. 
+enable you to theorycraft your own rotations.
 
 ## Battery
 
 Queen's damage scales linearly per point of gauge spent, so figuring out Battery's PPG is pretty straightforward.
-A max gauge Queen does **2660 potency** (10 * 120 + 680 + 780). Since Queen's damage scales differently than the
+A max gauge Queen does **2660 potency** (10 \* 120 + 680 + 780). Since Queen's damage scales differently than the
 Machinist's does, we need to apply a normalization factor. As noted previously, in a typical raid setting the
 normalization factor is **89%** meaning the equivalent player potency is about **2367p**. We can then divide this
 number by the 100 gauge spent to conclude that Battery is worth **23.67 PPG**.
 
 This value is useful for evaluating the actions which generate gauge in the first place. **Drill** and **Air Anchor**
-are both 600p, but **Air Anchor** generates 20 Battery which we now know is worth **473.4 potency** (23.67 * 20)
+are both 600p, but **Air Anchor** generates 20 Battery which we now know is worth **473.4 potency** (23.67 \* 20)
 assuming we can spend it before the fight ends.
 
 ## Heat
 
 Since getting value out of spending Heat gauge requires displacing three GCDs, evaluating this resource is a bit
-more complicated than evaluating Battery. To properly evaluate Heat we need to subtract the potency of the three GCDs 
+more complicated than evaluating Battery. To properly evaluate Heat we need to subtract the potency of the three GCDs
 which our **Hypercharge** Combo replaces, which will almost always be a full Heated Combo (single target) or three
 **Scatterguns** (AoE). Since these actions all generate Heat themselves, we have to define Heat's effective potency recursively!
 
-In single target, the full equation for evaluating Heat (denoted here as *x*) is as follows: 
+In single target, the full equation for evaluating Heat (denoted here as _x_) is as follows:
 
 {{< codeblock >}}
 x = (Heat Blast Combo potency - Heated Combo potency) / (Heat cost of Hypercharge)
@@ -380,7 +386,7 @@ is to add up the direct potency, Heat PPG, and Battery PPG for each action:
 ## Tools
 
 Finally, we can put together PPS models for each of the three Tool GCDs. Since these GCDs replace a Heated Combo
-in single target, we can subtract the average potency of a combo GCD calculated above to determine the 
+in single target, we can subtract the average potency of a combo GCD calculated above to determine the
 effective potency of each action (in the average case):
 
 | Action     | Direct Potency | Battery | Replacement | Total |
@@ -392,22 +398,22 @@ effective potency of each action (in the average case):
 &nbsp;
 
 Note that since **Drill** does not generate any gauge, it's actually a fairly weak effective potency gain.
-If we analyze each single target tool in terms of their cooldowns, we quickly see that **Air Anchor generates the 
-highest PPS of the three** (`652.5 / 40 > 179.1 / 20`). 
+If we analyze each single target tool in terms of their cooldowns, we quickly see that **Air Anchor generates the
+highest PPS of the three** (`652.5 / 40 > 179.1 / 20`).
 This is why we generally choose to use **Air Anchor** as our first GCD in the opener!
 
 It's important to keep track of context when comparing these numbers. For example, if we're in the "post-battery" phase
-of the fight, all three tools are worth the exact same amount of potency since we cannot spend the gauge they generate. 
-Similarly, if we're strictly analyzing the direct potency that we can put into raid buffs, the gauge that these actions 
+of the fight, all three tools are worth the exact same amount of potency since we cannot spend the gauge they generate.
+Similarly, if we're strictly analyzing the direct potency that we can put into raid buffs, the gauge that these actions
 generate may not be spent in time to benefit from the buffs and therefore all three tools are again worth the same.
 
 ## Raid Buff Interactions
 
-In FFXIV, damage buffs such as **Embolden** and **Trick Attack** stack *multiplicatively*. That is, if we have two 10% damage
+In FFXIV, damage buffs such as **Embolden** and **Trick Attack** stack _multiplicatively_. That is, if we have two 10% damage
 increase buffs on us, the resulting damage amplification is `1.1 * 1.1 = 1.21x`. This multiplier is higher than if the
 two buffs were used independently, which is one of the main reasons why we always try to align raid buffs together.
 
-On the other hand, rate buffs such as **Battle Voice** and **Battle Litany** stack *additively*. That is, if we have two 10%
+On the other hand, rate buffs such as **Battle Voice** and **Battle Litany** stack _additively_. That is, if we have two 10%
 crit rate buffs on us, the resulting increase to our crit rate is `.1 + .1 = .2` (i.e. 20%).
 
 ## Accounting for Crit / DH
@@ -417,7 +423,7 @@ to augment our potency model with crit / DH normalizations. The following formul
 multiplier** on actions that are not **Wildfire** / **Reassemble**:
 
 {{< codeblock >}}
-expected crit multiplier = (1 + (crit modifier - 1) * crit rate){{< /codeblock >}}
+expected crit multiplier = (1 + (crit modifier - 1) \* crit rate){{< /codeblock >}}
 
 &nbsp;
 
@@ -425,19 +431,19 @@ For example, if your crit multiplier is 1.5x and your crit rate is 20%, your exp
 `(1 + (1.5 - 1) * 0.2) = 1.1`. We can do the same for DH:
 
 {{< codeblock >}}
-expected DH multiplier = (1 + (0.25 * DH rate)){{< /codeblock >}}
+expected DH multiplier = (1 + (0.25 \* DH rate)){{< /codeblock >}}
 &nbsp;
 
-Multipliers for Reassemble are slightly more complicated: 
+Multipliers for Reassemble are slightly more complicated:
 
 {{< codeblock >}}
-expected Reassemble multiplier = 1.25 \* crit modifier \* (1 + (buff crit rate \* (crit modifier - 1)) \* (1 + ((DH rate + buff DH rate) * 0.25)){{< /codeblock >}}\
+expected Reassemble multiplier = 1.25 \* crit modifier \* (1 + (buff crit rate \* (crit modifier - 1)) \* (1 + ((DH rate + buff DH rate) \* 0.25)){{< /codeblock >}}\
 &nbsp;
 
-For example, if your crit multiplier is 1.5x, your DH rate is 30%, you have +10% crit rate from buffs, and you have +10% DH rate from buffs, your Reassemble multiplier is `1.25 * 1.5 * (1 + (0.1 * (1.5 - 1)) * (1 + ((0.3 + 0.1) * 0.25)) = 1.978`. 
+For example, if your crit multiplier is 1.5x, your DH rate is 30%, you have +10% crit rate from buffs, and you have +10% DH rate from buffs, your Reassemble multiplier is `1.25 * 1.5 * (1 + (0.1 * (1.5 - 1)) * (1 + ((0.3 + 0.1) * 0.25)) = 1.978`.
 
 Now we're all set to compare potency across different crit / DH scenarios. Usually we call this model
-of potency which incorporates crit and DH rates **"effective potency"** (or, ePotency). 
+of potency which incorporates crit and DH rates **"effective potency"** (or, ePotency).
 If we have a crit buff up, we simply need to adjust the crit rate variable in the crit multiplier.
 If we have Reassemble up on a GCD, we simply set the crit rate and DH rates to 100%. Using this information,
 we can calculate exactly how much effective potency we gain by using Reassemble on a tool GCD:
@@ -450,12 +456,12 @@ DH rate = 35.4%
 crit buffs = 0%
 DH buffs = 0%
 
-Drill ePotency = 600  *(1 + (crit modifier - 1)*  crit rate)  *(1 + (0.25*  DH rate))
-Drill ePotency = 600  *(1 + (1.581 - 1)*  0.231)  *(1 + (0.25*  0.354))
+Drill ePotency = 600 _(1 + (crit modifier - 1)_ crit rate) _(1 + (0.25_ DH rate))
+Drill ePotency = 600 _(1 + (1.581 - 1)_ 0.231) _(1 + (0.25_ 0.354))
 Drill ePotency = 740.7p
 
-Reassembled Drill ePotency = 600  *1.25*  crit modifier  *(1 + (buff crit rate*  (crit modifier - 1))  *(1 + ((DH rate + buff DH rate)*  0.25))
-Reassembled Drill ePotency = 600  *1.25*  1.581  *(1 + (0*  (1.581 - 1)))  *(1 + ((0.354 + 0)*  0.25))
+Reassembled Drill ePotency = 600 _1.25_ crit modifier _(1 + (buff crit rate_ (crit modifier - 1)) _(1 + ((DH rate + buff DH rate)_ 0.25))
+Reassembled Drill ePotency = 600 _1.25_ 1.581 _(1 + (0_ (1.581 - 1))) _(1 + ((0.354 + 0)_ 0.25))
 Reassembled Drill ePotency = 1290.7p
 {{< /codeblock >}}
 
@@ -466,7 +472,7 @@ this number will change depending on your exact crit and DH stats as well as the
 
 # Graduate Studies: Substat Theory
 
-This section will introduce some core FFXIV theory which you should know if you're interested in crafting 
+This section will introduce some core FFXIV theory which you should know if you're interested in crafting
 your own gearsets. Allagan Studies' [How To Be A Math Wizard](https://www.akhmorning.com/allagan-studies/how-to-be-a-math-wizard/shadowbringers/#information--about-the-guide) is an excellent primer to the formulas the game uses and if you have some spare time you should
 read through it, but for now we'll focus on the things that make Machinist unique.
 
@@ -483,17 +489,17 @@ rest assured it's because of stat tiering. To learn more about tiers, check out 
 We covered how Skill Speed affects the rotation loop in the [Skill Speed Adjustments](#skill-speed-adjustments) section,
 but why do we almost always prefer a 2.50 GCD over one of the other looping tiers like 2.44 or 2.38? The value of Speed as a
 stat is directly tied to how much damage is gained by speeding up our GCD rotation. While Machinist damage is almost entirely
-tied to the GCD – Heat and Battery gauge are both generated by GCDs, **Ricochet** and **Gauss Round** are generated by Heat – 
+tied to the GCD – Heat and Battery gauge are both generated by GCDs, **Ricochet** and **Gauss Round** are generated by Heat –
 we unfortunately have a large number of GCDs in our rotation which are entirely unaffected by Skill Speed. Every Hypercharge
-window has a fixed length of **7.5 seconds** (1.5s * 5) regardless of how fast our GCD is. In addition to not scaling with speed,
+window has a fixed length of **7.5 seconds** (1.5s \* 5) regardless of how fast our GCD is. In addition to not scaling with speed,
 these 7.5 second segments do not evenly replace three GCDs at any achievable recast speed below 2.5s, meaning our tools will
 be forced to slightly drift. Altogether, simulations point to 2.5 GCD sets being the best unless there's a really good
 reason to take a faster GCD for a particular encounter.
 
 ## Crit Interactions
 
-Machinist has the following unique actions: **Wildfire**, which cannot crit or direct hit, 
-and **Reassemble**, which guarantees a critical direct hit. As you might imagine, **Wildfire** does not benefit from the Crit and DH stats at all which is why we value them slightly less than other jobs do. 
+Machinist has the following unique actions: **Wildfire**, which cannot crit or direct hit,
+and **Reassemble**, which guarantees a critical direct hit. As you might imagine, **Wildfire** does not benefit from the Crit and DH stats at all which is why we value them slightly less than other jobs do.
 
 **Reassemble** scales with our Crit stat because of the variable Crit multiplier, and as of patch 6.2 it now also scales with our DH stat. Additionally, **Reassemble** now also benefits from Crit and DH raid buffs such as **Battle Litany** and **Battle Voice**.
 
@@ -514,8 +520,8 @@ Since **Hypercharge** stacks are only consumed by single-target GCDs, you can ac
 **Chain Saw** or **Bioblaster** during **Hypercharge** and still get all 5 stacks off. Since **Chain Saw** is gainfully
 used on single targets, you may find situations where this tech is useful. For example:
 
-* **Chain Saw** will be off cooldown in less than 8 seconds, but you're about to overcap Heat. In this case just use **Hypercharge** and fit **Chain Saw** in as it comes up.
-* You need an extra weave slot to get off all charges of **Ricochet** and **Gauss Round** during burst. In this case you can pull **Chain Saw** into your **Hypercharge** window (e.g. use it on the 4th GCD in your opener) and now you've got an extra weave slot.
+- **Chain Saw** will be off cooldown in less than 8 seconds, but you're about to overcap Heat. In this case just use **Hypercharge** and fit **Chain Saw** in as it comes up.
+- You need an extra weave slot to get off all charges of **Ricochet** and **Gauss Round** during burst. In this case you can pull **Chain Saw** into your **Hypercharge** window (e.g. use it on the 4th GCD in your opener) and now you've got an extra weave slot.
 
 Note that you will need to micro-drift your **Chain Saw** cooldown because it does not evenly align with 1.5s recast GCDs.
 
@@ -559,7 +565,7 @@ As we know, **Automaton Queen** always uses 5 GCDs before the **Pile Bunker** an
 
 ## Why macro the first GCD?
 
-Machinist's tools have a long delay between *preparation* and *damage application*. The ideal way to pull the boss is to line up the *damage application* of the tool with the countdown, so your gcd is rolling for a bit before the pull, and you gain that time. This pulls your timeline forwards and can earn a gcd sometimes, and makes landing tight gcds at the end of certain phases more lenient--particularly in p12sp1, where you can gain one last air anchor before LC.
+Machinist's tools have a long delay between _preparation_ and _damage application_. The ideal way to pull the boss is to line up the _damage application_ of the tool with the countdown, so your gcd is rolling for a bit before the pull, and you gain that time. This pulls your timeline forwards and can earn a gcd sometimes, and makes landing tight gcds at the end of certain phases more lenient--particularly in p12sp1, where you can gain one last air anchor before LC.
 
 Unfortunately, if you simply press the tool at -1, auto-attacks enable immediately and apply damage well before the tool, causing an early pull. Macro pulling is a way to suppress this automatic enabling of auto-attacks until after air anchor lands, and enable the above optimization.
 
@@ -573,7 +579,7 @@ This is a problem where there are so many different possible solutions that the 
 
 ## A note on potion friendliness
 
-Due to the lack of queueing associated with macros, the most reliably fast way to use a macroed action at the end of a prepull potion's animation lock is to basically spam the action command on every line of the macro. If this is important to you (and it probably is, unless you're using a really weird opener or a 2 min potion), the macro more or less *has* to look like the below
+Due to the lack of queueing associated with macros, the most reliably fast way to use a macroed action at the end of a prepull potion's animation lock is to basically spam the action command on every line of the macro. If this is important to you (and it probably is, unless you're using a really weird opener or a 2 min potion), the macro more or less _has_ to look like the below
 
 ```
 /ac "Air Anchor" <pl>
@@ -597,13 +603,13 @@ Due to the lack of queueing associated with macros, the most reliably fast way t
 
 ## A list of usable placeholders, in no particular order
 
-Remember that in every case, *you cannot have the boss selected when pulling*. All of these have this requirement.
+Remember that in every case, _you cannot have the boss selected when pulling_. All of these have this requirement.
 
-* `<tt>`: Target another party member, and `/ac "Air Anchor" <tt>` *should* target the boss. Targeting the caster prepull is a stable choice. Requires the target party member to be targeting the boss at the time you use the macro, which should be a given. Switching from targeting a party member to targeting the boss is awkward because you can't simply press tab.
-* `<f>`: Focus target the boss, and this can work. Remember that you have to reapply focus target every pull. Obviously interferes with focus targeting party members. 
-* `<lt>`, `<le>`: Target the boss, then don't target anything else, and these can work. `<le>` is more forgiving, in that it doesn't break if you target a party member between targeting the boss and pulling.
-* `<attackN>`, `<bindN>`, `<square>`, etc.: Overhead markers. You'd need to apply these to the boss before every pull, and this can conflict with marker-based solves.
-* `<mo>`: Hover your mouse cursor over the boss when pressing this. Not friendly for controller, but otherwise simple and flexible.
+- `<tt>`: Target another party member, and `/ac "Air Anchor" <tt>` _should_ target the boss. Targeting the caster prepull is a stable choice. Requires the target party member to be targeting the boss at the time you use the macro, which should be a given. Switching from targeting a party member to targeting the boss is awkward because you can't simply press tab.
+- `<f>`: Focus target the boss, and this can work. Remember that you have to reapply focus target every pull. Obviously interferes with focus targeting party members.
+- `<lt>`, `<le>`: Target the boss, then don't target anything else, and these can work. `<le>` is more forgiving, in that it doesn't break if you target a party member between targeting the boss and pulling.
+- `<attackN>`, `<bindN>`, `<square>`, etc.: Overhead markers. You'd need to apply these to the boss before every pull, and this can conflict with marker-based solves.
+- `<mo>`: Hover your mouse cursor over the boss when pressing this. Not friendly for controller, but otherwise simple and flexible.
 
 ## An especially transparent potion-unfriendly macro
 

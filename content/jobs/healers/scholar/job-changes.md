@@ -6,7 +6,8 @@ changes:
   - patch: "5.58"
     description: "[Placeholder for Endwalker]"
   - patch: "6.08"
-    description: "[Click here to view the most recent job changes on the Official
+    description:
+      "[Click here to view the most recent job changes on the Official
       Site!](https://na.finalfantasyxiv.com/jobguide/scholar/)"
   - patch: "6.1"
     description: View the latest changes for 6.1 at the Official Site, located

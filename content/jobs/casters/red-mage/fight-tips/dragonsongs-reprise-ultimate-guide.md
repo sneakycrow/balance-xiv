@@ -10,22 +10,23 @@ changelog:
   - date: 2022-09-26T03:51:55.063Z
     message: Created page
 ---
+
 # Introduction
 
-In this raid, only three phases in particular have what most would consider to be tight DPS checks (Nidhogg, Eyes, Dragon King Thordan), and one with a moderate one (Double Dragons). The Double Dragons phase DPS check is low in terms of boss HP relative to enrage timer, but in practice can feel high for people who struggle to keep uptime amid its mechanics. 
+In this raid, only three phases in particular have what most would consider to be tight DPS checks (Nidhogg, Eyes, Dragon King Thordan), and one with a moderate one (Double Dragons). The Double Dragons phase DPS check is low in terms of boss HP relative to enrage timer, but in practice can feel high for people who struggle to keep uptime amid its mechanics.
 
 Other phases, however, are much more lenient with minimal uptime considerations. So, with RDM being a gauge builder/spender job, we spend much of our time building mana on lenient phases to do more burst damage in the ones with DPS checks that matter.
 
 The phases are commonly referred to by their number and will occasionally be referenced again as such later in the document for brevity (with the exception of eyes and rewind phases), so for clarification purposes, please refer to the below:
 
-* Vault: P1/Door
-* Thordan I: P2
-* Nidhogg/Nidstinien: P3
-* Eyes: P4
-* Intermission: Rewind
-* Thordan II: P5
-* Double Dragons: P6
-* Dragon King Thordan: P7
+- Vault: P1/Door
+- Thordan I: P2
+- Nidhogg/Nidstinien: P3
+- Eyes: P4
+- Intermission: Rewind
+- Thordan II: P5
+- Double Dragons: P6
+- Dragon King Thordan: P7
 
 ## Addle and Magick Barrier Usage
 
@@ -49,10 +50,10 @@ Both rotations are viable and commonly used. If in doubt, the aligned 2-min Mana
 
 The most common and useful potion windows in this fight are as follows:
 
-* Openers (Door and P2). The additional damage is usually not needed given the very lenient DPS check, but it can be worthwhile to use a potion anyway given that it’s a free use and creates more leeway for deaths or mistakes.
-* P3 raid buff window, during and after enumeration towers.
-* P6 opener.
-* P7 during either Gigaflare 1 or Akh Morn 3, or after Exaflare 1 and Gigaflare 2 (depending on which buff timing your party chooses.
+- Openers (Door and P2). The additional damage is usually not needed given the very lenient DPS check, but it can be worthwhile to use a potion anyway given that it’s a free use and creates more leeway for deaths or mistakes.
+- P3 raid buff window, during and after enumeration towers.
+- P6 opener.
+- P7 during either Gigaflare 1 or Akh Morn 3, or after Exaflare 1 and Gigaflare 2 (depending on which buff timing your party chooses.
 
 Alternative potion timings can exist for more niche optimization (e.g. Eyes or later in P2), but are considered less common and their benefits to the party are more situational. The potion timings above are more suited to progression.
 
@@ -60,14 +61,14 @@ Alternative potion timings can exist for more niche optimization (e.g. Eyes or l
 
 As always, Embolden should be used to achieve the best possible gains for your group, and be aligned with other raid buffs. In general, most parties opt for the following:
 
-* Door: Opener, once Charibert is targetable.
-* P2: Opener, after Sanctity.
-* P3: During or after enumeration towers.
-* Eyes: None.
-* Rewind: Once Charibert is targetable.
-* P5: Between Wrath of the Heavens and Death of the Heavens.
-* P6: Opener, and either during Wyrm’s Breath 2 or after Touchdown.
-* P7: During or after Gigaflare 1, during Akh Morn 3 / After first exaflare and after Gigaflare 2 (hold one minute burst for 20 seconds, only possible if two-minute buffs are used during Wyrm’s Breath 2).
+- Door: Opener, once Charibert is targetable.
+- P2: Opener, after Sanctity.
+- P3: During or after enumeration towers.
+- Eyes: None.
+- Rewind: Once Charibert is targetable.
+- P5: Between Wrath of the Heavens and Death of the Heavens.
+- P6: Opener, and either during Wyrm’s Breath 2 or after Touchdown.
+- P7: During or after Gigaflare 1, during Akh Morn 3 / After first exaflare and after Gigaflare 2 (hold one minute burst for 20 seconds, only possible if two-minute buffs are used during Wyrm’s Breath 2).
 
 ## AoE for Mana Generation and Holding DPS
 
@@ -85,17 +86,17 @@ The DPS check in this phase is very lenient, and movement isn’t particularly d
 
 **Opener notes:**
 
-* Your second GCD can actually be Impact instead of Veraero in this picture, but depending on your tanks, it might only hit one target (which is a loss).
-* There are two Acceleration-boosted Impacts that will hit both targets, with the one after Resolution still falling under 15-second raid buffs if available.
-* This alignment allows two uses of Contre Sixte on two targets before Adelphel disappears. But the second use is strict and has a risk of ghosting if weaved too late. 
-* The first Fleche is delayed for raid buffs, but this is optional. Using it before raid buffs (e.g. double weaved with Swiftcast if not using potion) would be better if you gain a use.
-* If able to double weave a potion, one ideal timing would be to weave it with the Swiftcast. The other alternative is to use a potion for a double melee combo after the playstation mechanic. Although there are no raid buffs, two sets of finishers cleaving both bosses can make up for it.
+- Your second GCD can actually be Impact instead of Veraero in this picture, but depending on your tanks, it might only hit one target (which is a loss).
+- There are two Acceleration-boosted Impacts that will hit both targets, with the one after Resolution still falling under 15-second raid buffs if available.
+- This alignment allows two uses of Contre Sixte on two targets before Adelphel disappears. But the second use is strict and has a risk of ghosting if weaved too late.
+- The first Fleche is delayed for raid buffs, but this is optional. Using it before raid buffs (e.g. double weaved with Swiftcast if not using potion) would be better if you gain a use.
+- If able to double weave a potion, one ideal timing would be to weave it with the Swiftcast. The other alternative is to use a potion for a double melee combo after the playstation mechanic. Although there are no raid buffs, two sets of finishers cleaving both bosses can make up for it.
 
 ## Two Target Phases
 
 Jolt II/Verstone/Verfire into Impact is optimal on two targets, and so should be used as our main filler spell combo whenever the bosses are pulled together.
 
-Since our melee combo finishers cleave, you should at minimum, **save your second melee combo** for when Adelphel returns from the dashes and jumps onto the tank. At this point you should be around 70|70 to 80|80 mana. Other combos in this phase can be used when you are 50|50 or above. 
+Since our melee combo finishers cleave, you should at minimum, **save your second melee combo** for when Adelphel returns from the dashes and jumps onto the tank. At this point you should be around 70|70 to 80|80 mana. Other combos in this phase can be used when you are 50|50 or above.
 
 ## Second Manafication
 
@@ -103,7 +104,7 @@ Your second Manafication may come up before the Charibert phase begins, dependin
 
 # Phase Two: Thordan
 
-Much like the door boss, the DPS check in this phase is also very lenient. This is a “trios” phase where all the difficult mechanics occur when the boss is untargetable, but when the boss is targetable, not much is going on at all. As such, most optimization around this phase revolves around oGCD usage and phase timings. 
+Much like the door boss, the DPS check in this phase is also very lenient. This is a “trios” phase where all the difficult mechanics occur when the boss is untargetable, but when the boss is targetable, not much is going on at all. As such, most optimization around this phase revolves around oGCD usage and phase timings.
 
 The standard play here is to do three melee combos during the phase: the opener, one flexible combo before or after Sanctity, and a final combo during raid buffs. From this point onward, you should build mana and aim to enter P3 with somewhere between 70|70 to 80|80 mana. If killing the boss too fast, consider asking your party members to hold damage (especially jobs that don’t need to build gauge) and use AOE abilities.
 
@@ -113,7 +114,7 @@ The standard play here is to do three melee combos during the phase: the opener,
 
 ![](/img/rdmdsrimage7.png)
 
-The standard opener is similar to our general purpose one, but due to the short phase, using the potion early is advised to catch the early Fleche, and also benefit from the full 30 seconds of the potion buff. The standard opener works for both 2-minute aligned Manafic or Manafic rush. 
+The standard opener is similar to our general purpose one, but due to the short phase, using the potion early is advised to catch the early Fleche, and also benefit from the full 30 seconds of the potion buff. The standard opener works for both 2-minute aligned Manafic or Manafic rush.
 
 ### Modified Manafic Rush
 
@@ -149,15 +150,15 @@ These techniques can be situational and ruined by having a Defamation marker in 
 
 ## Reopener during Ultimate End
 
-The reopener here is very flexible, and will depend on your overall fight plan. 
+The reopener here is very flexible, and will depend on your overall fight plan.
 
-Some players may wish to put more burst damage into Thordan when he has the Discomposed debuff (increase damage taken). If you wish to take advantage of this, you will want to start your melee combo five GCD spells after the boss becomes targetable. This will align your three finishers with the Discomposed debuff. 
+Some players may wish to put more burst damage into Thordan when he has the Discomposed debuff (increase damage taken). If you wish to take advantage of this, you will want to start your melee combo five GCD spells after the boss becomes targetable. This will align your three finishers with the Discomposed debuff.
 
 Otherwise, you can prepare a Dualcast with Vercure, and even an Acceleration before the boss is targetable while soaking your outer tower in Sanctity. You can then use back-to-back instant cast Veraero/thunder III before entering a melee combo, or simply go straight into melee combo after one cast. This allows you to weave more oGCD abilities earlier as required depending on your Addle plan and agreed party raid buff timing.
 
 ## Broad Swings
 
-Broad swings can generally be dodged with slidecasting, and one use of Acceleration and Swiftcast. The alignment with Dualcast will depend on how you reopen on Thordan. Position yourself behind Thordan inside the hitbox to reduce the distance you need to move for dodging. 
+Broad swings can generally be dodged with slidecasting, and one use of Acceleration and Swiftcast. The alignment with Dualcast will depend on how you reopen on Thordan. Position yourself behind Thordan inside the hitbox to reduce the distance you need to move for dodging.
 
 ## Preparing for Nidhogg phase: Mana Levels and Carrying oGCDs
 
@@ -213,7 +214,7 @@ While these oGCDs are not buffed by Embolden, consider holding a charge here to 
 
 While it is possible to save a run by Verraising someone into their enumeration tower if they die to the first Drachenlance or tank autos, the timing for doing so is much tighter than P2 trios.
 
-RDM should proactively revive party members over healers for almost all of the fight. With that said, the raid buff and potion window here (after enumeration towers) is one of the least convenient times for RDM to raise due to how many melee combos occur with raid buffs and potions being up. It is also one of the easier phases for healers to recover, given that there is minimal movement and raid damage here. Given the tight DPS check, you can give your healers a heads up to cover the first revive if someone dies to the tankbuster tethers. 
+RDM should proactively revive party members over healers for almost all of the fight. With that said, the raid buff and potion window here (after enumeration towers) is one of the least convenient times for RDM to raise due to how many melee combos occur with raid buffs and potions being up. It is also one of the easier phases for healers to recover, given that there is minimal movement and raid damage here. Given the tight DPS check, you can give your healers a heads up to cover the first revive if someone dies to the tankbuster tethers.
 
 ## Saving Movement Abilities for Eyes
 
@@ -233,7 +234,7 @@ After a melee combo, you can hit both eyes by standing within the hitbox of one 
 
 ## Saving oGCDs for the Spear
 
-In this phase, the DPS check on Charibert is more forgiving than the one for the spear. If needed, you can save oGCDs from Charibert for burning down the spear once Charibert is below 29.9% HP. This includes your second Fleche, second Contre Sixte, and two charges of Engagement and Corps-a-corps. 
+In this phase, the DPS check on Charibert is more forgiving than the one for the spear. If needed, you can save oGCDs from Charibert for burning down the spear once Charibert is below 29.9% HP. This includes your second Fleche, second Contre Sixte, and two charges of Engagement and Corps-a-corps.
 
 If you do not wish to overcap on your movement oGCDs, you can use one charge of each as a compromise. Also note that holding your second Fleche for the spear will generally not lose you a use in P5 due to the phase transition duration.
 
@@ -241,7 +242,7 @@ If you do not wish to overcap on your movement oGCDs, you can use one charge of 
 
 **Note if Rushing Manafication:**
 
-Depending on your strat and previous phase kill times, Manafication may come off of cooldown as you have to move out to drop your puddle. In this scenario, just press it anyway and use stacks on spells if needed until you’re back in melee range. 
+Depending on your strat and previous phase kill times, Manafication may come off of cooldown as you have to move out to drop your puddle. In this scenario, just press it anyway and use stacks on spells if needed until you’re back in melee range.
 
 The key is to keep the Manafication cooldown going, and once Charibert is below 29.9% HP, any additional damage on him doesn’t matter at all. Be sure to prepare a Dualcast with Vercure once the spear is destroyed if needed to ensure you open the next phase on an instant cast.
 
@@ -253,9 +254,9 @@ This phase is much like the first Thordan, a trio based phase with a (mostly) le
 
 The period before Wrath of the Heavens is fairly flexible and your available mana and tools will depend on earlier phases. Instead of trying to execute a fixed opener, things to note are:
 
-* **Weave Fleche as early as possible** to get two uses during this mini-phase, as the timing is fairly tight. Meanwhile, only one use of Contre Sixte is possible.
-* If **doing one melee combo** with a prepared Dualcast proc, one Acceleration/Swiftcast will ensure you get a final GCD off before the boss jumps away.
-* If **not melee comboing**, use one Acceleration and one Swiftcast to keep the cooldown timer running and have your last GCD be instant.
+- **Weave Fleche as early as possible** to get two uses during this mini-phase, as the timing is fairly tight. Meanwhile, only one use of Contre Sixte is possible.
+- If **doing one melee combo** with a prepared Dualcast proc, one Acceleration/Swiftcast will ensure you get a final GCD off before the boss jumps away.
+- If **not melee comboing**, use one Acceleration and one Swiftcast to keep the cooldown timer running and have your last GCD be instant.
 
 **Example (one melee combo with a prepared Dualcast proc, Acceleration used):**
 
@@ -275,13 +276,13 @@ The standard approach here is to have a Dualcast ready from Vercure in downtime,
 
 It is generally advised for the caster to use LB2 on the meteors. While it is possible to hit four, the positioning is extremely precise, and missing will lead to only hitting two. Any delay in casting the LB can mean wasted GCDs from your party members and yourself. It is more practical to just aim for three instead, either at a fixed waymark, or the ones nearest to yourself.
 
-Clip: <https://clips.twitch.tv/ApatheticTemperedNigiriBrokeBack-zqGt8oVekhdXgJLq> 
+Clip: <https://clips.twitch.tv/ApatheticTemperedNigiriBrokeBack-zqGt8oVekhdXgJLq>
 
 If not LBing the meteors (i.e. the ranged/second caster is LBing or the party agrees not to use it here), you can do a full melee combo under raid buffs, use an odd number of Acceleration and Swiftcast (one or all three), then finish the phase with a partial melee combo just as the Death of the Heavens cast bar reaches “Heavens”, near completion.
 
 When the meteors appear, you will want to use Verfinisher and Scorch on one meteor, then use Resolution in a line on three other ones lined up (target the furthest).
 
-Clip: <https://youtu.be/G0ZbQMSHNkY?t=611> 
+Clip: <https://youtu.be/G0ZbQMSHNkY?t=611>
 
 # Phase Six: Double Dragons
 
@@ -295,7 +296,7 @@ Unlike many other phases, it is better to start your re-opener here (a double me
 
 Starting a melee combo late into the cast will let you use your melee combo finishers for movement to get into your starting position. Following that, you can do one Dualcast safely at the starting position, then use three instant casts for movement (Acceleration and Swiftcast) to bait the Akh Morns and then start moving to your final spread or pair stack position.
 
-Clip: <https://youtu.be/YcoOeXy0EQU?t=739> 
+Clip: <https://youtu.be/YcoOeXy0EQU?t=739>
 
 ## Second Raid Buff Window: Touchdown vs Wyrm’s Breath 2
 
@@ -303,7 +304,7 @@ There are pros and cons to holding your second raid buff window all the way unti
 
 ## Post-Touchdown Raid Buffs
 
-After Touchdown, both dragons stand there casting enrage. The cast itself is very slow, meaning the party simply has to just stand within range of raid buffs and hit the bosses. 
+After Touchdown, both dragons stand there casting enrage. The cast itself is very slow, meaning the party simply has to just stand within range of raid buffs and hit the bosses.
 
 It is common for some jobs to use this opportunity to build gauge for the final phase, meaning the value of the buff window is not maximized. However, this usually isn’t an issue due to the lax DPS check. If still progging, feel free to spend gauge on a melee combo on the dragons or use caster LB2 to guarantee you are able to see the next phase for practice purposes.
 
@@ -315,7 +316,7 @@ Raid buffs come off of cooldown some time before the Wyrm’s Breath 2 mechanic,
 
 The downside to this is that, if not executed properly, it is easier for people to miss raid buffs while doing the mechanic if they preemptively spread out too far. Depending on the job and Wyrm’s Breath 2 strat, it may also be more difficult for some jobs to execute their burst windows properly while doing the mechanic.
 
-Clip: <https://youtu.be/ElRQd4ASBtw?t=796> 
+Clip: <https://youtu.be/ElRQd4ASBtw?t=796>
 
 # Phase Seven: Dragon King Thordan
 
@@ -325,7 +326,7 @@ This phase is full uptime with only a moderate amount of movement planning requi
 
 ## Auto-Attack Timing and Magick Barrier
 
-It can be good for us to take the second boss auto-attack after Exaflares. The reason for this is because it naturally places us underneath the boss to cast Magick Barrier before the next Akh Morn mechanic, ensuring it reaches everyone and covers every Akh Morn hit. Use it as the boss places the towers down, his swords light up, and you move to your group stack. 
+It can be good for us to take the second boss auto-attack after Exaflares. The reason for this is because it naturally places us underneath the boss to cast Magick Barrier before the next Akh Morn mechanic, ensuring it reaches everyone and covers every Akh Morn hit. Use it as the boss places the towers down, his swords light up, and you move to your group stack.
 
 While this logic could apply to anyone who casts an AoE mitigation for Akh Morn, there is additional value for us due to our more limited movement, i.e. a physical ranged or MNK (Mantra) can dip in quickly and throw out their mitigation without uptime or timing concerns.
 
@@ -333,10 +334,10 @@ While this logic could apply to anyone who casts an AoE mitigation for Akh Morn,
 
 If you opted for this buff timing (mandatory for post-Touchdown buffs in P6), the following combo timings are recommended for buff alignment and movement:
 
-* One for the phase opener
-* Three for Gigaflare 1 movement (triple combo, potion, buffs)
-* One for Gigaflare 2 movement
-* Three for Akh Morn 3 (triple combo, potion, buffs)
+- One for the phase opener
+- Three for Gigaflare 1 movement (triple combo, potion, buffs)
+- One for Gigaflare 2 movement
+- Three for Akh Morn 3 (triple combo, potion, buffs)
 
 Save Swiftcast and Acceleration to handle Exaflare movements.
 
@@ -344,17 +345,17 @@ Save Swiftcast and Acceleration to handle Exaflare movements.
 
 If you opted for this buff timing (optional and only possible if you used raid buffs during Wyrm’s Breath 2), the following combo timings are recommended for buff alignment and movement:
 
-* One for the phase opener
-* Two for first set of party autos into Akh Morn 1 (double combo, potion, buffs)
-* One for second Exaflares
-* Three for Gigaflare 2 movement into third Exaflares (triple combo, potion, buffs)
-* One for Akh Morn 3 into enrage
+- One for the phase opener
+- Two for first set of party autos into Akh Morn 1 (double combo, potion, buffs)
+- One for second Exaflares
+- Three for Gigaflare 2 movement into third Exaflares (triple combo, potion, buffs)
+- One for Akh Morn 3 into enrage
 
 Save Swiftcast and Acceleration to handle the first Exaflare after your opening combo and the Gigaflare 1 mechanic.
 
 Congratulations!
 
-- - -
+---
 
 # Clear PoVs
 
@@ -362,7 +363,7 @@ Congratulations!
 
 God Okonkwo: <https://bit.ly/3xTno97> \
 \
-Lana White: <https://bit.ly/3DSW7Yo> 
+Lana White: <https://bit.ly/3DSW7Yo>
 
 ## Manafication Rush
 

@@ -16,6 +16,7 @@ changelog:
   - date: 2023-06-10T03:34:39.485Z
     message: No changes, updated patch number
 ---
+
 # Red Mage Level 90 Guide for 6.x
 
 ## Overview
@@ -41,9 +42,9 @@ If you have more questions after reading the guide, feel free to ask in #rdm_que
 
 ### Black and White Mana
 
-Red Mage’s job gauge, the Balance Gauge, displays the current amount of **Black Mana** and **White Mana** available. Black Mana is accumulated by casting Verthunder III, Verfire, Verflare, and Verthunder II, while White Mana is accumulated by casting Veraero III, Verstone, Verholy, and Veraero II. Casting Jolt II, Impact, Scorch, and Resolution will give both Black and White mana. 
+Red Mage’s job gauge, the Balance Gauge, displays the current amount of **Black Mana** and **White Mana** available. Black Mana is accumulated by casting Verthunder III, Verfire, Verflare, and Verthunder II, while White Mana is accumulated by casting Veraero III, Verstone, Verholy, and Veraero II. Casting Jolt II, Impact, Scorch, and Resolution will give both Black and White mana.
 
-*The gauge:*
+_The gauge:_
 
 ![](https://lh7-us.googleusercontent.com/1-K02tQKnOWdJIX4ykdL3fF6DJz5Q4ikxd5s7UdABCmuml1K4aM01acE7guKBj3zCcsu2ONVfHTNakhUHD_dvMlIPx9bSahuk_EXY7XAkgK-kP1Jd7Q1KrEpycz7FFNlRvHPac-QHNfLmaRSlIzIOR0)
 
@@ -55,7 +56,7 @@ Red Mage has two types of spells – what we refer to as long casts (5s cast tim
 
 Spells with longer cast times have higher potencies than our short casts and also generate more mana, but should never be hardcast with their full cast time outside the opener. Instead, we utilize these spells efficiently with our Dualcast trait. We gain the Dualcast buff from hardcasting a spell, which allows us to instantly cast any spell with a cast time. Our casting phase then follows a rhythm of hardcasting spells with short cast times to gain Dualcast, and then using the buff to instantly cast spells with longer cast time to maximize our potency and mana generation over time.
 
-Casting Verthunder III gives us black mana, while casting Veraero III gives us white mana. Every time Verthunder III or Veraero III is used, there is a 50% chance of receiving a proc, which allows us to cast either Verfire or Verstone respectively. 
+Casting Verthunder III gives us black mana, while casting Veraero III gives us white mana. Every time Verthunder III or Veraero III is used, there is a 50% chance of receiving a proc, which allows us to cast either Verfire or Verstone respectively.
 
 In single target scenarios, you cast Verfire or Verstone (or Jolt II if no procs are available) and then dualcast either Verthunder III or Veraero III. When choosing whether to dualcast Verthunder III or Veraero III, you should prioritize whatever mana type does not currently have a proc available. For example, if you cast Verstone and already have a Verfire proc available, your dualcast should be spent on Veraero (if it will not unbalance your mana) as you have spent your Verstone proc and have a chance of receiving another Verstone proc.
 
@@ -63,7 +64,7 @@ In two target scenarios, your primary rotation becomes Jolt II (or procs if avai
 
 In scenarios with three or more targets, you should replace your shortcasts with Verthunder II or Veraero II, which give you black mana and white mana respectively. Both of these spells are potency gains over Jolt II, Verfire, and Verstone at three or more targets.
 
-GCD spells, potencies, and mana generation values are shown below. 
+GCD spells, potencies, and mana generation values are shown below.
 
 | **Spell**      | **Mana Generation**      | **Potency** | **Cast Time** | **Recast**  |
 | -------------- | ------------------------ | ----------- | ------------- | ----------- |
@@ -103,8 +104,6 @@ An important distinction in-game to keep in mind is that the melee combo and fin
 | Scorch                   | 4 Black & 4 White Mana      | 680 AoE with 60% falloff      | 2.5 seconds |
 | Resolution               | 4 Black & 4 White Mana      | 750 line AoE with 60% falloff | 2.5 seconds |
 
-
-
 ### Damaging oGCDs and buffs
 
 One of the strongest parts of Red Mage’s kit is its powerful oGCD abilities, which include Fleche, Contre Sixte, two charges of Corps-a-corps, and two charges of Engagement/Displacement. All of these abilities deal a good amount of damage, so it is important to use them on cooldown and maximize usages throughout an encounter.
@@ -115,8 +114,6 @@ One of the strongest parts of Red Mage’s kit is its powerful oGCD abilities, w
 | Contre Sixte            | 380 AoE     | 35 seconds      |
 | Corps-a-corps           | 130         | 35 seconds      |
 | Engagement/Displacement | 180         | 35 seconds      |
-
-
 
 Damage oGCD priority (based on potency and cooldown timer):
 
@@ -168,7 +165,7 @@ These oGCD abilities play a unique and essential role in our rotation. They are 
 
 Ensures the next Verthunder III, Veraero III, or Impact can be cast immediately without Dualcast. We have two charges of this ability. If we cast other spells with Acceleration up, we will hardcast them per usual and the Acceleration buff will not be consumed. As a bonus effect, it guarantees a proc from Verthunder III and Veraero III, and gives a 50 potency boost to Impact.
 
-**Swiftcast *(role action)***
+**Swiftcast _(role action)_**
 
 Ensures the next spell can be cast immediately. While there is no bonus effect on procs or potency, it has the niche use of being usable on other spells, most notably Verraise if you wish to revive someone more quickly without Dualcast.
 
@@ -210,11 +207,11 @@ Due to our gauge capacity being twice the cost of a melee combo, we have a lot o
 
 Outside of mobility, the most important way to utilize melee combo is to always have enough mana to use one under buffs. This will generally be every two minutes, but can also occur if an Astrologian gives you a ranged card. As our melee combo is our most significant burst window, our goal is to maximize its usage under buffs. While our own Embolden lasts 20 seconds, there are multiple 15 second party buffs in the game. A full melee combo is around 12.7 seconds long, so it’s vital to begin our combo on time to land our strongest finishers under them.
 
-Our baseline is to land one singular melee combo under full party buffs every buff window. However, as our own Embolden and certain other party buffs are 20s long, it is possible to fit more than a singular combo under it. While we cannot fit two full combos under 20s buffs, we are able to fit three finishers and a full melee combo. In order to accomplish this, we aim to begin our first melee combo around five seconds before Embolden comes off cooldown. This allows us to hit Embolden after Enchanted Redoublement, buffing our three finishers and our immediate second combo. If you aim to do this, it is important that you **time your own rotation around Embolden’s availability, and not the other way around**. Embolden is a party buff and should not be used selfishly. 
+Our baseline is to land one singular melee combo under full party buffs every buff window. However, as our own Embolden and certain other party buffs are 20s long, it is possible to fit more than a singular combo under it. While we cannot fit two full combos under 20s buffs, we are able to fit three finishers and a full melee combo. In order to accomplish this, we aim to begin our first melee combo around five seconds before Embolden comes off cooldown. This allows us to hit Embolden after Enchanted Redoublement, buffing our three finishers and our immediate second combo. If you aim to do this, it is important that you **time your own rotation around Embolden’s availability, and not the other way around**. Embolden is a party buff and should not be used selfishly.
 
 ![Embolden Example](/img/jobs/rdm/exembolden.png)
 
-*An example Embolden window*
+_An example Embolden window_
 
 ### Potion
 
@@ -224,7 +221,7 @@ There are two requirements to pull this off. One, a minimum of 73|73 mana, and t
 
 ![Potion Example](/img/jobs/rdm/example-potion-window.png)
 
-*An example potion window*
+_An example potion window_
 
 Both the Embolden and potion scenarios above assume that the extra combos used under them are not needed elsewhere. As mentioned, your baseline is to get one melee combo under party buffs and two in your potion. If the extra melee combo to gain additional finishers under buffs or potion is needed elsewhere for movement, it is far more important to use them to maintain uptime as losing GCDs on the boss will negate any gain from moving a few GCDs to be under buffs.
 
@@ -242,7 +239,7 @@ Red Mage has two party mitigation abilities, both of which can be done by pressi
 
 Provides 10% partywide magical mitigation and a 5% boost to healing actions (including oGCDs) for ten seconds. Since it is a party buff, party members need to be in range to gain the effect. On the plus side, it can be used to mitigate damage coming from untargetable sources. Magick Barrier is especially useful for “heal checks”, where there are repeated instances of damage and the healer has to use multiple heals to keep the party alive.
 
-**Addle *(role action)***
+**Addle _(role action)_**
 
 Lowers the target’s physical damage dealt by 5% and magic damage dealt by 10% for ten seconds. Since it is a boss debuff, it cannot be used on untargetable damage sources. But on the plus side, party members don’t have to be in range for it to work. This makes it particularly useful for heavy instances of damage where the party has to spread out. While physical damage tends to be less common than magic damage, there may be instances that the physical damage reduction can be useful too (e.g. a magical tank buster followed by physical autos).
 
@@ -258,11 +255,11 @@ In addition to mitigation, Red Mage has two party recovery GCD spells that can b
 
 **Vercure**
 
-Since Vercure is a GCD and comes at the expense of our DPS spells (which do damage and generate mana for our melee combos), **we do not use this spell for sustained healing in combat.** No raid content is designed in such a way that DPS need to repeatedly use single target heals, making Vercure far more useful in solo content. Our standard use for Vercure in raids is to proc Dualcast during downtime when the boss is untargetable for damage. 
+Since Vercure is a GCD and comes at the expense of our DPS spells (which do damage and generate mana for our melee combos), **we do not use this spell for sustained healing in combat.** No raid content is designed in such a way that DPS need to repeatedly use single target heals, making Vercure far more useful in solo content. Our standard use for Vercure in raids is to proc Dualcast during downtime when the boss is untargetable for damage.
 
 A notable exception to this would be during downtime mechanics where party members are taking damage and the boss is not targetable, such as Wormhole Formation in Alexander Ultimate. Using Vercure to heal yourself or party members during downtime mechanics is not a DPS loss and should be attempted if it does not distract you too much from performing your own mechanics.
 
-In combat, however, Vercure’s heal is potent enough to be useful during clutch moments, such as saving someone who is low HP from dying to a raidwide when the healers are busy healing AoE damage. This tends to take a high degree of raid awareness and reaction speed to pull off, and can be seen as a more advanced maneuver. In short, as a form of utility, Vercure can be used in one off situations to fire off a “clutch” heal, but there should never be a situation in standard raids where you are regularly expected to heal with Vercure. 
+In combat, however, Vercure’s heal is potent enough to be useful during clutch moments, such as saving someone who is low HP from dying to a raidwide when the healers are busy healing AoE damage. This tends to take a high degree of raid awareness and reaction speed to pull off, and can be seen as a more advanced maneuver. In short, as a form of utility, Vercure can be used in one off situations to fire off a “clutch” heal, but there should never be a situation in standard raids where you are regularly expected to heal with Vercure.
 
 **Verraise**
 
@@ -278,14 +275,14 @@ If in a static, try to work together with or communicate with your healer. For m
 
 ### Other
 
-**Sleep** *(role action)*
+**Sleep** _(role action)_
 
 New role action in Endwalker. This is unlikely to find much use in raids or dungeons. Raid bosses are generally immune to status effects, and hitting a sleeping normal mob will wake them up anyway. However, Sleep can have some niche uses disabling enemies in the overworld or certain types of instanced content, like in Eureka. This spell can proc and consume Dualcast, and can also be Swiftcast.
 
-**Surecast** *(role action)*
+**Surecast** _(role action)_
 
-Nullifies most knockback and draw-in abilities from enemies. Not only will this be useful for surviving mechanics, but it can also help us ensure our casts don’t get interrupted. Some mechanics explicitly ignore Surecast, but unfortunately there is no good way of telling ahead of time. 
+Nullifies most knockback and draw-in abilities from enemies. Not only will this be useful for surviving mechanics, but it can also help us ensure our casts don’t get interrupted. Some mechanics explicitly ignore Surecast, but unfortunately there is no good way of telling ahead of time.
 
-**Lucid Dreaming** *(role action)*
+**Lucid Dreaming** _(role action)_
 
 Gradually recover MP, totalling 3850 MP restored over its full duration. RDM’s rotation is MP negative so Lucid Dreaming is necessary to keep our GCD rolling. An advisable time to press it is when you have around 70% MP remaining. Don’t wait until your MP runs out, because you may suddenly need to Verraise a few people to save your party from wiping.

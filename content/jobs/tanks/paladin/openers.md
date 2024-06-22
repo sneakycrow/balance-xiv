@@ -17,9 +17,10 @@ changelog:
   - date: 2023-11-06T06:06:32.632Z
     message: Updated graphic for 6.4 changes
 ---
+
 # Paladin Openers
 
-Tanks currently use Grade 8 Tinctures of Strength 
+Tanks currently use Grade 8 Tinctures of Strength
 (Strength also affects tank magic potency, including healing).
 
 ## In-depth Opener and Rotation Graphic

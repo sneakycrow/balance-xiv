@@ -63,9 +63,10 @@ authors:
   - Balance-NIN-Staff
   - akashi
 ---
+
 # Best-in-Slot (BiS)
 
-For your Best-in-Slot gear, you will generally be going for Weapon Damage> Dexterity> Crit> Direct Hit> Determination >> Skill Speed. This is not 100% exact once you get to the max gear, but until you have that, that is the priority in stats. 
+For your Best-in-Slot gear, you will generally be going for Weapon Damage> Dexterity> Crit> Direct Hit> Determination >> Skill Speed. This is not 100% exact once you get to the max gear, but until you have that, that is the priority in stats.
 
 # 2.12 GCD BiS
 
@@ -88,7 +89,7 @@ Use the 2.12 GCD BiS for general play, the 2.11 plays around potential extra gcd
 
 Meld priority for non BIS pieces: Crit>>>>DH>DET >>>>>>>>>>>>>>>>>>>>>>>>>>>>>> SKS
 
-- - -
+---
 
 # UCOB BIS
 
@@ -100,11 +101,11 @@ Meld priority for non BIS pieces: Crit>>>>DH>DET >>>>>>>>>>>>>>>>>>>>>>>>>>>>>> 
 
 Can use other pieces; needs the following all above ilvl 470:
 
-* Relic weapon: CRT 318/DH 318/DET 314/SKS 217 
-* Body/pants: 2x CRT/DET
-* Helmet/gloves/boots: 2x CRT/DH, 1x CRT/DET
-* Accessories: 3x CRT/DET, 3x CRT/DH
-* Food: Smoked Chicken HQ
+- Relic weapon: CRT 318/DH 318/DET 314/SKS 217
+- Body/pants: 2x CRT/DET
+- Helmet/gloves/boots: 2x CRT/DH, 1x CRT/DET
+- Accessories: 3x CRT/DET, 3x CRT/DH
+- Food: Smoked Chicken HQ
 
 # The Epic of Alexander Best In Slot
 

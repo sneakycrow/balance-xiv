@@ -16,6 +16,7 @@ changelog:
   - date: 2024-04-13T20:37:15.315Z
     message: Fixed 2.46 image link
 ---
+
 # Dragoon Opener and Rotation
 
 The primary use of the Opener is to prepare your cooldown alignment for the rest of the encounter. With our new job design, it’s possible that we’ll actually have fight-specific openers down the stretch.
@@ -35,13 +36,16 @@ This video shows a full six minute rotation at a 2.50 GCD, using the opener abov
 {{< youtube UOeJywv1ILA >}}
 
 ## 2.46 GCD Opener and Rotation
+
 ![2.46 Opener](https://i.imgur.com/91zUUtA.png)
 
 #### Why 2.46?
+
 Due to our preferred GCD of 2.50 having to avoid any gear and food with Skill Speed, there will often be sets that can use these Skill Speed pieces to hit slightly better stat tiers or have more crit than 2.50, this combined with 2.46 giving us the best result for a low amount of Skill Speed with easy to hit 9GCD buffs and minimal oGCD drift causes it to often be on par, or better in performance at perfect play than 2.50.
 There are also fights in which 2.46 will let you hit a GCD before downtime where 2.50 would be near the end of its GCD spin giving even more value to 2.46.
 
 #### Should you play 2.46?
+
 If your ping is higher than 50ms, no. \
 If you're not yet comfortable with the basics of Dragoon gameplay on 2.50, no. \
 If you're not looking to squeeze out 0.1% more damage by performing a more difficult rotation, no. \
@@ -49,6 +53,7 @@ If you're not looking to squeeze out 0.1% more damage by performing a more diffi
 2.46 is there as an option for people who want to maximise their damage, or are looking for a less static rotation than 2.50.
 
 #### Rotation
+
 The most important thing is that you want to avoid clipping your GCD to keep the benefit of the faster Skill Speed, due to this there will be times you delay an oGCD to the next GCD to ensure it doesn't clip.
 
 ![Geirskogul](https://xivapi.com/i/002000/002583.png)
@@ -66,7 +71,7 @@ Since our GCD loop takes around 2 minutes to match back up with our oGCDs it mea
 ![Lance Charge](https://xivapi.com/i/000000/000309.png) \
 Lance Charge will always come up at the opposite spot of where you used it before, if you use it at the start of your GCD the next one will become ready before the end of your GCD. Because of this you will always alternate hitting Lance Charge late into your GCD to get 9 buffed GCDs, and weaving it right after a GCD on cooldown to prevent drifting it.
 
-**__9GCD Buffs:__** \
+****9GCD Buffs:**** \
 The slightly faster GCD speed allows us to hit a 9th GCD in our 20s buffs ( :lc: & :ds~1: ) when they are weaved late enough into our GCD, about 75% into the GCD spin.
 
 ![Tincture](https://xivapi.com/i/020000/020710.png) \

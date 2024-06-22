@@ -19,6 +19,7 @@ changelog:
   - date: 2023-05-25T20:43:36.539Z
     message: Updated for 6.4 (no changes)
 ---
+
 ![Ninja standard opener graphic. ](/img/jobs/nin/earlymug3.png "Ninja Standard Opener")
 
 ⦿ Late weave Trick Attack as much as possible without clipping. \

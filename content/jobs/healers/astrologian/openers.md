@@ -10,6 +10,7 @@ changelog:
   - date: 2022-03-04T21:43:54.532Z
     message: Updated for Endwalker
 ---
+
 # Opener
 
 The most up to date Astrologian opener(s) can always be found in the #ast_resources channel on The Balance Discord. Keep in mind that Astrologian openers are extremely flexible and depend almost entirely on the circumstances of the fight, the timings of the planned raid DPS bursts, and party composition. Any premade Astrologian opener is a generic framework, not a universally optimal opener.
@@ -18,7 +19,4 @@ We've taken a lot of care to evaluate as many of the variables as we reasonably 
 
 ![](/img/jobs/ast/ast_ew_opener_4.png "Endwalker Opener")
 
-
-
-
-Note: for Pandaemonium Savage, Earthly Star is Prepull -4s in every fight. 
+Note: for Pandaemonium Savage, Earthly Star is Prepull -4s in every fight.

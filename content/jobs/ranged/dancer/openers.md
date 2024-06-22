@@ -14,6 +14,7 @@ changelog:
   - date: 2023-01-20T15:13:38.632Z
     message: Updated for 6.3
 ---
+
 # OPENER INFOGRAPHIC
 
 ![DNC Opener](/img/jobs/dnc/dncopener.png "DNC Opener")
@@ -22,7 +23,7 @@ changelog:
 
 Pre-Pull: \
 -15s: Standard Step (Step, Step)\
-  Peloton\
+ Peloton\
 -1.5s: Current Tincture of Dexterity
 
 Pull:
@@ -32,7 +33,7 @@ Technical Finish (Devilment) \
 Starfall Dance (Flourish, Fan Dance III) \
 Tillana (Fan Dance IV) \
 Saber Dance/Crit Fountainfall (if Feather, Fan Dance I, if proc Fan Dance III) \
-Standard Step (Step, Step)\ 
+Standard Step (Step, Step)\
 Standard Finish
 
 Thanks to Moth for the image!

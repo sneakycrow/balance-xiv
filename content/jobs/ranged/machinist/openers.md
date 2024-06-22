@@ -15,6 +15,7 @@ tags:
   - "6.2"
   - FFXIV
 ---
+
 # Openers 
 
 It is important that you attempt to put as much damage into the raid buffs of your party as possible. Wildfire does not scale with skill speed, so once it’s placed in your opener it will never move forward and can only be delayed in your rotation. Wildfire should be placed properly in the opener based on your party composition and the downtime you have in an encounter. Wildfire snapshots raid buffs upon use of the ability -- not on detonation. Wildfire cannot critical hit or direct hit, thus gaining no benefit from crit or direct hit-boosting raid buffs. Each opener contains six GCDs prior to Hypercharge. This six GCD setup is the only way to summon Queen in your opener without delaying Drill to 12.5 seconds.

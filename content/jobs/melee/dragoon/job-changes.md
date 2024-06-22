@@ -37,7 +37,8 @@ changes:
 
       | Eragonfire Dive   | Action animation has been shortened.                                                                                  |
   - patch: "6.2"
-    description: "| Action          |  Adjustment                                  |
+    description:
+      "| Action          |  Adjustment                                  |
 
       | --------------- |  ------------------------------------------- |
 

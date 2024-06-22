@@ -21,17 +21,18 @@ changelog:
   - date: 2024-01-17T05:40:28.783Z
     message: Updated for 6.55
 ---
+
 # Foreword
 
-With the release of Endwalker, Samurai is now celebrating four years in the game. With Boxer’s permission I am updating this guide for Endwalker. ~~6.0 doesn’t change a whole lot about the fundamentals of playing Samurai or melee~~ 6.1 has fundamentally changed the way Samurai plays in Endwalker, and the changes will be covered in this document. Despite this, this guide is still intended for newer players. 
+With the release of Endwalker, Samurai is now celebrating four years in the game. With Boxer’s permission I am updating this guide for Endwalker. ~~6.0 doesn’t change a whole lot about the fundamentals of playing Samurai or melee~~ 6.1 has fundamentally changed the way Samurai plays in Endwalker, and the changes will be covered in this document. Despite this, this guide is still intended for newer players.
 
 \-Zombii
 
-- - -
+---
 
 The following section summarizes Samurai’s abilities. You may also refer to [Square Enix’s Samurai Job Guide](https://na.finalfantasyxiv.com/jobguide/samurai/) for specific skill and trait text. Feel free to skip this section if you are familiar with Samurai’s skills.
 
-- - -
+---
 
 # Actions
 
@@ -59,24 +60,24 @@ Kenki is SAM’s second but extremely vital resource. All of SAM’s GCD skills 
 
 **Key points of dealing damage as a Samurai:**
 
-* Minimizing resource waste by not overwriting Sen/Meditation or generating excess Kenki
-* Maximizing bursts within raid buffs
-* Awareness of fight transitions to know how much Sen/Kenki to start or end a phase with
-* Tsubame-gaeshi, Meikyo, and Ikishoten/Ogi CD timing
+- Minimizing resource waste by not overwriting Sen/Meditation or generating excess Kenki
+- Maximizing bursts within raid buffs
+- Awareness of fight transitions to know how much Sen/Kenki to start or end a phase with
+- Tsubame-gaeshi, Meikyo, and Ikishoten/Ogi CD timing
 
 **Advantages:**
 
-* Low entry barrier to learn the basics of Samurai, high skill ceiling allows for skill expression
-* Heavy 120s burst, with good 60s burst as well
-* Lenient buff uptimes tied to mandatory combos
-* Incredible mobility with backstep and charge
-* Lenient positionals
+- Low entry barrier to learn the basics of Samurai, high skill ceiling allows for skill expression
+- Heavy 120s burst, with good 60s burst as well
+- Lenient buff uptimes tied to mandatory combos
+- Incredible mobility with backstep and charge
+- Lenient positionals
 
 **Disadvantages:**
 
-* Fast ramp time is dependent on the availability of Meikyo Shisui, otherwise takes a long windup to recover from losing its buffs.
-* The sheer flexibility means optimization becomes a fight-to-fight basis; requires high adaptability.
-* Complete lack of raid utility. Whether or not a SAM is worth bringing to raid is entirely up to the skill of the player.
+- Fast ramp time is dependent on the availability of Meikyo Shisui, otherwise takes a long windup to recover from losing its buffs.
+- The sheer flexibility means optimization becomes a fight-to-fight basis; requires high adaptability.
+- Complete lack of raid utility. Whether or not a SAM is worth bringing to raid is entirely up to the skill of the player.
 
 # Swinging the Blade: Practicing the Strokes
 
@@ -94,11 +95,11 @@ Meikyo Shisui allows us to put our buffs up immediately, removing the long ramp-
 
 Due to the aforementioned Meikyo changes that allow us to apply buffs more quickly, we have shifted from applying Fuka (formerly Shifu) first to applying Fugetsu (formerly Jinpu) first. Since we can apply Fuka on the second GCD, we lose less from applying it second. However, we gain a large amount of potency from its application GCD (Kasha when under Meikyo) under Fugetsu.
 
-When we do not have Meikyo, the first buff that is up is often Fuka, the haste buff. I am using “haste” in this document to shorten the full effect which is “reduces Weaponskill cast time and recast time, spell cast time and recast time, and auto-attack delay.” This buff means that our GCD timer will be reduced (to a maximum of 2.18, assuming no Skill Speed on gear) and that auto-attacks will happen more often while it is up. Note that this *does not* affect the damage over time from Higanbana. However, it does rotate you through your combos quicker to acquire more Sen and Kenki and minimize the opportunity to drop your buffs.
+When we do not have Meikyo, the first buff that is up is often Fuka, the haste buff. I am using “haste” in this document to shorten the full effect which is “reduces Weaponskill cast time and recast time, spell cast time and recast time, and auto-attack delay.” This buff means that our GCD timer will be reduced (to a maximum of 2.18, assuming no Skill Speed on gear) and that auto-attacks will happen more often while it is up. Note that this _does not_ affect the damage over time from Higanbana. However, it does rotate you through your combos quicker to acquire more Sen and Kenki and minimize the opportunity to drop your buffs.
 
 Fugetsu is a 13% flat damage increase to all your abilities, including Higanbana’s damage over time (DoT) portion. As such, you want to make sure that this buff is up every time you use Higanbana or Midare to take advantage of its enormous potency value, as Fuka doesn’t increase damage dealt. Coming from downtime with no buffs and three Sen up, you will want to prioritize Jinpu.
 
-Lastly, Yukikaze would be the least significant combo out of the three in the opener, but one of the most significant throughout the fight. SAM’s opener relies on lining up the buffs and CDs to maximize damage with raid buffs, and Yukikaze offers no self-buff to Samurai. By starting Yukikaze, Samurai will end up not being able to have both Shifu or Jinpu up by the time raid buffs go out, as everything will be delayed by a combo. During the fight, Yukikaze is great to have as your only Sen up leading into downtime because it allows you to get both buffs back up before using Midare. It can also be used to help as an alignment tool. 
+Lastly, Yukikaze would be the least significant combo out of the three in the opener, but one of the most significant throughout the fight. SAM’s opener relies on lining up the buffs and CDs to maximize damage with raid buffs, and Yukikaze offers no self-buff to Samurai. By starting Yukikaze, Samurai will end up not being able to have both Shifu or Jinpu up by the time raid buffs go out, as everything will be delayed by a combo. During the fight, Yukikaze is great to have as your only Sen up leading into downtime because it allows you to get both buffs back up before using Midare. It can also be used to help as an alignment tool.
 
 **Tip:** <span style="text-decoration:underline;">Remember Iaijutsu does not break combo.</span> If you need to reapply Higanbana but Fugetsu is down and you are already sitting on one Sen, you can do a Hakaze > Jinpu > Iaijutsu > Gekko and you will have the Fugetsu buff applied on your Higanbana without wasting the Sen on the combo.
 
@@ -117,14 +118,14 @@ If the Sen system and Ogi Namikiri and its 800 potency is what catches people’
 
 From the numbers above, a few conclusions can be drawn:
 
-* Guren and Senei are extremely powerful oGCDs and carry a very high potency/Kenki. Just the sheer potency number makes you want to use this ASAP on an opener. Guren is a gain starting on two targets.
-* Senei gives you the biggest bang for your buck.
-* Gyoten and Yaten are worth the same as Shinten, allowing you to use them to manipulate Kenki before buff windows or dump more during buff windows.
-* Kyuten outperforms Shinten at three mobs and above.
+- Guren and Senei are extremely powerful oGCDs and carry a very high potency/Kenki. Just the sheer potency number makes you want to use this ASAP on an opener. Guren is a gain starting on two targets.
+- Senei gives you the biggest bang for your buck.
+- Gyoten and Yaten are worth the same as Shinten, allowing you to use them to manipulate Kenki before buff windows or dump more during buff windows.
+- Kyuten outperforms Shinten at three mobs and above.
 
 In addition, it means that **<span style="text-decoration:underline;">each time you successfully use Third Eye you have effectively gained 100 potency.</span>** This potency can add up very quickly by the end of an encounter, so always try to press Third Eye when you know there is incoming damage.
 
-*Note regarding Yaten-Enpi-Gyoten:* If you factor only the Yaten-Enpi combo, it is 10 Kenki cost for an additional 260 potency and regenerates 10 Kenki, and that gives you 26 potency per Kenki. <span style="text-decoration:underline;">However, this combo does not give you any benefits to reapply your buffs or for adding a Sen.</span> While it is a potent one GCD combo, it cannot be used reliably outside of very specific situations, such as dodging out of an AOE while being unable to go back to the boss soon or off-setting your GCDs by one. Gyoten can be used as a gap closer if Sprint won’t do the job, or to manipulate your Kenki bar for more damage under buffs.
+_Note regarding Yaten-Enpi-Gyoten:_ If you factor only the Yaten-Enpi combo, it is 10 Kenki cost for an additional 260 potency and regenerates 10 Kenki, and that gives you 26 potency per Kenki. <span style="text-decoration:underline;">However, this combo does not give you any benefits to reapply your buffs or for adding a Sen.</span> While it is a potent one GCD combo, it cannot be used reliably outside of very specific situations, such as dodging out of an AOE while being unable to go back to the boss soon or off-setting your GCDs by one. Gyoten can be used as a gap closer if Sprint won’t do the job, or to manipulate your Kenki bar for more damage under buffs.
 
 ## To Enpi or to Not Enpi (And Gyoten and Yaten)
 
@@ -152,11 +153,11 @@ The goal of Meikyo is to manipulate your Sen so you can apply your buffs as quic
 
 **Tip:** Iaijutsu does not count as one of the three Weaponskills on Meikyo, so you can use it between the three to put up Higanbana with ease. For example: Meikyo starts > Kasha > Higanbana > Kasha > Gekko (Meikyo ends).
 
-In relation to the order of the Sen, it is important to note *which* finishers to use if you are planning to come out of the Meikyo with one or two Sen. You need to look at the remaining duration of the buffs you have and keep track of the order of the buffs that need to be refreshed. The reason being that the first combo you do after a Meikyo will likely be the buff that needs to be refreshed or has the shortest duration; therefore, you will reapply the buff and its Sen immediately after and then followed by the next. As such, if you are ending a Meikyo with one or two Sen, use the Sen with the longest buff duration last in Meikyo.
+In relation to the order of the Sen, it is important to note _which_ finishers to use if you are planning to come out of the Meikyo with one or two Sen. You need to look at the remaining duration of the buffs you have and keep track of the order of the buffs that need to be refreshed. The reason being that the first combo you do after a Meikyo will likely be the buff that needs to be refreshed or has the shortest duration; therefore, you will reapply the buff and its Sen immediately after and then followed by the next. As such, if you are ending a Meikyo with one or two Sen, use the Sen with the longest buff duration last in Meikyo.
 
-**For example:** If you just performed a Gekko combo and have a Getsu Sen and Higanbana need to be refreshed in four GCDs, but you cannot wait. 
+**For example:** If you just performed a Gekko combo and have a Getsu Sen and Higanbana need to be refreshed in four GCDs, but you cannot wait.
 
-With Meikyo, it is possible for you to go the following sequence: 
+With Meikyo, it is possible for you to go the following sequence:
 
 ![](/img/jobs/sam/meikyoExample.png)
 
@@ -168,7 +169,7 @@ Now, how to use Meikyo to increase your damage? Consider Meikyo as a GCD saver a
 
 ## Hagakure Usage
 
-Hagakure is an oGCD ability re-added to the game in patch 5.05 as a shadow of its former self. Originally a cornerstone of a Samurai’s rotation and toolkit in Stormblood, this ability now allows you to trade all of your Sen in for 10 Kenki each on a five second cooldown. 
+Hagakure is an oGCD ability re-added to the game in patch 5.05 as a shadow of its former self. Originally a cornerstone of a Samurai’s rotation and toolkit in Stormblood, this ability now allows you to trade all of your Sen in for 10 Kenki each on a five second cooldown.
 
 The intended purpose for the reintroduction of Hagakure from Square Enix seemed to be from the outcry of players who were upset that in dungeons they would sometimes have leftover Sen, and Hagakure would allow them to “wipe clean” this gauge in order to enter a dungeon boss without having to overcap existing Sen while re-applying buffs. In a raid setting, however, Hagakure serves a similar purpose: it wipes away the Sen we build while filling time to keep rotational alignment. Please refer to the section on looping to learn more.
 
@@ -176,19 +177,19 @@ The intended purpose for the reintroduction of Hagakure from Square Enix seemed 
 
 Of all the moves a Samurai can use, the single most powerful move is Higanbana. As you recall, Higanbana is 1100 potency of damage over the course of 60 seconds. Because of its sheer damage compacted into a single GCD, this is strongly amplified under raid buffs. The nice thing about raid buffs is that a good chunk of them will line up with Higanbana timing: Trick Attack, Battle Voice, Dragon Sight, Battle Litany, Chain Stratagem, Technical Step, etc. tend to fall under a cooldown time that is a multiple of 60s. As such, you should be able to land your Higanbana within those raid buffs at the time of refresh.
 
-With that said, how do you know when to *not* use Higanbana? Some bosses go invincible for a period of time during which your Higanbana is ineffective. When that happens, if your Higanbana did not get to make use of its duration, then it is lost DPS.
+With that said, how do you know when to _not_ use Higanbana? Some bosses go invincible for a period of time during which your Higanbana is ineffective. When that happens, if your Higanbana did not get to make use of its duration, then it is lost DPS.
 
 Comparing Midare Setsugekka with Higanbana, it takes about 42s of ticks for Higanbana to outdamage Midare Setsugekka in the same GCD.
 
-The rule of thumb is that if Higanbana was not able to tick for more than about 42s of its duration then it would have been better not to use it. This is doubly true if using Higanbana would have prevented you from using a Midare Setsugekka in the same period of time. Generally speaking, fight phases of 1:30 should have only one Higanbana used, 3:20 only three Higanbana, and so on. Fight phases of 3:50, for example, should have four Higanbana used *only* if you are able to use a buffed (already under Fugetsu at absolute minimum) Higanbana at the very first GCD and have perfect refresh timing. There are some situations where it is proper to use Higanbana when it would not tick for its full duration, such as at the end of a fight where you are ending on two meditation stacks in order to generate the extra stack and use Shoha, but that is a per-fight optimization that should be mathematically figured out according to the rest of the encounter.
+The rule of thumb is that if Higanbana was not able to tick for more than about 42s of its duration then it would have been better not to use it. This is doubly true if using Higanbana would have prevented you from using a Midare Setsugekka in the same period of time. Generally speaking, fight phases of 1:30 should have only one Higanbana used, 3:20 only three Higanbana, and so on. Fight phases of 3:50, for example, should have four Higanbana used _only_ if you are able to use a buffed (already under Fugetsu at absolute minimum) Higanbana at the very first GCD and have perfect refresh timing. There are some situations where it is proper to use Higanbana when it would not tick for its full duration, such as at the end of a fight where you are ending on two meditation stacks in order to generate the extra stack and use Shoha, but that is a per-fight optimization that should be mathematically figured out according to the rest of the encounter.
 
 Higanbana is responsible for much of a Samurai’s damage, but applying it liberally and improperly only means you will suffer in the long run.
 
 ## Rotation & Looping
 
-Samurai’s high potency rotation revolves around executing our biggest cooldown abilities as soon as they are available to ensure that we use all the available charges of each skill, as well as to ensure buff uptime in order to never drop Higanbana. To do so, we use what is referred to as a "looping" rotation, where the order of skills repeats every 120s after the opener. This looping rotation is separated into three distinct parts: the opener, the cooldown phase, and the burst phase. 
+Samurai’s high potency rotation revolves around executing our biggest cooldown abilities as soon as they are available to ensure that we use all the available charges of each skill, as well as to ensure buff uptime in order to never drop Higanbana. To do so, we use what is referred to as a "looping" rotation, where the order of skills repeats every 120s after the opener. This looping rotation is separated into three distinct parts: the opener, the cooldown phase, and the burst phase.
 
-In the opener, we use Meikyo Shisui before pulling the boss in order to have it up on pull to use Gekko and Kasha and apply our buffs as fast as possible. We then immediately use all of our large cooldown abilities (Senei, Ikishoten, both our Tsubame Gaeshi charges, and our second Meikyo Shisui charge) to get their cooldowns rolling. 
+In the opener, we use Meikyo Shisui before pulling the boss in order to have it up on pull to use Gekko and Kasha and apply our buffs as fast as possible. We then immediately use all of our large cooldown abilities (Senei, Ikishoten, both our Tsubame Gaeshi charges, and our second Meikyo Shisui charge) to get their cooldowns rolling.
 
 In the cooldown phase we are just passing the time waiting for our Higanbana timer to tick down and for our cooldowns to come back. To do this, we simply use our natural combos to build a Midare, and then build the three Sen again a second time. These three Sen then lead into your burst phase.
 
@@ -196,7 +197,7 @@ In the burst phase, we will use whichever big cooldowns are available to do our 
 
 ## Filler
 
-Filler is often the part of the Samurai rotation that new players struggle the most with, but once understood, is the key to successfully landing your big skills where you want them and not having to wait for skills to come off cooldown in the middle of your rotation. 
+Filler is often the part of the Samurai rotation that new players struggle the most with, but once understood, is the key to successfully landing your big skills where you want them and not having to wait for skills to come off cooldown in the middle of your rotation.
 
 Every minute of your Samurai rotation has either 28, 29, or 30 GCDs depending on which GCD tier you are using (2.14 / 2.07 / 2.00 respectively). Our normal cooldown and burst phase (not including Ogi+Kaeshi Namikiri) is 26 GCDs. This means that each time we execute our cooldown and burst, we need to fill another 2 / 3 / 4 GCDs. To do so, we use Ogi Namikiri and Kaeshi: Namikiri when we can (two GCDs) and combos and Hagakure when we cannot. This allows us to fill the empty space in our rotation with as much potency as we can, while still keeping all of our abilities lined up to execute on time.
 
@@ -221,7 +222,7 @@ A list of filler for a given amount of GCDs is as follows:
 Rule of thumb: Always AoE when there are three or more enemies. When AoEing groups of enemies as a SAM, you will want to put your buffs up with Meikyo Shisui and Mangetsu/Oka and then follow the basic rotation below:
 
 ![alt_text](https://xivapi.com/i/003000/003189_hr1.png "Fuko") **\->** ![alt_text](https://xivapi.com/i/003000/003165_hr1.png "Oka") **\->** ![alt_text](https://xivapi.com/i/003000/003189_hr1.png "Fuko") **\->** ![alt_text](https://xivapi.com/i/003000/003163_hr1.png "Mangetsu") **\->** ![](https://xivapi.com/i/003000/003161_hr1.png)
-![](<>)
+![]()
 
 The strength of SAM’s AoE rotation lies in the fact that both two-GCD AoE combos generate a different Sen each, allowing you to easily flow into a Tenka Goken. They will also naturally upkeep your buff timers, so you will not have to awkwardly switch back and forth from AoE to single target. Their strongest Hissatsu move, Guren, is also an extremely potent AoE and it is worth saving Guren for adds or AoE as long as you are not holding onto it for longer than its cooldown. Once you reach three targets or more, excess Kenki should be spent on Kyuten instead of Shinten.
 
@@ -245,11 +246,11 @@ For the complete beginners to melee DPS and this game’s terminology in general
 
 ## Glossary
 
-So you signed up for being a melee DPS, that means you want to hurt things, and you want to hurt things *up close and personal*. To maximize hurting things, let us go over some basic concepts.
+So you signed up for being a melee DPS, that means you want to hurt things, and you want to hurt things _up close and personal_. To maximize hurting things, let us go over some basic concepts.
 
 <span style="text-decoration:underline;">Potency:</span> The basic unit of how much damage a move will do. Comparing potencies between combos or rotations is useful only within the specific class.
 
-<span style="text-decoration:underline;">Global Cooldown:</span> (GCD) Can refer to two things. One is the skills themselves, also called Weaponskills. These are skills grouped together under a global cooldown and go on cooldown the same time they are pressed, and in almost all cases come off cooldown simultaneously. Always be using them when you can. Could also refer to *how long* your GCD is, or how long these skills are on cooldown when pressed. Examples: Hakaze is a GCD. My GCD is 2.13(seconds). 
+<span style="text-decoration:underline;">Global Cooldown:</span> (GCD) Can refer to two things. One is the skills themselves, also called Weaponskills. These are skills grouped together under a global cooldown and go on cooldown the same time they are pressed, and in almost all cases come off cooldown simultaneously. Always be using them when you can. Could also refer to _how long_ your GCD is, or how long these skills are on cooldown when pressed. Examples: Hakaze is a GCD. My GCD is 2.13(seconds).
 
 <span style="text-decoration:underline;">Off-Global Cooldown:</span> (oGCD) are abilities that have their own cooldowns that act independently of other abilities with job-specific exceptions. The abilities have a variety of effects like buffs or damage and are meant to be cast in the downtime between two consecutive GCDs.
 
@@ -265,50 +266,50 @@ So you signed up for being a melee DPS, that means you want to hurt things, and 
 
 ## Rules of Thumb
 
-* *<span style="text-decoration:underline;">Rotate through the combos:</span>* For classes with multiple combos with different effects, rotate through all of them for maximum effect. 
-* *<span style="text-decoration:underline;">How many oGCDs between two GCDs?:</span>* At base GCD recast time, do not use more than two oGCDs between two consecutive GCDs. At reduced GCD recast time or high latency, use one oGCD unless the situation calls for it. Most of the time you don’t want to use one after a GCD with a cast time. There are certain oGCD that have a longer lock. For example using a potion will not allow you to double weave between two GCDs.
-* *<span style="text-decoration:underline;">Taking a break on positionals:</span>* To minimize the movement required on moving between rear and flank for positional moves, position yourself at the point where the targeting circle breaks. By positioning yourself on the boundary between rear and flank you only need to move a foot either side for the positionals.
+- _<span style="text-decoration:underline;">Rotate through the combos:</span>_ For classes with multiple combos with different effects, rotate through all of them for maximum effect.
+- _<span style="text-decoration:underline;">How many oGCDs between two GCDs?:</span>_ At base GCD recast time, do not use more than two oGCDs between two consecutive GCDs. At reduced GCD recast time or high latency, use one oGCD unless the situation calls for it. Most of the time you don’t want to use one after a GCD with a cast time. There are certain oGCD that have a longer lock. For example using a potion will not allow you to double weave between two GCDs.
+- _<span style="text-decoration:underline;">Taking a break on positionals:</span>_ To minimize the movement required on moving between rear and flank for positional moves, position yourself at the point where the targeting circle breaks. By positioning yourself on the boundary between rear and flank you only need to move a foot either side for the positionals.
 
 ![](https://lh4.googleusercontent.com/iugvrxCSRoRG7NMfhhDlT6txW2o5EwTSE8J2FOlnH1TyiiSnJWn8KrUIRaTATPYvB7oA3_XIlM7dvwaLmGQXO9qswp27-lNU0fvN1enOh2iHVFsQQThVOwNmPNFEQAFBng7XcTwx=s0 "image_tooltip")
 
-*Figure 1: How to position yourself to minimize movements for positionals!*
+_Figure 1: How to position yourself to minimize movements for positionals!_
 
-* *<span style="text-decoration:underline;">Dead DPS does no damage:</span>* Avoid dying at all costs unless the team strategy or mechanics require you to die so the encounter won’t wipe. A dead person contributes nothing while dead and will be raised with reduced battle stats.
+- _<span style="text-decoration:underline;">Dead DPS does no damage:</span>_ Avoid dying at all costs unless the team strategy or mechanics require you to die so the encounter won’t wipe. A dead person contributes nothing while dead and will be raised with reduced battle stats.
 
 # Changelog
 
 March 2018, Patch 4.2
 
-* No changes to SAM since Stormblood launch
-* Restructured guide
-* Added section on Higanbana, Yaten-Enpi-Gyoten
-* Added fight specific tips as of Sigmascape: Savage
+- No changes to SAM since Stormblood launch
+- Restructured guide
+- Added section on Higanbana, Yaten-Enpi-Gyoten
+- Added fight specific tips as of Sigmascape: Savage
   May 2018, Patch 4.3
-* +20 Potency to Jinpu, Shifu, Yukikaze, Gekko, and Kasha
-* Third Eye damage reduction increased to 10%
-* Additional effect on Merciful Eyes: 20% current enmity reduction
+- +20 Potency to Jinpu, Shifu, Yukikaze, Gekko, and Kasha
+- Third Eye damage reduction increased to 10%
+- Additional effect on Merciful Eyes: 20% current enmity reduction
 
 Sept 2018, Patch 4.4
 
-* +20 Potency to Yukikaze, Gekko, Kasha, and Enpi
+- +20 Potency to Yukikaze, Gekko, Kasha, and Enpi
 
 July 2019, Patch 5.0
 
-* Boxer takes over for Aureum as caretaker.
-* Large-scale updates to everything coinciding with expansion changes.
+- Boxer takes over for Aureum as caretaker.
+- Large-scale updates to everything coinciding with expansion changes.
 
 November 2019, Patch 5.1
 
-* 5.1 changes added and guide finally fully updated for Shadowbringers.
+- 5.1 changes added and guide finally fully updated for Shadowbringers.
 
 January 2022, Patch 6.05
 
-* First draft of an updated guide for Endwalker.
+- First draft of an updated guide for Endwalker.
 
 March 2022, Pre-Patch 6.1
 
-* Added Rotation/Looping+Filler sections.
+- Added Rotation/Looping+Filler sections.
 
 August 2022, Pre-Patch 6.2
 
-* Adjusted math and guidance (re:Kaiten Removal) for Patch 6.1 changes.
+- Adjusted math and guidance (re:Kaiten Removal) for Patch 6.1 changes.

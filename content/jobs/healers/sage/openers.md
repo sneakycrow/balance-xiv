@@ -8,6 +8,7 @@ changelog:
   - date: 2022-01-24T06:51:23.100Z
     message: Created page
 ---
+
 # Standard Opener
 
 ![](https://www.thebalanceffxiv.com/img/sge_standard.png)

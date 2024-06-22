@@ -13,6 +13,7 @@ export default defineNuxtConfig({
       },
     ],
     "@nuxt/content",
+    "@nuxt/eslint",
   ],
   vue: {
     compilerOptions: {

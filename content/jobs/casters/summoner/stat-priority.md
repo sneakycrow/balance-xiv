@@ -12,11 +12,10 @@ priority: Spell Speed (to 2.46-2.48) > Critical Hit > Determination >= Direct
 authors:
   - Balance-SMN-Staff
 ---
+
 As a general rule we recommend:
 
 SpS to 2.46-2.48 > Crit > Det >= DH > More SpS
-
-
 
 There is an alternative way to play the job that focuses on maximizing SpS and minimizing Crit instead, which would use this priority:
 

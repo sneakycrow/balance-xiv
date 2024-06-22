@@ -17,6 +17,7 @@ changelog:
     message: Updated for 6.55
 tags: []
 ---
+
 Your standard opener which will be used in the majority of encounters. Due to phasing, in some instances it may be best to begin with Kasha into Gekko instead.
 
 If Iai weaves are easier than double weaves for you, feel free to move Senei forward before Kaeshi: Setsugekka.

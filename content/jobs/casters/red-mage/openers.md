@@ -12,6 +12,7 @@ changelog:
   - date: 2023-06-10T03:35:34.874Z
     message: No changes, updated patch number
 ---
+
 ![](/img/jobs/rdm/rdm_ew_opener.png)
 
 [Full Size](https://www.thebalanceffxiv.com/img/jobs/rdm/rdm_ew_opener.png)
