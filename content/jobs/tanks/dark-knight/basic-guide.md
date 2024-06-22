@@ -18,11 +18,12 @@ changelog:
   - date: 2023-01-18T23:02:37.977Z
     message: Opener update and patch bump to 6.3.
 ---
+
 # Introduction to Dark Knight
 
 ## The useless pre-Endwalker guide by nikroulah#1605 (now updated for 6.x).
 
-- - -
+---
 
 # Introduction
 
@@ -30,21 +31,21 @@ Dark Knight (DRK) is one of the four tanks available in Final Fantasy XIV: Endwa
 
 The purpose of this guide is to give an overview of Dark Knight’s abilities and to allow you to hit the ground running when picking up Dark Knight, as well as giving a peek into optimization in high-end content.
 
-- - -
+---
 
 # Skills and Abilities Overview
 
 Skills and abilities can be found on the [this page.](/jobs/tanks/dark-knight/skills-overview/)
 
-- - -
+---
 
 # Dark Knight Opener
 
 Goals for DRK openers include:
 
-* Get Living Shadow out ASAP; the long spawn animation means any delays will push some hits out of raid buffs.
-* Get buffs like Blood Weapon and Delirium, and damaging abilities like Carve and Spit and Salted Earth on cooldown early.
-* Use as many big hits and spend as much mana as possible inside potion and raid buff windows (which typically come up around the 4th or 5th GCD).
+- Get Living Shadow out ASAP; the long spawn animation means any delays will push some hits out of raid buffs.
+- Get buffs like Blood Weapon and Delirium, and damaging abilities like Carve and Spit and Salted Earth on cooldown early.
+- Use as many big hits and spend as much mana as possible inside potion and raid buff windows (which typically come up around the 4th or 5th GCD).
 
 ## Standard Opener
 
@@ -60,22 +61,23 @@ Provoke should be used if you want to start with aggro, and left out otherwise.
 
 Opener notes:
 
-* Blood Weapon is used pre-pull to ensure that Living Shadow is used as soon as possible. Any later and a hit will get pushed out of raid buffs.
-* The pre-pull TBN is used to prevent MP overcap from the first Hard Slash under Blood Weapon, since if it breaks it refunds the MP cost in the form of a free Edge of Shadow.
+- Blood Weapon is used pre-pull to ensure that Living Shadow is used as soon as possible. Any later and a hit will get pushed out of raid buffs.
+- The pre-pull TBN is used to prevent MP overcap from the first Hard Slash under Blood Weapon, since if it breaks it refunds the MP cost in the form of a free Edge of Shadow.
 
-  * If the pre-pull TBN will not break, then simply omit it and overcap 600-800 MP before your first Edge of Shadow.
-* Try to avoid pulling with Unmend, as doing so will delay Living Shadow. If you need to start with aggro, Provoke can be used to pull.
+  - If the pre-pull TBN will not break, then simply omit it and overcap 600-800 MP before your first Edge of Shadow.
 
-- - -
+- Try to avoid pulling with Unmend, as doing so will delay Living Shadow. If you need to start with aggro, Provoke can be used to pull.
+
+---
 
 # Rotation
 
 Dark Knight’s rotation is deceptively simple, and follows these simple principles:
 
-* Avoid overcapping on MP or blood by using Edge of Shadow and Bloodspiller, respectively.
-* Use offensive abilities without charges (such as Carve and Spit, Salted Earth, Blood Weapon, and Delirium) when available.
-* Use offensive abilities with charges (Plunge and Shadowbringer) in raid buffs or to avoid overcapping. In practice, it is often possible to get all uses of Shadowbringer under raid buffs. Plunge, having a shorter cooldown, is best used twice a minute --- inside buffs at even minutes, and more freely during odd minutes.
-* Fill remaining GCDs with Souleater combo.
+- Avoid overcapping on MP or blood by using Edge of Shadow and Bloodspiller, respectively.
+- Use offensive abilities without charges (such as Carve and Spit, Salted Earth, Blood Weapon, and Delirium) when available.
+- Use offensive abilities with charges (Plunge and Shadowbringer) in raid buffs or to avoid overcapping. In practice, it is often possible to get all uses of Shadowbringer under raid buffs. Plunge, having a shorter cooldown, is best used twice a minute --- inside buffs at even minutes, and more freely during odd minutes.
+- Fill remaining GCDs with Souleater combo.
 
 ![Blood Weapon and Delirium](https://lh3.googleusercontent.com/0sINCR_AVAV3PHXz0Wc7lR1ziR1ZHlqxH6d-T7kYV8DPJU1ZKcScHwcqF7iE3Q9Y-qWn7oYgyYNz4jYqJsy0XuJv1GYBommNH5wpzfDU1ILERnTU-cuECpleMujWFiYw9vRgA9cC=s0)
 
@@ -93,7 +95,7 @@ Dark Knight generates around 12000 MP per minute, from a combination of Blood We
 
 Similarly, try to use three Blood Gauge spenders (i.e. Living Shadow, Bloodspiller) in addition to your free Delirium Bloodspillers during every 2-minute raid buff window.
 
-- - -
+---
 
 # Helpful Macros
 
@@ -154,7 +156,7 @@ Similarly, try to use three Blood Gauge spenders (i.e. Living Shadow, Bloodspill
 /ac "Shirk" <2>
 /ac "Shirk" <2>
 /ac "Shirk" <2>
-/micon "Shirk" 
+/micon "Shirk"
 ```
 
 ## Why are there so many repeated lines?
@@ -167,7 +169,7 @@ FFXIV macros do not queue, so hitting a macro while in animation lock from anoth
 
 <2> targets the second player on your party list, which is the other tank by default in eight-player content.
 
-- - -
+---
 
 # Stats and Itemization
 
@@ -177,36 +179,42 @@ Because of stat tiering, the Tank Gear Calc is the best tool to directly compare
 
 **Highest priority**
 
-* Weapon damage (main-hand weapon only)
+- Weapon damage (main-hand weapon only)
 
-  * Significantly affects all damage dealt
-  * Proportional to item level
-* Strength
+  - Significantly affects all damage dealt
+  - Proportional to item level
 
-  * Affects all damage dealt
-  * Proportional to item level
-* Critical Hit
+- Strength
 
-  * Affects critical chance + critical damage
-  * Often naturally capped on BiS gear pieces
-  * Priority meld on all gear (unless number turns red when melding)
-* Skill Speed
+  - Affects all damage dealt
+  - Proportional to item level
 
-  * Reduces weaponskill recast time
-  * Meld only to reach preferred GCD speed (commonly anywhere from 2.40s to 2.50s)
+- Critical Hit
+
+  - Affects critical chance + critical damage
+  - Often naturally capped on BiS gear pieces
+  - Priority meld on all gear (unless number turns red when melding)
+
+- Skill Speed
+
+  - Reduces weaponskill recast time
+  - Meld only to reach preferred GCD speed (commonly anywhere from 2.40s to 2.50s)
     (see https://www.akhmorning.com/allagan-studies/stats/speed/ for precise skill speed tiers)
-* Direct Hit
 
-  * Affects only direct hit chance
-  * Meld remaining slots (filler stat)
-* Determination
+- Direct Hit
 
-  * Increases damage dealt
-  * Sometimes used in one slot due to stat tiering
-* Tenacity
+  - Affects only direct hit chance
+  - Meld remaining slots (filler stat)
 
-  * Increases damage dealt and reduces damage taken
-  * Rarely melded due to weak scaling and minimal mitigation
+- Determination
+
+  - Increases damage dealt
+  - Sometimes used in one slot due to stat tiering
+
+- Tenacity
+
+  - Increases damage dealt and reduces damage taken
+  - Rarely melded due to weak scaling and minimal mitigation
 
 **Lowest priority**
 
@@ -218,7 +226,7 @@ Outside of high-end optimization, choice of skill speed has little impact on the
 
 In optimization, each encounter must be considered separately to determine what GCDs are gained or lost by different skill speeds, as well as lining up the GCD with any melee disengages. In general, the slowest speed that doesn’t lose any major GCDs within a phase will be the strongest choice.
 
-- - -
+---
 
 # Dungeons
 
@@ -230,8 +238,8 @@ Turn on Grit and never turn it off. As long as you keep hitting the mobs, you wi
 
 There are a variety of ways to ensure you pull all of the mobs in a pack quickly and reliably, without stopping on your way to the next pack of mobs:
 
-* Run up to the mobs so they see and run to you and use an AoE combo GCD once they are in range to secure aggro.
-* Tab through the mobs and use Unmend while weaving any damaging oGCDs or Provoke.
+- Run up to the mobs so they see and run to you and use an AoE combo GCD once they are in range to secure aggro.
+- Tab through the mobs and use Unmend while weaving any damaging oGCDs or Provoke.
 
 Try to position the mobs so that they are in a tight clump: this lets you, your DPS, and your healers use their AoE damage more effectively. Pull melee enemies onto ranged enemies so that the ranged enemies are also in the clump. Alternatively, drag mobs around a corner so the ranged enemies are forced to run next to you in order to attack.
 
@@ -246,7 +254,7 @@ Living Dead can be extremely strong in dungeons, as a single AoE GCD will often 
 ![AOE Priority](https://lh6.googleusercontent.com/DKjax_f1Kk-IJrU9YdnHGLXxOOL2oCqDD6JkngawU4fwiY__zyUW74xS664K6TosLnaSAExnPi3nwTzGW1BYUo8e6GYTNy_jfJhlvLdPOXSk76ObN_b8-IU64xfLMr__Vrb0bCyT=s0)\
  On any number of targets, prioritize spending Blood on Living Shadow.
 
- ![2 target](https://lh5.googleusercontent.com/je8u42LVxCMC4a2qHgEwjNHOuFNng5tvWD_Vl-r-IspjuXKoUq091qE2kA24aE_g19LmOEtxqKKx6iz9mMHa95Dzru1oK2lJfo6-fjwgYzRCHAi0o8a4deheL5zW8nhGXetcFPWv=s0)\
+![2 target](https://lh5.googleusercontent.com/je8u42LVxCMC4a2qHgEwjNHOuFNng5tvWD_Vl-r-IspjuXKoUq091qE2kA24aE_g19LmOEtxqKKx6iz9mMHa95Dzru1oK2lJfo6-fjwgYzRCHAi0o8a4deheL5zW8nhGXetcFPWv=s0)\
 On two or more targets, replace Souleater combo with Stalwart Soul Combo.
 
 | **Quietus**                                                                                                                                                                                 | **Flood**                                                                                                                                                                                    | **Abyssal**                                                                                                                                                                          |
@@ -255,14 +263,14 @@ On two or more targets, replace Souleater combo with Stalwart Soul Combo.
 
 On 3+ targets, replace:
 
-* Bloodspiller with Quietus
-* Edge of Shadow/Darkness with Flood of Shadow/Darkness
-* Carve and Spit with Abyssal Drain
+- Bloodspiller with Quietus
+- Edge of Shadow/Darkness with Flood of Shadow/Darkness
+- Carve and Spit with Abyssal Drain
 
 ![aoe 1](https://lh4.googleusercontent.com/RVzpcFuEas91IqZHJRjI-lSj70urqNF7Bg_xl8n1y96zIeXlOrZ81wlaILjc5Gj3X2uOUJdqGaCxR5oe0ioygq0aA9B6TuJWAsR4dX9rroodCwiYlUZiO41VxUoMhxoLaOLe63Js=s0)\
 Try to maximize the number of targets you hit with Salted Earth.
 
-- - -
+---
 
 # Frequently Asked Questions
 
@@ -270,7 +278,7 @@ Try to maximize the number of targets you hit with Salted Earth.
 
 Yes, although you need to be careful to not overcap on Blood, as Delirium prevents you from spending Blood with Bloodspiller until all three of its stacks have been used. With typical alignments of Blood Weapon and Delirium, you can accomplish this by making sure that you are at 40 Blood or less before pressing Blood Weapon or Delirium, whichever comes first.
 
-- - -
+---
 
 # Advanced Gameplay
 

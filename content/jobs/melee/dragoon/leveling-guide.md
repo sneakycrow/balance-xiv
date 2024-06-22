@@ -13,6 +13,7 @@ changelog:
   - date: 2023-05-29T13:33:57.559Z
     message: Updated patch - no changes
 ---
+
 # Dragoon Leveling Guide
 
 ## Gear
@@ -49,11 +50,11 @@ The general idea is to keep the Power Surge buff up and using the Pure Damage co
 
 The Area of Effect (AoE) rotation becomes worth it at three targets.
 
-Off-Global Cooldown actions such as Jump or Geirskogul, as well as buffs like Lance Charge, should be used on cooldown on all levels. 
+Off-Global Cooldown actions such as Jump or Geirskogul, as well as buffs like Lance Charge, should be used on cooldown on all levels.
 
 ### Levels 1-17
 
-* Single Target combo \
+- Single Target combo \
   True Thrust -> Vorpal Thrust
 
 Use Life Surge with Vorpal Thrust up to level 26 as it is your strongest weaponskill at this point.
@@ -64,9 +65,9 @@ New action: Disembowel. Using Disembowel will give you the Power Surge buff for 
 
 The general rotation idea from here on is to apply the Power Surge buff to yourself and then use the Pure Damage combo as a filler until the buff has to be applied again.
 
-* Buffing Single Target combo \
-  True Thrust -> Disembowel 
-* Pure Damage Single Target combo\
+- Buffing Single Target combo \
+  True Thrust -> Disembowel
+- Pure Damage Single Target combo\
   True Thrust -> Vorpal Thrust
 
 ### Levels 26-49
@@ -75,11 +76,11 @@ New action: Full Thrust. The next weaponskill in the Pure Damage combo. Due to i
 
 New action: Doom Spike. Your first AoE weaponskill. Use it when facing three or more enemies. You still have to manually keep Power Surge up by doing True Thrust -> Disembowel for now. Life Surge guarantees a Critical Hit on each target hit when used with this skill.
 
-* Buffing Single Target combo \
-  True Thrust -> Disembowel 
-* Pure Damage Single Target combo\
+- Buffing Single Target combo \
+  True Thrust -> Disembowel
+- Pure Damage Single Target combo\
   True Thrust -> Vorpal Thrust -> Full Thrust
-* AoE combo\
+- AoE combo\
   Doom Spike
 
 ### Levels 50-55
@@ -87,22 +88,22 @@ New action: Doom Spike. Your first AoE weaponskill. Use it when facing three or 
 New action: Chaos Thrust. The next weaponskill in the Buff combo and the first Rear positional. This action applies a Damage-over-Time (DoT) effect to the target. The general rotation idea does not change. This is our strongest weaponskill, however Life Surge does not apply to the DoT so it should still be used on Full Thrust or Doom Spike.
 When facing two enemies you want to apply the DoT to both first.
 
-* Buffing Single Target combo \
+- Buffing Single Target combo \
   True Thrust -> Disembowel -> Chaos Thrust
-* Pure Damage Single Target combo\
+- Pure Damage Single Target combo\
   True Thrust -> Vorpal Thrust -> Full Thrust
-* AoE combo\
+- AoE combo\
   Doom Spike
 
 ### Levels 56-57
 
 New action: Fang and Claw. Another extension of the Pure Damage combo and our only Flank positional.
 
-* Buffing Single Target combo \
+- Buffing Single Target combo \
   True Thrust -> Disembowel -> Chaos Thrust
-* Pure Damage Single Target combo\
+- Pure Damage Single Target combo\
   True Thrust -> Vorpal Thrust -> Full Thrust -> Fang and Claw
-* AoE combo\
+- AoE combo\
   Doom Spike
 
 ### Levels 58-63
@@ -111,11 +112,11 @@ New action: Wheeling Thrust. Another extension of the Buffing combo and our seco
 
 New action: Sonic Thrust. Our second combo action in the AoE combo. Applies the Power Surge buff so it is not necessary to manually apply it anymore. Use Life Surge on this skill in AoE scenarios.
 
-* Buffing Single Target combo \
+- Buffing Single Target combo \
   True Thrust -> Disembowel -> Chaos Thrust -> Wheeling Thrust
-* Pure Damage Single Target combo\
+- Pure Damage Single Target combo\
   True Thrust -> Vorpal Thrust -> Full Thrust -> Fang and Claw
-* AoE combo\
+- AoE combo\
   Doom Spike -> Sonic Thrust
 
 ### Levels 64-90
@@ -132,9 +133,9 @@ New action: Heavens' Thrust. At level 86 Full Thrust turns into Heavens' Thrust 
 
 New action: Chaotic Spring. At level 86 Chaos Thrust turns into Chaotic Spring. This is a base and DoT potency increase, it does not change the rotation.
 
-* Buffing Single Target combo \
+- Buffing Single Target combo \
   Raiden Thrust -> Disembowel -> Chaotic Spring -> Wheeling Thrust -> Fang and Claw
-* Pure Damage Single Target combo\
+- Pure Damage Single Target combo\
   Raiden Thrust -> Vorpal Thrust -> Heavens' Thrust -> Fang and Claw -> Wheeling Thrust
-* AoE combo\
+- AoE combo\
   Draconian Fury -> Sonic Thrust -> Coerthan Torment

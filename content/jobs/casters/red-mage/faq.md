@@ -12,7 +12,8 @@ changelog:
     message: No changes, updated patch number
 qna:
   - question: How should I use Manafication?
-    answer: You should be using Manafication on cooldown, or as close to on cooldown
+    answer:
+      You should be using Manafication on cooldown, or as close to on cooldown
       as possible. If using it when it comes off cooldown will cause you to
       overcap your Black or White Mana, you can start a combo first and use it
       after your three melee hits, as the melee hits and finishers are
@@ -24,7 +25,8 @@ qna:
       to use Manafication on cooldown, as losing a use of Manafication will
       offset any gain you received by delaying it and will be an overall loss.
   - question: Should I use two melee combos under my Embolden?
-    answer: As Embolden is 20 seconds long, and a full melee combo now takes around
+    answer:
+      As Embolden is 20 seconds long, and a full melee combo now takes around
       12.7 seconds, it is not possible to fit two full combos under one
       Embolden. Your priority should be to always use one melee combo under
       Embolden. If you use Embolden after Enchanted Redoublement, it is possible
@@ -55,14 +57,16 @@ qna:
 
       Because of the uneven number of finishers in our melee combo at level 90, every melee combo will cause these windows to flip, causing oGCD drift. Swiftcast and Acceleration will also cause our Dualcast and our hardcast windows to flip. This means that every time we do a melee combo, one use of Acceleration or Swiftcast will "re-align" our oGCDs with our Dualcast windows.
   - question: Should I be using Engagement instead of Displacement?
-    answer: With the potency changes in Endwalker, Engagement and Displacement are
+    answer:
+      With the potency changes in Endwalker, Engagement and Displacement are
       now the same potency. Therefore, in the majority of situations, it is now
       strictly better to use Engagement instead of Displacement. Displacement
       may still have niche uses, such as for movement when Dualcasting will not
       be fast enough for what is needed, but will generally not be used aside
       from this.
   - question: Should I use Enchanted Reprise?
-    answer: With a cost of 5|5 mana, Enchanted Reprise drains a large portion of our
+    answer:
+      With a cost of 5|5 mana, Enchanted Reprise drains a large portion of our
       Black and White mana and its recast time has been increased to 2.5
       seconds. This means that Enchanted Reprise's only uses will be for
       movement when all other tools are depleted, and to get one last hit on a

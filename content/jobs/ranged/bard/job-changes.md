@@ -23,7 +23,8 @@ changes:
 
       View the latest changes for 6.28 at the Official Site, located [here](https://na.finalfantasyxiv.com/jobguide/bard/)!
   - patch: "6.3"
-    description: "- Nature's Minne is no longer a single-target skill. It affects
+    description:
+      "- Nature's Minne is no longer a single-target skill. It affects
       all party members in a 20 yalm range, increasing healing received by 15%.
       It now has a 120s cooldown."
   - patch: "6.4"

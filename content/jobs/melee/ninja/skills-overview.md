@@ -14,12 +14,13 @@ changelog:
   - date: 2023-05-25T20:43:05.211Z
     message: Updated to 6.4 (no changes)
 ---
+
 # Weaponskills (Commonly referred to as GCDs)
 
 ![SpinningEdge](https://xivapi.com/i/000000/000601_hr1.png)\
 **Spinning Edge**
 
-Delivers an attack with a potency of 220. Grants 5 Ninki. This is the first part of our basic combo. 
+Delivers an attack with a potency of 220. Grants 5 Ninki. This is the first part of our basic combo.
 
 ![GustSlash](https://xivapi.com/i/000000/000602_hr1.png)\
 **Gust Slash**
@@ -32,7 +33,7 @@ Delivers an attack with a potency of 160. If used after Spinning Edge in the com
 Delivers an attack with a potency of 140, or 200 potency if done from the rear of the enemy. If this is used after Gust Slash as the third part of our combo, it will instead deliver an attack with a potency of 380, or 440 if done from the enemy's rear. Grants 15 Ninki if used in the combo. This is one of two options for the third part of our basic combo.
 
 ![ArmorCrush](https://xivapi.com/i/002000/002915_hr1.png)\
-**Armor Crush**  
+**Armor Crush**
 
 Delivers an attack with a potency of 140, or 200 if done from the enemy's flank. If this is used after Gust Slash as the third part of the combo, it will instead deliver an attack with a potency of 360, or 420 if done from the enemy's flank. If done as part of the combo, it will also add 30 seconds to your Huton timer, assuming your Huton timer is already active, to a maximum of 60 seconds. Grants 15 Ninki if used in the combo. This is one of two options for the third part of our basic combo.
 
@@ -69,13 +70,13 @@ Upon the execution of Katon, Goka Mekkyaku, Phantom Kamaitachi—or Hakke Mujins
 
 **Forked Raiju**
 
-Delivers a lightning attack with a potency of 560. Grants 5 Ninki. Can only be used while under the effect of Raiju Ready, granted by Raiton, and consumes one stack of the buff when used. Forked Raiju is a gap-closer with a range of 20 yalms. 
+Delivers a lightning attack with a potency of 560. Grants 5 Ninki. Can only be used while under the effect of Raiju Ready, granted by Raiton, and consumes one stack of the buff when used. Forked Raiju is a gap-closer with a range of 20 yalms.
 
- ![](https://xivapi.com/i/002000/002932_hr1.png)
+![](https://xivapi.com/i/002000/002932_hr1.png)
 
 **Fleeting Raiju**
 
-Delivers a lightning attack with a potency of 560. Grants 5 Ninki. Can only be used while under the effect of Raiju Ready, granted by Raiton, and consumes one stack of the buff when used. Fleeting Raiju is a regular melee GCD. 
+Delivers a lightning attack with a potency of 560. Grants 5 Ninki. Can only be used while under the effect of Raiju Ready, granted by Raiton, and consumes one stack of the buff when used. Fleeting Raiju is a regular melee GCD.
 
 # Ninjutsus/Mudras (GCDs)
 
@@ -104,12 +105,12 @@ Delivers a ranged Ninjutsu attack with a potency of 450. This is achieved with a
 ![Raiton](https://xivapi.com/i/002000/002912_hr1.png)\
 **Raiton**
 
-Deals lightning damage with a potency of 650 and grants a stack of Raiju Ready, up to a maximum of three. This is achieved by any two-mudra combination that ends with Chi. So, Ten > Chi or Jin > Chi. Has a range of 20 yalms. 
+Deals lightning damage with a potency of 650 and grants a stack of Raiju Ready, up to a maximum of three. This is achieved by any two-mudra combination that ends with Chi. So, Ten > Chi or Jin > Chi. Has a range of 20 yalms.
 
 ![Katon](https://xivapi.com/i/002000/002908_hr1.png)\
 **Katon**
 
-Deals fire damage with a potency of 350 to the target and all nearby enemies within a five-yalm radius. This is achieved by any two-mudra combination that ends with Ten, such as Chi > Ten or Jin > Ten. Has a range of 20 yalms. 
+Deals fire damage with a potency of 350 to the target and all nearby enemies within a five-yalm radius. This is achieved by any two-mudra combination that ends with Ten, such as Chi > Ten or Jin > Ten. Has a range of 20 yalms.
 
 ![Hyoton](https://xivapi.com/i/002000/002909_hr1.png)\
 **Hyoton**
@@ -122,14 +123,14 @@ Deals ice damage with a potency of 350. This also puts a bind on the target for 
 Reduces weaponskill recast time and auto-attack delay by 15%. Starts with a duration of 60 seconds and can be increased incrementally back to the maximum of 60 seconds from Armor Crush and Hakke Mujinsatsu. This is achieved by any three-mudra combination ending in Ten, such as Jin > Chi > Ten or Chi > Jin > Ten. The buff is only applied to yourself. It can also be obtained by using Huraijin.
 
 ![Doton](https://xivapi.com/i/002000/002911_hr1.png)\
-**Doton**  
+**Doton**
 
 Creates a patch of corrupted earth that acts like a stationary Damage over Time (DoT) and deals 80 potency to enemies within it, as well as 80 potency to any enemies in the AoE as it is created. Also applies a 40% heavy on enemies in the AoE which lasts for 18 seconds, resulting in 480 total potency, and a combined potency of 560 altogether. This is achieved by any three-mudra combination ending in Chi, such as Ten > Jin > Chi or Jin > Ten > Chi. The AoE has a radius of five yalms.
 
 ![Suiton](https://xivapi.com/i/002000/002913_hr1.png)\
 **Suiton**
 
-Deals water damage with a potency of 500. This also grants the effect of Suiton for 20 seconds, which allows you to use any ability that was previously only usable under Hidden, such as Trick Attack. This is achieved by any three-mudra combination that ends with Jin: Ten > Chi > Jin or Chi > Ten > Jin. Has a range of 20 yalms. 
+Deals water damage with a potency of 500. This also grants the effect of Suiton for 20 seconds, which allows you to use any ability that was previously only usable under Hidden, such as Trick Attack. This is achieved by any three-mudra combination that ends with Jin: Ten > Chi > Jin or Chi > Ten > Jin. Has a range of 20 yalms.
 
 ![GokaMekkyaku](https://xivapi.com/i/002000/002925_hr1.png)\
 **Goka Mekkyaku**
@@ -154,7 +155,7 @@ These are your regular abilities that can be used at any time when you are not i
 ![Mug](https://xivapi.com/i/000000/000613_hr1.png)\
 **Mug**
 
-Delivers an attack with a potency of 150. Grants 40 Ninki gauge on use. In addition, it debuffs the enemy for 20 seconds with a Vulnerability Up, increasing the enemy’s damage taken by 5% from all sources during this time. It also increases the chance of additional items dropped by the target if Mug is dealt before or as the finishing blow. This extra effect is mostly irrelevant since it only works on basic drops that you don't end up caring about, such as Bat Fangs. This skill has a personal cooldown of 120 seconds. 
+Delivers an attack with a potency of 150. Grants 40 Ninki gauge on use. In addition, it debuffs the enemy for 20 seconds with a Vulnerability Up, increasing the enemy’s damage taken by 5% from all sources during this time. It also increases the chance of additional items dropped by the target if Mug is dealt before or as the finishing blow. This extra effect is mostly irrelevant since it only works on basic drops that you don't end up caring about, such as Bat Fangs. This skill has a personal cooldown of 120 seconds.
 
 ![TrickAttack](https://xivapi.com/i/000000/000618_hr1.png)\
 **Trick Attack**
@@ -164,7 +165,7 @@ Delivers an attack with a potency of 300, or 400 if done from the target enemy's
 ![Kassatsu](https://xivapi.com/i/002000/002906_hr1.png)\
 **Kassatsu**
 
-Allows the use of a single Ninjutsu without consuming a mudra charge. In addition, it increases the damage of the Ninjutsu used during this buff by 30%. This buff allows you to use Hyosho Ranryu and Goka Mekkyaku. The damage buff also applies to Goka Mekkyaku and Hyosho Ranryu. This buff has a duration of 15 seconds and is lost upon the use of the next ninjutsu or the timer running out. This ability has a personal cooldown of 60 seconds. 
+Allows the use of a single Ninjutsu without consuming a mudra charge. In addition, it increases the damage of the Ninjutsu used during this buff by 30%. This buff allows you to use Hyosho Ranryu and Goka Mekkyaku. The damage buff also applies to Goka Mekkyaku and Hyosho Ranryu. This buff has a duration of 15 seconds and is lost upon the use of the next ninjutsu or the timer running out. This ability has a personal cooldown of 60 seconds.
 
 ![DreamWithinADream](https://xivapi.com/i/002000/002918_hr1.png)\
 **Dream Within A Dream**
@@ -186,14 +187,14 @@ Dispels the Suiton buff and in return increases the Ninki gauge by 50. Additiona
 Ninki abilities are like normal oGCDs except that they require 50 Ninki to use. You can store up to 100 Ninki at once.
 
 ![HellfrogMedium](https://xivapi.com/i/002000/002920_hr1.png)\
-**Hellfrog Medium** 
+**Hellfrog Medium**
 
 Deals fire damage with a potency of 160 to the target and any other enemies near the target. Costs 50 Ninki to use. This ability has a range of 25 yalms and deals damage in a six-yalm radius around the target.
 
 ![Bhavacakra](https://xivapi.com/i/002000/002921_hr1.png)\
 **Bhavacakra**
 
-Deals unaspected damage with a potency of 350. Costs 50 Ninki to use. 
+Deals unaspected damage with a potency of 350. Costs 50 Ninki to use.
 
 ![Bunshin](https://xivapi.com/i/002000/002927_hr1.png)\
 **Bunshin**
@@ -218,7 +219,7 @@ Gives yourself a shield equal to 20% of your maximum HP. This shield lasts 20 se
 ![Hide](https://xivapi.com/i/000000/000609_hr1.png)\
 **Hide**
 
-Blend in with your surroundings, making it impossible for most enemies to detect you, but reducing movement speed by 50%. Has no effect on enemies ten levels higher than you, or certain enemies with special sight. Grants the buff Hidden. This cannot be executed in combat, and you will lose the Hidden buff and be taken out of Hide if you enter combat. This effect also ends upon the use of any action except for Sprint, or upon the reuse of Hide. The use of this ability will also restore two charges of your mudras. 
+Blend in with your surroundings, making it impossible for most enemies to detect you, but reducing movement speed by 50%. Has no effect on enemies ten levels higher than you, or certain enemies with special sight. Grants the buff Hidden. This cannot be executed in combat, and you will lose the Hidden buff and be taken out of Hide if you enter combat. This effect also ends upon the use of any action except for Sprint, or upon the reuse of Hide. The use of this ability will also restore two charges of your mudras.
 
 ![Shukuchi](https://xivapi.com/i/002000/002905_hr1.png)\
 **Shukuchi**
@@ -248,12 +249,12 @@ Lowers target’s physical damage dealt by 10%, and magical damage dealt by 5%. 
 ![ArmsLength](https://xivapi.com/i/000000/000822_hr1.png)\
 **Arm's Length**
 
-Creates a barrier nullifying most knockback and draw-in effects. Has a duration of six seconds. Applies a 20% slow for 15 seconds on any target that hits you during this six second duration. Has a personal cooldown of 120 seconds. 
+Creates a barrier nullifying most knockback and draw-in effects. Has a duration of six seconds. Applies a 20% slow for 15 seconds on any target that hits you during this six second duration. Has a personal cooldown of 120 seconds.
 
 ![TrueNorth](https://xivapi.com/i/000000/000830_hr1.png)\
 **True North**
 
-Nullifies all action direction requirements. This means that attacks like Aeolian Edge, Armor Crush, and Trick Attack will do the full potency no matter where you attack the enemy from. This buff lasts for ten seconds and has two charges. The charges have a charge time of 45 seconds. 
+Nullifies all action direction requirements. This means that attacks like Aeolian Edge, Armor Crush, and Trick Attack will do the full potency no matter where you attack the enemy from. This buff lasts for ten seconds and has two charges. The charges have a charge time of 45 seconds.
 
 # Traits
 

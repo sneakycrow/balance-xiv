@@ -15,4 +15,5 @@ priority: Crit > DET > DH >>>> SkS
 authors:
   - Balance-NIN-Staff
 ---
+
 Highest iLvl gear available generally will be the best option, regardless of substats, thanks to an increase in Dexterity and Weapon Damage. Between items of the same iLvl, the stat priority is Crit > DET > DH >>>> SkS.

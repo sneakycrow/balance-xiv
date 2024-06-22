@@ -11,18 +11,20 @@ changelog:
   - date: 2022-02-15T10:21:35.356Z
     message: Updated for Endwalker
   - date: 2022-04-22T16:43:57.854Z
-    message: Updated Cursed Knowledge section to bring the guide up to date; added
+    message:
+      Updated Cursed Knowledge section to bring the guide up to date; added
       Triple Blitz, Brotherhood Damage vs Chakra, and Dragon Kick Spam.
   - date: 2023-05-30T23:31:50.135Z
     message: Patch bump to 6.4
 ---
+
 # **Basic Monk Guide**
 
 Welcome to the basic guide for Monk, which will cover all of the information necessary to get you off your feet and onto your hands while you kick some voidsent in the face. Included is a look into the various systems that come together to define the Monk playstyle, suggested openers, and explanations on how to correctly form burst windows. If your thirst for knowledge remains unsated once you reach the conclusion of this guide, head on over to the [Advanced guide](/jobs/melee/monk/advanced-guide/) where we will dive further into the depths of forbidden Monk information.
 
 Throughout this guide I will be referring to all skills as if you were level 90. This is significant if you're still leveling, as some skills start out with a different name and upgrade upon reaching a certain level. The skills affected by this are as follows:
 
-| Initial  Name        | Upgraded Name           |
+| Initial Name         | Upgraded Name           |
 | -------------------- | ----------------------- |
 | Arm of the Destroyer | Shadow of the Destroyer |
 | Steel Peak           | The Forbidden Chakra    |
@@ -30,24 +32,24 @@ Throughout this guide I will be referring to all skills as if you were level 90.
 | Flint Strike         | Rising Phoenix          |
 | Tornado Kick         | Phantom Rush            |
 
-- - -
+---
 
 # Monk Basics
 
 ## Uptime
 
-As a Monk, uptime should be your top priority. Uptime itself is a multifaceted word; firstly, it refers to how physically close you are to an enemy. You can't punch that which you are far away from, and as such always keep in mind that you want to be as close as possible for as long as possible. Of course, if you have to step away to do a mechanic or dodge an aoe do so, but the mind of a Monk should always be looking to *minimize* the amount of time we spend not-hitting something; whether that's not running so far away to do aforementioned mechanics, or running back to the boss sooner after aoe damage snapshots, it is something to always be working on.
+As a Monk, uptime should be your top priority. Uptime itself is a multifaceted word; firstly, it refers to how physically close you are to an enemy. You can't punch that which you are far away from, and as such always keep in mind that you want to be as close as possible for as long as possible. Of course, if you have to step away to do a mechanic or dodge an aoe do so, but the mind of a Monk should always be looking to _minimize_ the amount of time we spend not-hitting something; whether that's not running so far away to do aforementioned mechanics, or running back to the boss sooner after aoe damage snapshots, it is something to always be working on.
 
-Secondly, uptime refers to the amount of time you spend hitting the boss. It's great if you can stay within striking distance of your foe permanently, but if you aren't pressing buttons, you're not doing any damage. Don't fret too much about only wanting to press the "correct" buttons for your rotation; pressing something is better than pressing nothing. You have plenty of time to review mistakes and correct yourself on what you *should've* done after the fact, the key is to make sure you're always doing *something.*
+Secondly, uptime refers to the amount of time you spend hitting the boss. It's great if you can stay within striking distance of your foe permanently, but if you aren't pressing buttons, you're not doing any damage. Don't fret too much about only wanting to press the "correct" buttons for your rotation; pressing something is better than pressing nothing. You have plenty of time to review mistakes and correct yourself on what you _should've_ done after the fact, the key is to make sure you're always doing _something._
 
-Of course uptime isn't exclusively important to Monk, but it *is* a key aspect to being a *good* Monk, and so it's important to keep these principles in mind as you're learning; after all, as the job with the fastest GCD in the game, each second wasted not casting is comparably more valuable to a Monk than to another job.
+Of course uptime isn't exclusively important to Monk, but it _is_ a key aspect to being a _good_ Monk, and so it's important to keep these principles in mind as you're learning; after all, as the job with the fastest GCD in the game, each second wasted not casting is comparably more valuable to a Monk than to another job.
 
 ## Positionals
 
 It's unlikely that you've made the decision to play Monk while remaining unaware of the P-word, but in case you've not come across it before, a "positional" is a skill that only gains maximum effect when used at a specific part of an enemy's hitbox: in Monk's case, either flank or rear. Alas, where we once had six positionals, in Endwalker we've been reduced to having simply two:
 
-* **Demolish** deals maximum damage when executed from behind an enemy.
-* **Snap Punch**, on the other hand, is best used from an enemy's flank (side).
+- **Demolish** deals maximum damage when executed from behind an enemy.
+- **Snap Punch**, on the other hand, is best used from an enemy's flank (side).
 
 Missing either positional is a 60 potency loss, which will add up over a fight. Try to ensure you're never missing any positionals.
 
@@ -63,11 +65,11 @@ Forms are a concept unique to Monk, and are what separates it from standard comb
 
 You have three forms: Opo-Opo, Raptor, and Coeurl:
 
-* In Opo-Opo form, Bootshine, Dragon Kick, and Shadow of the Destroyer gain additional effects. Using an Opo-opo GCD grants you Raptor form.
-* In Raptor form, True Strike, Twin Snakes, and Four-point Fury gain additional effects. Using a Raptor GCD grants you Coeurl form.
-* In Coeurl form, Demolish, Snap Punch, and Rockbreaker gain additional effects. Using a Coeurl GCD grants you Opo-opo form.
+- In Opo-Opo form, Bootshine, Dragon Kick, and Shadow of the Destroyer gain additional effects. Using an Opo-opo GCD grants you Raptor form.
+- In Raptor form, True Strike, Twin Snakes, and Four-point Fury gain additional effects. Using a Raptor GCD grants you Coeurl form.
+- In Coeurl form, Demolish, Snap Punch, and Rockbreaker gain additional effects. Using a Coeurl GCD grants you Opo-opo form.
 
-- - -
+---
 
 ## Core GCDs
 
@@ -93,9 +95,9 @@ Effectively, each step of our rotation has a pure potency choice and a utility c
 
 You can think of it as a flowchart:
 
-* When in Opo-Opo form, you check if you have Leaden Fist active. If you do, use Bootshine, if you don't, use Dragon Kick.
-* When in Raptor form you check the duration of your Disciplined Fist. If it's at roughly seven seconds remaining or more, press True Strike. If less, reapply Disciplined Fist.
-* When in Coeurl form, check the duration of your Demolish. If it's at roughly four seconds remaining or less, reapply Demolish, else press Snap Punch.
+- When in Opo-Opo form, you check if you have Leaden Fist active. If you do, use Bootshine, if you don't, use Dragon Kick.
+- When in Raptor form you check the duration of your Disciplined Fist. If it's at roughly seven seconds remaining or more, press True Strike. If less, reapply Disciplined Fist.
+- When in Coeurl form, check the duration of your Demolish. If it's at roughly four seconds remaining or less, reapply Demolish, else press Snap Punch.
 
 At first glance this might seem confusing, and you may feel like you're constantly having to check timers and buffs. In reality however, it's actually very simple. You'll notice that when following this flowchart, the rotation actually falls into a very repetitive pattern. Your Opo-Opo GCDs will always alternate between Bootshine and Dragon Kick. Your Raptor GCDs will always alternate between True Strike and Twin Snakes. Your Coeurl GCDs will always have two Snap Punches between every Demolish.
 
@@ -109,24 +111,24 @@ Our AoE rotation is quite simple. As opposed to other jobs that will have an ent
 | ---------------------------------------------------------------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 | ![Shadow of the Destroyer](https://xivapi.com/i/002000/002979_hr1.png) | Opo-Opo form has **Shadow of the Destroyer**, a circle AoE around you with 110 potency which becomes a guaranteed critical hit when executed with its form bonus.           |
 | ![Four-Point Fury](https://xivapi.com/i/002000/002544_hr1.png)         | Raptor form has **Four-Point Fury**, another circle AoE around you with 120 potency. It also grants a 15% damage increase buff, Discipled Fist, which lasts for 15 seconds. |
-| ![Rockbreaker](https://xivapi.com/i/002000/002529_hr1.png)             | Coeurl form has **Rockbreaker**, *another* circle AoE around you with 130 potency.                                                                                          |
+| ![Rockbreaker](https://xivapi.com/i/002000/002529_hr1.png)             | Coeurl form has **Rockbreaker**, _another_ circle AoE around you with 130 potency.                                                                                          |
 
 &nbsp;
 
 | **Icon:**       | ![](https://xivapi.com/i/000000/000208_hr1.png) | ![](https://xivapi.com/i/002000/002528_hr1.png) | ![](https://xivapi.com/i/002000/002979_hr1.png) | ![](https://xivapi.com/i/000000/000209_hr1.png) | ![](https://xivapi.com/i/000000/000213_hr1.png) | ![](https://xivapi.com/i/002000/002544_hr1.png) | ![](https://xivapi.com/i/000000/000210_hr1.png) | ![](https://xivapi.com/i/000000/000204_hr1.png) | ![](https://xivapi.com/i/002000/002529_hr1.png) |
 | --------------- | ----------------------------------------------- | ----------------------------------------------- | ----------------------------------------------- | ----------------------------------------------- | ----------------------------------------------- | ----------------------------------------------- | ----------------------------------------------- | ----------------------------------------------- | ----------------------------------------------- |
-| **GCD Potency** | **Bootshine**                                   | **Dragon Kick**                                 | **Shadow of the Destroyer**                     | **True Strike**                                 | **Twin Snakes**                                 | **Four-Point Fury**                             | **Snap Punch**                                  | **Demolish***                                   | **Rockbreaker**                                 |
+| **GCD Potency** | **Bootshine**                                   | **Dragon Kick**                                 | **Shadow of the Destroyer**                     | **True Strike**                                 | **Twin Snakes**                                 | **Four-Point Fury**                             | **Snap Punch**                                  | **Demolish\***                                  | **Rockbreaker**                                 |
 | One target      | 310                                             | 320                                             | 110                                             | 300                                             | 280                                             | 120                                             | 300                                             | 550                                             | 130                                             |
 | Two targets     | 310                                             | 320                                             | 220                                             | 300                                             | 280                                             | 240                                             | 300                                             | 550                                             | 260                                             |
 | Three targets   | 310                                             | 320                                             | 330                                             | 300                                             | 280                                             | 360                                             | 300                                             | 550                                             | 390                                             |
 
-\**Assuming each Demolish is able to fully tick.*
+\*_Assuming each Demolish is able to fully tick._
 
 Endwalker has greatly simplified our AoE options. As you can see, all of our AoE GCDs only become worthwhile on 3+ targets. The only thing that remains to think about when using AOEs is Demolish.
 
 Demolish is our strongest Coeurl form GCD, and given that it's a DoT, we're able to simply rotate it between targets for maximum DPS in multi-target scenarios. However, because it's a DoT, it relies on ticking fully for max value, and so you should estimate whether or not the DoT will tick for long enough to be worthwhile before applying it.
 
-- - -
+---
 
 ## Chakra
 
@@ -178,7 +180,7 @@ Celestial Revolution is just bad; we never want to use this skill. This is essen
 
 Phantom Rush. Phantom Rush is our strongest Masterful Blitz, and as such is the skill we're always building toward. As mentioned, Phantom Rush will be executed regardless of your Beast Chakra combination provided you have both Nadi available. In theory then, you'd want to use the 3x Opo-Opo PB window to execute Phantom Rush every time, as that's the highest raw potency.
 
-- - -
+---
 
 ## Riddle of Fire + Brotherhood
 
@@ -189,9 +191,9 @@ Phantom Rush. Phantom Rush is our strongest Masterful Blitz, and as such is the 
 
 &nbsp;
 
-On the face of it, Riddle of Fire and Brotherhood are pretty simple skills. We press Riddle of Fire and do more damage for the next 20 seconds. We press Brotherhood and both we and our party do more damage for the next 15 seconds. Now while the burst windows that we build around these skills using the rest of our kit can be complex, the actual usage of these skills themselves are very simple. In a full uptime vacuum we simply press them on cooldown every single time they come back up. Make sure you're always weaving RoF in the latter half of your GCD roll to ensure you get a full 11 GCDs under the buff. 
+On the face of it, Riddle of Fire and Brotherhood are pretty simple skills. We press Riddle of Fire and do more damage for the next 20 seconds. We press Brotherhood and both we and our party do more damage for the next 15 seconds. Now while the burst windows that we build around these skills using the rest of our kit can be complex, the actual usage of these skills themselves are very simple. In a full uptime vacuum we simply press them on cooldown every single time they come back up. Make sure you're always weaving RoF in the latter half of your GCD roll to ensure you get a full 11 GCDs under the buff.
 
-Some terminology I would like to introduce before we get deeper into the guide is the idea of odd and even Riddle of Fire windows. The "odd" window occurs on odd minutes (one, three, five, etc.), and consists solely of Riddle of Fire. The "even" window occurs on even minutes (two, four, six, etc), and contains both Riddle of Fire and Brotherhood. 
+Some terminology I would like to introduce before we get deeper into the guide is the idea of odd and even Riddle of Fire windows. The "odd" window occurs on odd minutes (one, three, five, etc.), and consists solely of Riddle of Fire. The "even" window occurs on even minutes (two, four, six, etc), and contains both Riddle of Fire and Brotherhood.
 
 ## Riddle of Wind
 
@@ -219,15 +221,15 @@ This is the part where I cover everything that's been missed until now. We've co
 | ![](https://xivapi.com/i/000000/000821_hr1.png) | **Second Wind** is an oGCD with a 120s CD. It instantly heals you with a cure potency of 500. Similar to Bloodbath, it's good to keep yourself alive in emergencies.                                                                                                                                                                                                                                                                                                                                                                                                                                       |
 | ![](https://xivapi.com/i/000000/000824_hr1.png) | **Leg Sweep** is an oGCD stun on a 40s CD. It's generally not ever used, as the few stuns that do pop up across the various encounters in this game are typically covered by a tank. Still, not entirely worthless if no one else in your group knows/is able to correctly time their stun.                                                                                                                                                                                                                                                                                                                |
 
-- - -
+---
 
 # Rotational Choices
 
 ## Openers
 
-There are two primary openers available to us, though additional options and variations can be found in the advanced guide. The **Lunar Solar** opener can be treated as a default opener, as it ensures maximum Phantom Rush usages over an unknown killtime. This opener also affords us the opportunity to be flexible with where we place Rising Phoenix in our two minute burst window. This is beneficial, as it allows for greater flexibility of our burst window to account for our current Disciplined Fist/Demolish state. 
+There are two primary openers available to us, though additional options and variations can be found in the advanced guide. The **Lunar Solar** opener can be treated as a default opener, as it ensures maximum Phantom Rush usages over an unknown killtime. This opener also affords us the opportunity to be flexible with where we place Rising Phoenix in our two minute burst window. This is beneficial, as it allows for greater flexibility of our burst window to account for our current Disciplined Fist/Demolish state.
 
-The **Double Solar** opener is something that only becomes worthwhile to switch to when you have a greater understanding of an encounter and its nuances -- primarily, having an estimated killtime that you are reasonably confident you'll achieve, and the knowledge that that killtime will not lose you a usage of Phantom Rush if you follow a Double Solar opener. 
+The **Double Solar** opener is something that only becomes worthwhile to switch to when you have a greater understanding of an encounter and its nuances -- primarily, having an estimated killtime that you are reasonably confident you'll achieve, and the knowledge that that killtime will not lose you a usage of Phantom Rush if you follow a Double Solar opener.
 
 Chakra usage in the opener depends on if you are able to double weave without clipping. If you can do so, simply use TFC as soon as it becomes available every time following the first usage. If you cannot do so, then there will be times when you are forced to sit on Chakra stacks for a GCD or two, as although you still want to use it as soon as possible, your priority is using your buffs in the correct places.
 
@@ -249,9 +251,9 @@ Brotherhood's placement is flexible should it ever need to be moved to account f
 
 Monk now has three different primary choices as to how you'd like to play. Available to us are the **braindead looping** rotation, the **optimal drift** rotation, and the **double solar** rotation:
 
-* The looping rotation forces a couple of minor "misplays" in order to form a rotation that naturally loops itself every two minutes, providing an easier gameplay experience for first timers. 
-* The optimal drift rotation consists of more nuanced burst windows, with multiple potential even windows depending on which Coeurl GCD happens around a Riddle of Fire.
-* The double solar rotation follows a set of rules based on Perfect Balance entries around Riddle of Fire windows for potentially higher DPS that relies on stricter conditions to excel.
+- The looping rotation forces a couple of minor "misplays" in order to form a rotation that naturally loops itself every two minutes, providing an easier gameplay experience for first timers.
+- The optimal drift rotation consists of more nuanced burst windows, with multiple potential even windows depending on which Coeurl GCD happens around a Riddle of Fire.
+- The double solar rotation follows a set of rules based on Perfect Balance entries around Riddle of Fire windows for potentially higher DPS that relies on stricter conditions to excel.
 
 ![Opener Analysis](/img/jobs/mnk/mnkguide_0006_rotations.png "Opener Analysis")
 
@@ -259,7 +261,7 @@ The image above demonstrates the DPS difference between each of the three rotati
 
 ### Braindead Looping Rotation
 
-This rotation is recommended mostly for either casual play or for getting your first taste of Monk before advancing to Optimal Drift. The reasoning for this is that while Optimal Drift contains various different ways of entering and forming your burst windows, the Loop essentially takes one of those possibilities and freezes it, making it loop forever. As such, once you become comfortable with the Loop progressing on to Optimal Drift should come quite naturally. 
+This rotation is recommended mostly for either casual play or for getting your first taste of Monk before advancing to Optimal Drift. The reasoning for this is that while Optimal Drift contains various different ways of entering and forming your burst windows, the Loop essentially takes one of those possibilities and freezes it, making it loop forever. As such, once you become comfortable with the Loop progressing on to Optimal Drift should come quite naturally.
 
 This rotation always begins with the Lunar Solar opener. As mentioned previously, we make certain concessions in order to facilitate the loop, with the first of these being immediately following the opener. While best practice is typically using an Opo GCD as our free post-Blitz Formless GCD, in order to loop we will instead press Twin Snakes after the Rising Phoenix in our opener. This sets the rotation back two GCDs, allowing for the loop to exist.
 
@@ -281,19 +283,19 @@ If you want to practice this and cross-reference with a log, here is a [raw acti
 
 As this is a looping rotation, in a dummy scenario, this will repeat ad infinitum. However, not every encounter is a dummy, and so sometimes through no fault of your own the loop will be broken. There are three ways in which this can happen:
 
-*Twin timer*
+_Twin timer_
 
 This is irrelevant. You simply remember to always use Twin Snakes before the odd window Demolish and this will fix itself.
 
-*Demolish timer*
+_Demolish timer_
 
-This is primarily of concern to us in our odd windows, as the even window is effectively a 100% copy-paste of itself every time and simply eats any Demolish clip the game pushes you into in order to stay in the loop. In practice this almost means that the Demolish timer offset is inconsequential given that by looping you fix it yourself every two minutes. 
+This is primarily of concern to us in our odd windows, as the even window is effectively a 100% copy-paste of itself every time and simply eats any Demolish clip the game pushes you into in order to stay in the loop. In practice this almost means that the Demolish timer offset is inconsequential given that by looping you fix it yourself every two minutes.
 
-Odd windows, however, could become slightly problematic if you end up playing an odd window expecting the 6th RoF GCD to be a natural Demolish only to find out too late that it isn't. The solution to this is to learn all the potential Demolish placements and understand how to play around them. If you consider the fact that Demolish is naturally refreshed every nine GCDs, this means that you can take any nine sequential GCDs and one of them is going to be a Demolish. 
+Odd windows, however, could become slightly problematic if you end up playing an odd window expecting the 6th RoF GCD to be a natural Demolish only to find out too late that it isn't. The solution to this is to learn all the potential Demolish placements and understand how to play around them. If you consider the fact that Demolish is naturally refreshed every nine GCDs, this means that you can take any nine sequential GCDs and one of them is going to be a Demolish.
 
 But how do we know which nine GCDs to look at? Well, if we work backwards, we know that from pressing PB, we'll need four GCDs to get to our Blitz, meaning that the nine GCDs we're looking at are the three prior to and six following the usage of Riddle of Fire. We're going to look at this nine GCD window, and fix our alignment by building around the Demolish we find. We force the Raptor GCD before the Demolish to be a Twin Snakes, even if it "should" be a True Strike, and place our PB after the Opo GCD that follows this Demolish.
 
-*Form-to-RoF CD Alignment*
+_Form-to-RoF CD Alignment_
 
 This is when we simply end up in the wrong form as Riddle of Fire comes off of CD. Thankfully, learning how to fix Demolish timers helps to resolve this issue. Odd window alignment can be solved by learning the rules mentioned in the Demolish timer section. If you were, for example, to enter the RoF window from a Raptor GCD, the usual Demolish you'd be waiting for is now the 7th GCD in RoF, meaning that your Blitz will fall out of your RoF window. However, if you were going into this situation aware of the nine GCD Demolish rule you'd be able to identify that you should be building your PB based on the Demolish that is three GCDs before the RoF in order to avoid the Blitz falling out. If there's no further downtime, this sequence is now what will loop on every subsequent odd window. Again even windows effectively fix themselves by merit of being attached to a PB use.
 
@@ -305,19 +307,19 @@ Like the basic loop, this always begins with the Lunar Solar opener in order to 
 
 #### **Odd Windows**
 
-Our odd RoF windows are all built around a natural Demolish. This is because we want to have just refreshed Demolish prior to beginning our PB window so that it won't fall off during our burst. Similarly, we want the GCD before that Demolish to have been a Twin Snakes for the same reason. 
+Our odd RoF windows are all built around a natural Demolish. This is because we want to have just refreshed Demolish prior to beginning our PB window so that it won't fall off during our burst. Similarly, we want the GCD before that Demolish to have been a Twin Snakes for the same reason.
 
 How do we know where to start looking for this Demolish, though? Well, it's the same logic that we use to fix our Demo timer in the basic looping rotation. We work backwards and realise that we need four GCDs from PB to get our Blitz out, meaning the Demolish we need can be no later than six GCDs into our RoF window. This means that we're once again looking at the string of nine GCDs on either side of Riddle of Fire, up to three prior to or six following. Once we locate that Demolish, we put a Twin Snakes before it, and PB after the Opo GCD that follows this Demolish.
 
 #### **Even Windows**
 
-Similarly to how we build our odd windows from a Demolish, we also build our even windows from a Coeurl GCD. As opposed to looking across nine GCDs for a Demolish to build from, here we are simply looking across three GCDs for a Coeurl GCD. There is slightly more distinction here than simply Demolish/Snap Punch however. Over nine GCDs, our Coeurl sequence has two Snap Punches between each Demolish, with each Snap Punch being unique and providing a different even window depending on which one we hit. To distinguish between Coeurl GCDs, we're going to break them down into Demo, Snap 1, and Snap 2. 
+Similarly to how we build our odd windows from a Demolish, we also build our even windows from a Coeurl GCD. As opposed to looking across nine GCDs for a Demolish to build from, here we are simply looking across three GCDs for a Coeurl GCD. There is slightly more distinction here than simply Demolish/Snap Punch however. Over nine GCDs, our Coeurl sequence has two Snap Punches between each Demolish, with each Snap Punch being unique and providing a different even window depending on which one we hit. To distinguish between Coeurl GCDs, we're going to break them down into Demo, Snap 1, and Snap 2.
 
 Similarly again to how you'd build odd windows, working backwards from the end of the RoF window we can see that we are looking at the two GCDs prior to, and one GCD following RoF in order to be able to fit our entire burst into RoF. Now depending on which of your three potential Coeurl GCDs falls into this window, you have three distinct potential burst windows. This is effectively due to needing to find a natural Demolish refresh mid-Riddle of Fire that doesn't waste any of our free Formless GCDs on anything other than an Opo GCD.
 
 ![Optimal Drift Rotation - Even Windows Explained](/img/jobs/mnk/mnkguide_0011_optimaldrifteven.png "Optimal Drift Rotation - Even Windows Explained")
 
-The most confusing of these is arguably RoF+BH 2, as Snap 1 *would* fall into that window, but in order to play it correctly you need to have already used PB.  
+The most confusing of these is arguably RoF+BH 2, as Snap 1 _would_ fall into that window, but in order to play it correctly you need to have already used PB.
 
 The most practical way to actually learn how to do this is check what Coeurl GCD you're hitting between when Riddle of Fire is on cooldown between 21.34 - 15.52, as in nine GCDs you'll be pressing the same Coeurl GCD in the -2/+1 GCD window around RoF that we're looking for. If the Coeurl GCD in this window is Demolish, you'll be doing ROF+BH 3. If it's Snap 1, you're doing ROF+BH2, if it's Snap 2 then you're doing ROF+BH 1.
 
@@ -350,6 +352,6 @@ Again, in simple terms what this means is: Always press RoF on cooldown, whether
 
 ![](/img/jobs/mnk/mnkguide_0012_doublesolarrof.png)
 
-- - -
+---
 
 Still have questions? Check out the [FAQ page](/jobs/melee/monk/faq/) where some may be answered.

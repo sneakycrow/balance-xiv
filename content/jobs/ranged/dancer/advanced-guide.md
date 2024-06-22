@@ -23,25 +23,26 @@ tags:
   - Guide
   - Advanced
 ---
+
 by Io Whitespirit (Faerie)
 
 # FOREWORD
 
-One of the biggest requests I have had is a more concise document on what people “need to know” before jumping into more difficult content. This is not meant to be a replacement for a general guide to Dancer; please see Ringabel’s extensive write-up instead, which will be linked at the end of the document in the appendix. 
+One of the biggest requests I have had is a more concise document on what people “need to know” before jumping into more difficult content. This is not meant to be a replacement for a general guide to Dancer; please see Ringabel’s extensive write-up instead, which will be linked at the end of the document in the appendix.
 
 This guide will be broken down into three sections: Basics, Intermediate, and Advanced. I am hopeful that even some of the more experienced players may learn something new from this document.
 
 Let’s get to it!
 
-* io
+- io
 
 # Basics
 
-This section will focus on elements that **should be understood** prior to jumping into more difficult content. 
+This section will focus on elements that **should be understood** prior to jumping into more difficult content.
 
 ## Weaving
 
-There are already plenty of guides on *weaving*, and for good reason–a poor understanding of how and when to weave will likely yield a mediocre performance. A great resource is the commonly linked Balance weaving infographic, seen here: [click here](https://media.discordapp.net/attachments/598630005999796233/600432765250568262/GCD_v._3.png)
+There are already plenty of guides on _weaving_, and for good reason–a poor understanding of how and when to weave will likely yield a mediocre performance. A great resource is the commonly linked Balance weaving infographic, seen here: [click here](https://media.discordapp.net/attachments/598630005999796233/600432765250568262/GCD_v._3.png)
 
 Make sure you understand which of your abilities are GCDs, and which are oGCDs. A full discussion looking at every ability in our toolkit is beyond the scope of this guide.
 
@@ -59,7 +60,7 @@ Please make sure you understand this concept well before proceeding, as this is 
 
 ![](/img/jobs/dnc/dncimage2.png)
 
-*Click [here](https://i.imgur.com/AvOuHDs.png) for a higher resolution version.*
+_Click [here](https://i.imgur.com/AvOuHDs.png) for a higher resolution version._
 
 Barring kill time shenanigans and some very niche cases, this opener is good for more or less all level 90 fights. Tillana and Starfall Dance can be interchanged.
 
@@ -72,6 +73,7 @@ The backbone of Dancer gameplay is conceptually fairly straightforward:
 1. Technical window (discussed a few subsections below) every **two minutes**
 
    1. Devilment and Flourish used around the same time
+
 2. Flourish every **one minute**
 3. Outside of the above, every 30-32 seconds:
 
@@ -140,7 +142,7 @@ Both are from real logs. **THE TOP IMAGE IS NOT WHAT WE MEAN BY POOLING AND IS N
 
 Couple of things to note about potions–as an item, they are unqueueable (the button to use a potion will **not** be processed if you press the button even slightly early, unlike your usual combat actions), have an animation lock of approximately 1.2s, and cannot be macroed. At high quality, they have a cooldown of 4 minutes 30 seconds. As such, its use will usually occupy the entirety of a double weave window. General recommendation for second potion usage outside of the opener is to delay its use until the next burst, and to use it the GCD before starting the next Technical Step (GCD → potion → start Technical Step) as this will cover the entirety of the Technical window.
 
-Dancers are a *dexterity* class, and thus they will look to use the highest grade dexterity potion/tincture available. The proper use of potions will net you just over 1% bonus damage in a fight. This may not seem like a lot, but it is not uncommon for parties to wipe on sub-1% enrages that would have been clearable if players had been using potions.
+Dancers are a _dexterity_ class, and thus they will look to use the highest grade dexterity potion/tincture available. The proper use of potions will net you just over 1% bonus damage in a fight. This may not seem like a lot, but it is not uncommon for parties to wipe on sub-1% enrages that would have been clearable if players had been using potions.
 
 Recommendations for fight-specific potion timings will be in the respective encounter guide.
 
@@ -227,7 +229,7 @@ This last section is very niche, and is more for experienced players who are int
 
 ## Damage Delay
 
-The short summary of this is that there is a lag time between when you cast an ability, and when the damage actually registers. When reviewing a log on fflogs, this is seen as the difference between “<Player Name> prepares <x>” and 
+The short summary of this is that there is a lag time between when you cast an ability, and when the damage actually registers. When reviewing a log on fflogs, this is seen as the difference between “<Player Name> prepares <x>” and
 "<Player Name> <x>”.
 
 For Dancer, Standard Finish has a damage delay of approximately 0.65 seconds. However, popping Standard Finish within range of the boss will immediately start your auto-attacks, which have a damage delay of approximately 0.5-0.55 seconds.
@@ -252,7 +254,7 @@ That’s all! As always, please DM me at io#4617 if there are any questions, sug
 
 As always, I’d like to thank the other mentors and helpfuls at the Balance for their support, and for their help with this document and testing.
 
-* io
+- io
 
 # Useful Resources
 
@@ -272,6 +274,6 @@ For a more in depth look on the class, including details that were omitted in th
 
 A helpful site in which players can upload logs and have their gameplay analyzed in order to make adjustments and improvements.
 
-4. [Partnercalc](https://partnercalc.app/) 
+4. [Partnercalc](https://partnercalc.app/)
 
 A site by Hint which analyzes each Standard Step window in a given log and determines which players were best to partner. Damage breakdowns are included.

@@ -59,6 +59,7 @@ qna:
 authors:
   - Balance-WHM-Staff
 ---
+
 # White Mage FAQ
 
 # How should movement and weaving be handled?
@@ -102,10 +103,10 @@ The DPS benefits of Afflatus heals go down the drain if you never get the Misery
 
 However, you can and should sit on Misery for any of the following uses as the fight allows for:
 
-* Weave window for oGCDs
-* Movement window for mechanics
-* Raid buff alignment windows for extra damage return
-* You want to use an Afflatus heal and will get off another Misery over the course of a fight.
+- Weave window for oGCDs
+- Movement window for mechanics
+- Raid buff alignment windows for extra damage return
+- You want to use an Afflatus heal and will get off another Misery over the course of a fight.
 
 ## Should Afflatus heals be prioritized over other healing spells?
 

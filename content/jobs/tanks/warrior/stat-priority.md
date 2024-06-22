@@ -16,24 +16,29 @@ authors:
   - Balance-WAR-Staff
   - Mox-Xinmagar
 ---
-Universal Stat Priorities are:  
-* Weapon Damage >>> Main Stat >>>> Substats.  
-* Very few exceptions have existed before Endwalker.  
 
-Warrior Substat priority and melds:  
-* Crit > Comfy SkS > DH >= Det > TNC
-* Be mindful of stat tiers when melding.
+Universal Stat Priorities are:
+
+- Weapon Damage >>> Main Stat >>>> Substats.
+- Very few exceptions have existed before Endwalker.
+
+Warrior Substat priority and melds:
+
+- Crit > Comfy SkS > DH >= Det > TNC
+- Be mindful of stat tiers when melding.
 
 Skill Speed
-* We don't need it, but we might still want some. 
-* Mostly for comfy reasons such as fight phasing or oGCD lineups etc.
-  * oGCD lineups referring to situations where our GCD and oGCDs come up at the same time, forcing us to delay one or the other.
 
-What happened with Direct Hit not being desireable?  
+- We don't need it, but we might still want some.
+- Mostly for comfy reasons such as fight phasing or oGCD lineups etc.
+  - oGCD lineups referring to situations where our GCD and oGCDs come up at the same time, forcing us to delay one or the other.
 
-* Patch 6.2 made DHit provide bonus damage to skills that have 100% Direct Hit and 100% Critical Hit rates.
-* After 2 full expacs of waiting, DHit is good for us again!
+What happened with Direct Hit not being desireable?
+
+- Patch 6.2 made DHit provide bonus damage to skills that have 100% Direct Hit and 100% Critical Hit rates.
+- After 2 full expacs of waiting, DHit is good for us again!
 
 Why Tenacity?
-* Tenacity increases all damage dealt, much like Determination.  
-* While it offers some mitigation bonuses, it is often very little and near impossible to observe due to the game already having a 5% variance in incoming damage.
+
+- Tenacity increases all damage dealt, much like Determination.
+- While it offers some mitigation bonuses, it is often very little and near impossible to observe due to the game already having a 5% variance in incoming damage.

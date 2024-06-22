@@ -9,6 +9,7 @@ changelog:
   - date: 2021-11-15T21:06:38.491Z
     message: Added page
 ---
+
 ## Know Your Role
 
 Melee DPS jobs have a unique mechanic in positionals. Certain actions will deal more damage when executed from the rear or flank of a target. Targets with continuous Target Rings will always take the increased damage from positional actions. \
@@ -53,13 +54,13 @@ At level 18 you gain access to Twin Snakes, the aforementioned buff. At this poi
 
 At Level 30 you gain access to Demolish, your DoT. Following the same principle as before, you'll apply Demolish on the first cycle, then use Snap Punch on the following cycles until Demolish needs to be reapplied.
 
-At Level 50 you gain access to Dragon Kick, fully fleshing out your six core GCDs. As with the other Timer GCDs, you want to apply the Leaden Fist buff from Dragon Kick, and on the following cycle use a Bootshine to spend the Leaden Fist. 
+At Level 50 you gain access to Dragon Kick, fully fleshing out your six core GCDs. As with the other Timer GCDs, you want to apply the Leaden Fist buff from Dragon Kick, and on the following cycle use a Bootshine to spend the Leaden Fist.
 
 You'll gain Arm of the Destroyer, Four-Point Fury, and Rockbreaker at levels 26, 45, and 30 respectively. As mentioned before, these skills are worth using when you can hit three or more targets.
 
 ## Chakra
 
-At Level 15 you will gain access to Meditation, allowing you to build Chakra. You can build up to five stacks of Chakra, and then spend them on either a single target or a line AoE oGCD.  Meditation should be treated as a downtime tool that you only use if you are unable to hit a target.
+At Level 15 you will gain access to Meditation, allowing you to build Chakra. You can build up to five stacks of Chakra, and then spend them on either a single target or a line AoE oGCD. Meditation should be treated as a downtime tool that you only use if you are unable to hit a target.
 
 | Single Target                                   | Line AoE                                        |
 | ----------------------------------------------- | ----------------------------------------------- |
@@ -82,24 +83,24 @@ Finally, Enlightenment has a potency of 170. This breaks even with The Forbidden
 
 ![](https://xivapi.com/i/002000/002542_hr1.png) Brotherhood is acquired at Level 70, and is our raid buff. Brotherhood both increases the damage dealt by ourselves and the party while also generating additional Chakra. Again, this skill should be used on cooldown.
 
-![](https://xivapi.com/i/002000/002978_hr1.png) Riddle of Wind is another personal buff, acquired at Level 72, greatly increasing our Auto-Attack speed. Yet again, this skill can merely be pressed on cooldown. 
+![](https://xivapi.com/i/002000/002978_hr1.png) Riddle of Wind is another personal buff, acquired at Level 72, greatly increasing our Auto-Attack speed. Yet again, this skill can merely be pressed on cooldown.
 
 ## Perfect Balance and Blitzes
 
 ![](https://xivapi.com/i/000000/000217_hr1.png) Perfect Balance is gained at Level 50, and allows the execution of any three GCDs with all form bonuses applied. Until you hit Level 60, the best way to use Perfect Balance is to refresh your Disciplined Fist timer, Demolish timer, and execute the following Opo-Opo GCD, before pressing Perfect Balance and using it to alternate between Opo-Opo GCDs for three GCDs. This is because our Opo-Opo GCDs are our strongest GCDs.
 
-﻿![](https://xivapi.com/i/002000/002976_hr1.png) Masterful Blitz is acquired at Level 60 alongside the Master's Gauge, and can be thought of as a combo finisher to Perfect Balance. 
+![](https://xivapi.com/i/002000/002976_hr1.png) Masterful Blitz is acquired at Level 60 alongside the Master's Gauge, and can be thought of as a combo finisher to Perfect Balance.
 
 ![Master's Gauge](https://img.finalfantasyxiv.com/lds/promo/h/u/JZgAqajVurzmZcZ0b9c6_8wtwQ.png "Master's Gauge")
 
-The Master's Gauge has two aspects; the three Beast Chakra orbs in the centre, and the two Nadi on either side. Using a GCD under Perfect Balance will fill up a Beast Chakra of the respective Form; Bootshine would give an Opo-Opo Chakra, Snap Punch would give a Coeurl Chakra, etc. 
+The Master's Gauge has two aspects; the three Beast Chakra orbs in the centre, and the two Nadi on either side. Using a GCD under Perfect Balance will fill up a Beast Chakra of the respective Form; Bootshine would give an Opo-Opo Chakra, Snap Punch would give a Coeurl Chakra, etc.
 
 Upon building up three Beast Chakra, Masterful Blitz will turn into one of four different GCDs.
 
 ![](https://xivapi.com/i/002000/002533_hr1.png) By building up any three identical Beast Chakra (three Opo, Raptor, or Coeurl), you will be able to use Elixir Field, which will fill up the Lunar Nadi on the Master's Gauge.
 
- ![](https://xivapi.com/i/002000/002548_hr1.png)  ![](https://xivapi.com/i/002000/002980_hr1.png) By building up one of each different Beast Chakra, you will be able to use Flint Strike, which will fill up the Solar Nadi on the Master's Gauge. Flint Strike upgrades to Rising Phoenix at Level 86.
+![](https://xivapi.com/i/002000/002548_hr1.png) ![](https://xivapi.com/i/002000/002980_hr1.png) By building up one of each different Beast Chakra, you will be able to use Flint Strike, which will fill up the Solar Nadi on the Master's Gauge. Flint Strike upgrades to Rising Phoenix at Level 86.
 
 ![](https://xivapi.com/i/002000/002977_hr1.png) By building up two different types of Beast Chakra (two Raptor and one Coeurl, two Opo and one Raptor, etc.), you will be able to use Celestial Revolution, which will fill up the Lunar Nadi on the Master's Gauge by default, but if you already have a Lunar Nadi then it will fill the Solar Nadi instead.
 
- ![](https://xivapi.com/i/002000/002531_hr1.png) ![](https://xivapi.com/i/002000/002981_hr1.png) When you have both a Lunar and Solar Nadi, Masterful Blitz will turn into Tornado Kick, regardless of the Beast Chakra you build. Tornado Kick upgrades into Phantom Rush at Level 90.
+![](https://xivapi.com/i/002000/002531_hr1.png) ![](https://xivapi.com/i/002000/002981_hr1.png) When you have both a Lunar and Solar Nadi, Masterful Blitz will turn into Tornado Kick, regardless of the Beast Chakra you build. Tornado Kick upgrades into Phantom Rush at Level 90.

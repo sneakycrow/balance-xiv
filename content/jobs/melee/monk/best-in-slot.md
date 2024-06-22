@@ -42,6 +42,7 @@ bis:
 authors:
   - Balance-MNK-Staff
 ---
+
 # What do I meld on gear generally?
 
 Critical Hit, then Direct Hit and Determination
@@ -67,13 +68,13 @@ These are the tiers at which skill speed affects GL4. GCD one is GL4 recast time
 
 # Gear Planner by Jahaudant
 
-Try this out to plan gear upgrades and melds -- there's a basic DPS calculator to assist with weighing your options:  <http://bit.ly/Gear-Planner>
+Try this out to plan gear upgrades and melds -- there's a basic DPS calculator to assist with weighing your options: <http://bit.ly/Gear-Planner>
 
 # Gearing/BiS for Ultimates
 
 For UWU/UCoB: This is more complicated, since many gear pieces sync down for max substats and STR now. Use the gear planner to compare what you have/what is easy to acquire for you. Going for max crit then a balance of DET and DH seems to be best, considering getting the speed to do GL4-ish shenanigans is a large investment. It is also worth noting the relic weapon syncs all substats so you can sync down an unusual amount of them if you're down to spend more time than it takes to prog an ultimate to gear for it. The pastebin also now has bespoke relic weapon sets.
 
-For TEA, we're not quite at that point yet so it'll be more rigid.  
+For TEA, we're not quite at that point yet so it'll be more rigid.
 
 \
 ­Ultimate set recommendations: <https://pastebin.com/EHSwUxsa>

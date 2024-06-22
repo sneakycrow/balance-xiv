@@ -33,7 +33,8 @@ bis:
     name: 2.49 Relic BiS
     link: c3831920-8a4a-43c8-b9d7-20618899fb6f
   - type: etro
-    description: Built around a 2.49 GCD, this set trades a minor DPS loss for more
+    description:
+      Built around a 2.49 GCD, this set trades a minor DPS loss for more
       compatibility with DRG's BiS to avoid needing to remeld frequently when
       playing both jobs. The Skill Speed meld will still need to be swapped out
       when playing DRG. If you do not wish to remeld frequently, you can fully
@@ -92,7 +93,8 @@ bis:
     name: Dragonsong's Reprise (Ultimate) BiS (6.3 Dungeon Gear + 6.45 Relic Option)
     link: 4aa0f252-5ecf-4887-916a-b38ccddfe258
   - type: etro
-    description: The original BiS used for DSR. Use this if you do not want to farm
+    description:
+      The original BiS used for DSR. Use this if you do not want to farm
       the dungeon gear.
     name: Dragonsong's Reprise (Ultimate) BiS (No 6.3 Dungeon Gear Option)
     link: b301e789-96da-42f2-9628-95f68345e35b
@@ -107,7 +109,8 @@ bis:
     name: The Omega Protocol (Ultimate) BiS (6.5 Dungeon Gear + 6.45 Relic Option)
     link: d40f9b9d-c459-4ca4-a9e6-570c4034ecb2
   - type: etro
-    description: This is just the Abyssos 2.49 BiS, which is slightly lower in DPS
+    description:
+      This is just the Abyssos 2.49 BiS, which is slightly lower in DPS
       than the Dungeon Gear + Relic option. If using the TOP scythe, meld two
       Direct Hit X's and one Skill Speed X.
     name: The Omega Protocol (Ultimate) BiS (No 6.5 Dungeon Gear + No 6.45 Relic

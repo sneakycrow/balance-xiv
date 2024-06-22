@@ -4,11 +4,13 @@ layout: changes
 lastmod: 2022-09-20T13:03:47.742Z
 changes:
   - patch: "6.08"
-    description: "[Review a document covering the 6.08 changes in-depth by clicking
+    description:
+      "[Review a document covering the 6.08 changes in-depth by clicking
       here.](https://docs.google.com/document/d/1IHL6sPgX23ieWZBLI3j3uHSN-rN6Gj\
       Ur7ZAigkRn8oA/edit)"
   - patch: "6.0"
-    description: "[Review the full list of changes and new skills in Endwalker on
+    description:
+      "[Review the full list of changes and new skills in Endwalker on
       the Official Site, by clicking
       here!](https://na.finalfantasyxiv.com/jobguide/dancer/)"
   - patch: "6.1"
@@ -24,7 +26,8 @@ changes:
 
       Additionally, the Dance Partner priority list will change, since a major factor in Dance Partner choice was the benefit from Devilment.
   - patch: "6.3"
-    description: Dancer is now able to execute Curing Waltz and Shield Samba while
+    description:
+      Dancer is now able to execute Curing Waltz and Shield Samba while
       performing the Steps for a Standard or Technical Finish.
 authors:
   - Balance-DNC-Staff

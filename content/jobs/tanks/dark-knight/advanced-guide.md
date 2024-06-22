@@ -9,4 +9,5 @@ changelog:
   - date: 2022-09-26T03:13:27.488Z
     message: Removed, as outdated.
 ---
+
 Oops, we don't have that guide yet! Interested in contributing? Feel free to join the [Balance Discord server](https://discord.gg/thebalanceffxiv) to contact a job mentor/admin and express your interest!

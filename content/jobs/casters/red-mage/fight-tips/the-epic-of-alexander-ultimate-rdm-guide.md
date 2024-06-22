@@ -12,6 +12,7 @@ changelog:
   - date: 2024-01-25T14:10:53.134Z
     message: Created page
 ---
+
 # Introduction
 
 Due to damage scaling in Endwalker and the potential for using fully synced gear, DPS checks in The Epic of Alexander are, on the whole, not extremely tight. Your primary concern for DPS will be the Trio Enrage at the end of Alexander Prime, but with fully synced gear options, phase DPS checks are fairly lenient.
@@ -24,10 +25,10 @@ Please note that any points made under “Further Optimization” sections shoul
 
 For brevity's sake, please refer to the abbreviations of boss names and phases below:
 
-* LL or P1: Living Liquid
-* BJ/CC or P2: Brute Justice/Cruise Chaser
-* AP or P3: Alexander Prime
-* PA or P4: Perfect Alexander
+- LL or P1: Living Liquid
+- BJ/CC or P2: Brute Justice/Cruise Chaser
+- AP or P3: Alexander Prime
+- PA or P4: Perfect Alexander
 
 ## Gearing and Relic Stat Allocation
 
@@ -51,12 +52,12 @@ Note that this guide will not cover doll skip timings and optimizations, and is 
 
 ### Clear-ready option
 
-The clear-ready option is to use buffs off cooldown as much as possible, buffing at Gavel in BJ/CC, then on cooldown after Inception in AP, then partway into Trio Enrage in AP. 
+The clear-ready option is to use buffs off cooldown as much as possible, buffing at Gavel in BJ/CC, then on cooldown after Inception in AP, then partway into Trio Enrage in AP.
 
 Advantages to buffing off cooldown:
 
-* Gains one additional use of buffs
-* A second set of buffs are used when both BJ and CC are able to be cleaved, leading to improved damage
+- Gains one additional use of buffs
+- A second set of buffs are used when both BJ and CC are able to be cleaved, leading to improved damage
 
 ### Prog-safe option
 
@@ -64,8 +65,8 @@ The prog-safe option is to hold buffs at Gavel, instead using them after Timesto
 
 Advantages to holding buffs:
 
-* For groups which struggle to handle Trio Enrage before the party is killed by J-Waves, this option provides faster damage to take BJ and CC out quicker
-* You are not required to hold damage during AP enrage in order to have buffs available for the PA reopener
+- For groups which struggle to handle Trio Enrage before the party is killed by J-Waves, this option provides faster damage to take BJ and CC out quicker
+- You are not required to hold damage during AP enrage in order to have buffs available for the PA reopener
 
 Ultimately, in a static you should decide based on the needs of the group, but in PF you should follow what others are doing.
 
@@ -89,12 +90,12 @@ Too fast is generally defined as **killing LL before the Protean 2 set of mechan
 
 If your killtimes are not too fast, your Manafication uses should fall at these times for P1-P3:
 
-* P1: Opener
-* P1: After second Hand of Parting
-* P2: After enumerations/Before Water 2/Lightning 2
-* P3: Post-Timestop/Before Inception
-* P3: After Inception/Pre-Wormhole
-* P3: Trio Enrage (likely towards the end of buffs)
+- P1: Opener
+- P1: After second Hand of Parting
+- P2: After enumerations/Before Water 2/Lightning 2
+- P3: Post-Timestop/Before Inception
+- P3: After Inception/Pre-Wormhole
+- P3: Trio Enrage (likely towards the end of buffs)
 
 Your Manafication will re-align with 2-minute raid buffs at either **P3: Pre-Wormhole** (if your P1/P2 killtimes are slow enough, close to the final mechanics of each phase), or **P3: Trio Enrage** (if your P1/P2 killtimes are “medium” speed, i.e. when the bosses are being pulled back together after Protean 2 in P1 and around or before Super Jump in P2).
 
@@ -104,9 +105,9 @@ Once you reach the final phase, you are now free to use Manafication aligned wit
 
 Given that Red Mage desires to minimize the drift of their oGCDs and to not accidentally overcap when attempting to rush Manafication, there are advantageous times in which you can spend your gauge via normal melee combos. It is encouraged to use melee combos in certain places during P1 through P3 to prevent overcap on your gauge and keep your abilities rolling. Some suggested ranges for these specific phases are as followed:
 
-* P1: Use an extra combo in LL (three instead of two) any time before Protean 2 finishes resolving to avoid overcap from the Manafication that is used at the end of this phase.
-* P2: Enter into your initial 2-minute opener with one melee combo instead of a double combo. Use an additional combo anytime between the end of enumerations and before the resolution of Water 2/Lightning 2. Ideally, you want to leave P2 with around 40|40 mana.
-* P3: Use an additional combo after Timestop and before Inception. It is possible to enter Inception with around 40|40 mana. There is room to spend another melee combo after generating enough mana with a Dualcast proc during downtime and up to casted 6 GCDs.
+- P1: Use an extra combo in LL (three instead of two) any time before Protean 2 finishes resolving to avoid overcap from the Manafication that is used at the end of this phase.
+- P2: Enter into your initial 2-minute opener with one melee combo instead of a double combo. Use an additional combo anytime between the end of enumerations and before the resolution of Water 2/Lightning 2. Ideally, you want to leave P2 with around 40|40 mana.
+- P3: Use an additional combo after Timestop and before Inception. It is possible to enter Inception with around 40|40 mana. There is room to spend another melee combo after generating enough mana with a Dualcast proc during downtime and up to casted 6 GCDs.
 
 ## Potion Timings
 
@@ -192,7 +193,7 @@ You should perform your re-opener on Cruise Chaser and encourage your group to d
 
 It can be highly beneficial to keep Dualcast active during Limit Cut whenever possible, in order to catch an emergency raise. Because you are opening the phase with a melee combo, you don’t need to worry about having Dualcast active when the bosses become targetable.
 
-Your oGCD usage here will depend on your party's composition and buff timing, as well as your LL kill time, but in any case, two of your first three weaves should be Fleche and C6, to get their cooldowns rolling as soon as possible while prepping them for the next weave window. Many parties will buff as early as possible in this reopener to have as much time as possible cleaving both bosses while buffed: if this is the case, you can first weave Embolden, then Fleche, followed by C6 and Manafication, then begin dumping your stored CaC/Engagement charges. 
+Your oGCD usage here will depend on your party's composition and buff timing, as well as your LL kill time, but in any case, two of your first three weaves should be Fleche and C6, to get their cooldowns rolling as soon as possible while prepping them for the next weave window. Many parties will buff as early as possible in this reopener to have as much time as possible cleaving both bosses while buffed: if this is the case, you can first weave Embolden, then Fleche, followed by C6 and Manafication, then begin dumping your stored CaC/Engagement charges.
 
 Note that with this buff timing, some groups that buff Gavel will choose to delay second buffs by two GCDs to once again better align buffs with the time where the bosses are able to be cleaved.
 
@@ -240,11 +241,11 @@ Before Timestop, you should prepare an instant cast, either by using Dualcast du
 
 Ideally, you want two instants, three Dualcast pairs, and a single melee combo. Your priority for this short damage phase should be as follows:
 
-* (If buffing at Timestop) Weave Embolden immediately after your instant GCD
-* Use Fleche as early as possible to ensure two uses
-* Use melee combos as they become available to enter Inception with less than 50|50 mana
-* Use any available charges of CaC/Engagement to minimize overcap during Inception
-* Use a Swift/Accel Veraero/Verthunder before the boss becomes untargetable to maximize damage, as there is only enough time for 12 normal GCDs
+- (If buffing at Timestop) Weave Embolden immediately after your instant GCD
+- Use Fleche as early as possible to ensure two uses
+- Use melee combos as they become available to enter Inception with less than 50|50 mana
+- Use any available charges of CaC/Engagement to minimize overcap during Inception
+- Use a Swift/Accel Veraero/Verthunder before the boss becomes untargetable to maximize damage, as there is only enough time for 12 normal GCDs
 
 ## Building Mana with AoE
 
@@ -288,16 +289,16 @@ If you are buffing immediately, aim for a triple melee combo. If you get Stillne
 
 If your buffs are not off cooldown at the start of the phase, your group may want to delay them until after Final Word forced march resolves (and Stillness, if it is second), but some groups will opt to still use them off cooldown. You do not want to delay your potion for buffs, as the boss may die partway into your second potion if you do. In the case of delaying until after Final Word, assuming your mana is not full, you can Dualcast once after your potion, start a melee combo, then weave Swift after Scorch. From here on, if Stillness is first, follow this sequence:
 
-* Perform your prepared instant cast after Scorch, then respect Stillness
-* Cast Verstone/Verfire after Stillness resolves, but before forced march resolves
-* Use your Dualcast after Final Word to weave Accel
-* Use your Accel to weave Embolden and potentially Manafication if needed
+- Perform your prepared instant cast after Scorch, then respect Stillness
+- Cast Verstone/Verfire after Stillness resolves, but before forced march resolves
+- Use your Dualcast after Final Word to weave Accel
+- Use your Accel to weave Embolden and potentially Manafication if needed
 
 If Motion is first, follow this sequence:
 
-* Weave Accel after your Swift GCD and cast a second instant
-* Cast Verfire/Verstone to prepare a Dualcast before forced march
-* Wait for Stillness to resolve, then use your prepared Dualcast to weave Embolden and potentially Manafication if needed
+- Weave Accel after your Swift GCD and cast a second instant
+- Cast Verfire/Verstone to prepare a Dualcast before forced march
+- Wait for Stillness to resolve, then use your prepared Dualcast to weave Embolden and potentially Manafication if needed
 
 Regardless of what combination you get, you should be able to get two full melee combos under buffs in this manner, assuming you have the mana for it. If you enter the phase with less than roughly 130 total mana, you will only be able to get one full melee combo under buffs in this scenario, unless you do no melee combos under potion.
 
@@ -333,7 +334,7 @@ When discussing uptime in the context of resolving Final Word, it is predicated 
 
 ### Ordained Stillness first
 
-For when Perfect Alexander casts Stillness first, you can execute two full melee combos before Stillness goes off, immediately detargeting the boss after Scorch. Since there is still uptime between Ordained Stillness and forced march, you can then get the initial Riposte, Zwerchhau, and Redoublement after Perfect Alexander finishes casting Ordained Stillness, before downtime occurs from the forced march. It is critically important to not react a moment sooner, as Ordained Stillness checks for abilities, weaponskills, and spells that were queued in during the end of the cast. For a visual timeline of this rotation with the mechanics, see below for an example image for Stillness first pot: 
+For when Perfect Alexander casts Stillness first, you can execute two full melee combos before Stillness goes off, immediately detargeting the boss after Scorch. Since there is still uptime between Ordained Stillness and forced march, you can then get the initial Riposte, Zwerchhau, and Redoublement after Perfect Alexander finishes casting Ordained Stillness, before downtime occurs from the forced march. It is critically important to not react a moment sooner, as Ordained Stillness checks for abilities, weaponskills, and spells that were queued in during the end of the cast. For a visual timeline of this rotation with the mechanics, see below for an example image for Stillness first pot:
 
 ![Soft clip potion after Enchanted Zwerchhau. Enchanted Redoublement, weave Fleche and Contre Sixte. Verholy or Verflare, weave Corps-a-Corps and Engagement. Scorch, weave Corps-a-Corps and Engagement. Enchanted Riposte. Enchanted Zwerchhau. Enchanted Redoublement, weave Manafication. Verholy or Verflare. Scorch, Ordained Stillness occurs here. Enchanted Riposte. Enchanted Zwerchhau. Enchanted Redoublement. Verholy or Verflare, weave Fleche. Scorch.](/img/rdmtea4.png "Stillness Uptime: Stillness First")
 
@@ -349,11 +350,11 @@ Clip: <https://www.youtube.com/watch?v=9WOD2sSqHZo>
 
 On the subject of optimizing potions, if either Acceleration or Swiftcast has less than 30 seconds left at your second potion window and you have a clean triple melee combo under potion, it is also possible to soft clip a potion after your first Riposte, then use an instant cast to catch the end of the potion window, similar to optimizing an Embolden window. Assuming full uptime and minimal ping, you shouldn’t lose a GCD from this soft clip if you go to enrage and take the caster-standard sixth jail.
 
-- - -
+---
 
 # Clear PoVs
 
-Draid Kylian, with specific concessions made to account for having higher DPS than expected: <https://www.youtube.com/watch?v=1ojyevVK5Og> 
+Draid Kylian, with specific concessions made to account for having higher DPS than expected: <https://www.youtube.com/watch?v=1ojyevVK5Og>
 
 Accompanying log: <https://www.fflogs.com/reports/WB7MxrHpVaLCgZyR#fight=22&type=damage-done>
 

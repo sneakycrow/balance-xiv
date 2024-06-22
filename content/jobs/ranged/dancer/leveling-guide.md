@@ -16,6 +16,7 @@ changelog:
   - date: 2023-01-20T15:12:31.778Z
     message: Updated the guide for 6.3
 ---
+
 # Leveling Guide for Dancer (DNC)
 
 Written by: Ringabel Dim
@@ -58,11 +59,11 @@ Additionally, DNC has some utility actions as part of their kit, including Physi
 
 **Foot Graze** - Applies a bind; only really serves a purpose in solo content.
 
-**Arm’s Length** - 120 sec cooldown, six seconds of knockback immunity to self (mostly for niche boss fights that have knockback mechanics, so you can keep yourself from moving). 
+**Arm’s Length** - 120 sec cooldown, six seconds of knockback immunity to self (mostly for niche boss fights that have knockback mechanics, so you can keep yourself from moving).
 
 ## DNC Specific Utility Actions
 
-**Curing Waltz** - Small AoE heal on yourself and your dance partner. AoE heal effect stacks (i.e. if you stand on top of your dance partner and use Curing Waltz, everyone in that small AoE will receive two heals). Curing Waltz has a 60 second cooldown and is useful for keeping yourself alive. It can even be used to give the tank a small little heal if it is safe to stand on top of them. 
+**Curing Waltz** - Small AoE heal on yourself and your dance partner. AoE heal effect stacks (i.e. if you stand on top of your dance partner and use Curing Waltz, everyone in that small AoE will receive two heals). Curing Waltz has a 60 second cooldown and is useful for keeping yourself alive. It can even be used to give the tank a small little heal if it is safe to stand on top of them.
 
 **Shield Samba** - 10% damage reduction for self and all nearby allies for 15 sec. 120 second cooldown (90 sec cooldown with the level 88 trait). For leveling content, it’s free and helpful mitigation you can provide for the party or even just the tank on large dungeon pulls.
 
@@ -72,7 +73,7 @@ Additionally, DNC has some utility actions as part of their kit, including Physi
 
 A couple of key points while playing DNC at all levels:
 
-1. Use Standard Step off cooldown. Not only does this ability grant you and your Dance Partner a damage buff, it is one of your hardest hitting abilities. It is a 30 second cooldown and can be executed by initiating Standard Step and then pressing the two dance steps in the order they appear and then completing the dance sequence with Standard Finish. Altogether this dance takes five seconds to complete. During downtime in dungeons, you can prepare Standard Step outside of combat and then use it within 15 seconds of initiating the Standard Step sequence. This will help increase your damage by doing the dance steps (which don’t do any damage) outside of combat. 
+1. Use Standard Step off cooldown. Not only does this ability grant you and your Dance Partner a damage buff, it is one of your hardest hitting abilities. It is a 30 second cooldown and can be executed by initiating Standard Step and then pressing the two dance steps in the order they appear and then completing the dance sequence with Standard Finish. Altogether this dance takes five seconds to complete. During downtime in dungeons, you can prepare Standard Step outside of combat and then use it within 15 seconds of initiating the Standard Step sequence. This will help increase your damage by doing the dance steps (which don’t do any damage) outside of combat.
 2. For single target situations, use Cascade → Fountain as your main combo weapon skills. For situations where there are two or more targets, use Windmill → Bladeshower as your main combo weapon skills (which are both five yalm radius AoEs around you). In AoE situations, it tends to be a loss to use Standard Finish when there are four or more targets (except to refresh the %damage buff).
 3. Cascade or Windmill have a 50% chance of granting you a “Silken Symmetry” proc, which you can use on Reverse Cascade (for single target situations) or Rising Windmill (for situations with two or more targets).
 4. Fountain or Bladeshower have a 50% chance of granting you a “Silken Flow” proc, which you can use on Fountainfall (for single target situations) or Bloodshower (for situations with two or more targets).

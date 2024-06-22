@@ -15,6 +15,7 @@ changelog:
   - date: 2023-05-25T02:16:24.450Z
     message: Updated for 6.4.
 ---
+
 # Openers
 
 Your opener is flexible and **No Mercy** can be used earlier than what is listed in either of these openers if necessary to allow for additional uses to be used before phases or mechanics.

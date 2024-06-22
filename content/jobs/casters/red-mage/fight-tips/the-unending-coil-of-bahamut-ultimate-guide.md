@@ -10,6 +10,7 @@ changelog:
   - date: 2022-08-30T01:14:30.121Z
     message: Created page
 ---
+
 # General Fight Tips
 
 ## Manafication
@@ -36,7 +37,7 @@ As with other fights in the game, Vercure can be used during downtime between ph
 
 ## Opener
 
-The standard level 90 opener can be used in this fight, minus the two finishers you learn at levels 80 and 90. Twisters will lock in and spawn as you are finishing Enchanted Redoublement and using your finisher, allowing you to easily move into the fireball stack. Additionally, as you still have an odd number of combo finishers at this level, this opener will not cause any misalignment. 
+The standard level 90 opener can be used in this fight, minus the two finishers you learn at levels 80 and 90. Twisters will lock in and spawn as you are finishing Enchanted Redoublement and using your finisher, allowing you to easily move into the fireball stack. Additionally, as you still have an odd number of combo finishers at this level, this opener will not cause any misalignment.
 
 ## Hatch
 
@@ -48,29 +49,29 @@ Be sure you wait for the debuff to fall off before you Dualcast, as it often tak
 
 ## Liquid Hell Bait
 
-When the physical ranged is marked by Hatch, a backup person will be asked to either bait Liquid Hells or intercept the Hatch on the Neurolink. While it is generally advisable to have a healer—or a SMN, if your group has one—do these tasks, some groups may ask their RDM to do it.  
- 
+When the physical ranged is marked by Hatch, a backup person will be asked to either bait Liquid Hells or intercept the Hatch on the Neurolink. While it is generally advisable to have a healer—or a SMN, if your group has one—do these tasks, some groups may ask their RDM to do it.
+
 In the scenario that you are doing a backup bait, consider holding Swiftcast or Acceleration when you can for any possible Liquid Hell baits, as it is not possible to cast between each bait.
 
 For the final pair of Hatches and Liquid Hells, a random person will be targeted by Liquid Hells. You can store enough mana for a melee combo here, which you can use to keep uptime on the boss while avoiding the Liquid Hells if you are targeted.
 
 ## Second Embolden
 
-Most push timings will generally want to use 2nd set of 120s raid buff cooldowns before Twintania dies in order to gain a use before Bahamut Prime. You should discuss this opportunity with your group in order to decide the most optimal strategy for the group. 
+Most push timings will generally want to use 2nd set of 120s raid buff cooldowns before Twintania dies in order to gain a use before Bahamut Prime. You should discuss this opportunity with your group in order to decide the most optimal strategy for the group.
 
 #### Addle Mitigation
 
-Addle in this phase will be used to mitigate the Fireball stacks from Twintania. While you should discuss with your healers which should be addled, common ones to addle are the second Fireball before the first Neurolink drop if it is not skipped, and the Fireball during random Liquid Hell baits after the second Neurolink drop. You should avoid Addling the first Fireball to generate extra Limit Break Gauge. 
+Addle in this phase will be used to mitigate the Fireball stacks from Twintania. While you should discuss with your healers which should be addled, common ones to addle are the second Fireball before the first Neurolink drop if it is not skipped, and the Fireball during random Liquid Hell baits after the second Neurolink drop. You should avoid Addling the first Fireball to generate extra Limit Break Gauge.
 
 # Phase Two: Nael Van Darnus
 
 ## Reopener
 
-Entering this phase you should be near enough resources to do a double melee combo reopener. However, your reopener will vary depending on how much mana you ended the previous phase with. 
+Entering this phase you should be near enough resources to do a double melee combo reopener. However, your reopener will vary depending on how much mana you ended the previous phase with.
 
-Depending on your push timing in Twintania, you may have to cast some GCDs for mana before entering a melee combo. Despite this, you should still be able to get your first melee combo off without any problems. However, if the first quote ends with Iron Chariot instead of Thermionic Beam, you may have to use your second melee combo after moving out depending on your mana levels. 
+Depending on your push timing in Twintania, you may have to cast some GCDs for mana before entering a melee combo. Despite this, you should still be able to get your first melee combo off without any problems. However, if the first quote ends with Iron Chariot instead of Thermionic Beam, you may have to use your second melee combo after moving out depending on your mana levels.
 
-If you need to wait until after Iron Chariot for your second melee combo, you can use Corps-a-Corps to get back in right after the AoE goes out in order to start your melee combo and also stack in time for Firescorched. 
+If you need to wait until after Iron Chariot for your second melee combo, you can use Corps-a-Corps to get back in right after the AoE goes out in order to start your melee combo and also stack in time for Firescorched.
 
 ## Maintaining Uptime
 
@@ -98,7 +99,7 @@ This phase consists of multiple damage phases when the boss is targetable betwee
 
 ## Fleche and Contre Sixte
 
-Whenever the boss becomes targetable, you should immediately use Fleche in the first oGCD window available. By doing this, you allow yourself to get two casts of Fleche per damage window. 
+Whenever the boss becomes targetable, you should immediately use Fleche in the first oGCD window available. By doing this, you allow yourself to get two casts of Fleche per damage window.
 
 You will only be able to use one Contre Sixte per damage window, so aim to use this when raid buffs are available.
 
@@ -114,15 +115,15 @@ Your second Addle usage in this phase will depend on your first one. If you are 
 
 Try to come into this phase capped, or close to being capped, on black and white mana.
 
-As you will likely be using a potion at the start of this phase, you should use at least two melee combos under your potion. As we only have one finisher at level 70, we can fit three full melee combos into a single potion, which may be possible here but can be tight due to Hatch. If you attempt to do a triple combo, you must start your first combo immediately when the bosses become targetable at the start of the phase. 
+As you will likely be using a potion at the start of this phase, you should use at least two melee combos under your potion. As we only have one finisher at level 70, we can fit three full melee combos into a single potion, which may be possible here but can be tight due to Hatch. If you attempt to do a triple combo, you must start your first combo immediately when the bosses become targetable at the start of the phase.
 
 ## Impact Usage
 
-As this phase has two bosses targetable, you should be using Impact whenever the bosses are stacked. There are many mechanics which will cause them to split, during which you should use your single target GCDs as usual. 
+As this phase has two bosses targetable, you should be using Impact whenever the bosses are stacked. There are many mechanics which will cause them to split, during which you should use your single target GCDs as usual.
 
 ## Uptime
 
-While it is important to keep uptime on the bosses whenever possible, be wary of greeting GCD’s in this phase as it can greatly affect Golden Bahamut. Any weakness gained here will carry over to the next phase when you receive Phoenix’s Blessing, so don’t be afraid to drop a GCD when necessary. 
+While it is important to keep uptime on the bosses whenever possible, be wary of greeting GCD’s in this phase as it can greatly affect Golden Bahamut. Any weakness gained here will carry over to the next phase when you receive Phoenix’s Blessing, so don’t be afraid to drop a GCD when necessary.
 
 ## Addle Mitigation
 
@@ -138,7 +139,7 @@ If you use a potion in the Adds phase, you will not be able to use a potion in y
 
 ## Phoenix’s Blessing
 
-The Phoenix’s Blessing buff given to you for this phase enables you to deal double damage—however, you will lose this buff if you die. Be cautious to not be killed in this phase, as a lost buff can be the cause of an enrage. As with other phases, do not hesitate to drop a cast if you are not certain you will be able to finish the cast without dying. 
+The Phoenix’s Blessing buff given to you for this phase enables you to deal double damage—however, you will lose this buff if you die. Be cautious to not be killed in this phase, as a lost buff can be the cause of an enrage. As with other phases, do not hesitate to drop a cast if you are not certain you will be able to finish the cast without dying.
 
 ## Swiftcast and Acceleration Usage
 
@@ -146,13 +147,13 @@ There will be many times in Golden Bahamut that you will need to quickly move in
 
 ## Final Burst
 
-Toward the end of the phase, you should aim for at least a double melee combo under your potion and buffs. A triple melee combo in your potion may be possible, but will depend on how well your mana lines up leading into the buff window. 
+Toward the end of the phase, you should aim for at least a double melee combo under your potion and buffs. A triple melee combo in your potion may be possible, but will depend on how well your mana lines up leading into the buff window.
 
 ## Addle Mitigation
 
 Addle in this phase will be used to mitigate the Morn Afah stacks. You should discuss with your party where you will be using Addle, as there are five total casts of Morn Afah.
 
-Using 90s mitigations (Addle included) on the odd Morn Afahs will give you three total uses, so you should be using it on one, three, and five if you have one caster. 
+Using 90s mitigations (Addle included) on the odd Morn Afahs will give you three total uses, so you should be using it on one, three, and five if you have one caster.
 
 If you have two casters and it is your job to mitigate the second and the fourth Morn Afah, do consider the timing of where you use Addle for the second Morn Afah. You have to use it a few seconds before the cast for Morn Afah begins, or it will be late for the fourth one.
 

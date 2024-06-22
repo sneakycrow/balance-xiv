@@ -6,7 +6,8 @@ lastmod: 2024-06-18T02:03:31.251Z
 qna:
   - question: Are Reawaken skills affected by Haste/Skill Speed? What speeds are
       VPRs GCDs?
-    answer: "A﻿ll of Viper's GCDs are affected by both Haste and Skillspeed. Viper
+    answer:
+      "A﻿ll of Viper's GCDs are affected by both Haste and Skillspeed. Viper
       has a 15% haste buff that is upkept in its rotation. Vipe also has five
       different GCD speeds. Assuming no Skillspeed, this chart shows the speed
       of each category of GCD.
@@ -28,17 +29,20 @@ qna:
   - question: Does Reawaken have a cooldown?
     answer: N﻿o. You can enter it multiple times in a row without needing fillers.
   - question: Will I be able to double weave on high ping?
-    answer: Y﻿es, almost all of Viper's double weaves are after long GCDs (2.55 or
+    answer:
+      Y﻿es, almost all of Viper's double weaves are after long GCDs (2.55 or
       2.97s). Even someone with higher ping should be able to do them without
       clipping.
   - question: How many positionals does Viper have?
-    answer: S﻿ix total, three flanks and three rear. Every single target dual wield
+    answer:
+      S﻿ix total, three flanks and three rear. Every single target dual wield
       combo will end in one positional, alternating each time. Every single
       target twinblade combo will have both a rear and flank positional, the
       order of which can be freely chosen each time assuming the order doesn't
       matter for buff upkeep.
   - question: When do I use Rattling Coil stacks?
-    answer: These stacks should be used primarily to maintain uptime during a melee
+    answer:
+      These stacks should be used primarily to maintain uptime during a melee
       disconnect, otherwise the stacks can be spent during filler rotation.
   - question: What breaks VPR combos?
     answer: >-

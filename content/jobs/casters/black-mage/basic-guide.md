@@ -14,6 +14,7 @@ changelog:
   - date: 2023-05-28T19:39:48.130Z
     message: 6.4 Adjustments
 ---
+
 # **6.x Standard BLM Guide**
 
 By: Rika Vanih
@@ -42,8 +43,8 @@ Black Mage is a caster specializing in high, steady personal damage in place of 
 
 **Paradox** is a new resource and spell available at level 90. When you have the resource, Paradox replaces both Fire and Blizzard on your hotbars. In Astral Fire, it replaces the Fire cast to refresh your Astral Fire timer, and can similarly proc Firestarter. In Umbral Ice, it is a strong instant cast spell. You gain a Paradox marker on your job gauge by doing one of the following:
 
-* Transition from Astral Fire III to Umbral Ice
-* Transition from Umbral Ice III with three Umbral Hearts to Astral Fire
+- Transition from Astral Fire III to Umbral Ice
+- Transition from Umbral Ice III with three Umbral Hearts to Astral Fire
 
 ## **Job Gauge**
 
@@ -122,8 +123,8 @@ Xenoglossy has use as an instant cast for movement, weaving oGCDs, and just gene
 
 For Thunder III, the goal is to maximize uptime on the DoT while minimizing hardcast (non-proc) refreshes. With this in mind, the general recommendation for Thunder III refresh timing is:
 
-* Thundercloud proc: use when the DoT is falling off on the target
-* Hardcast Thunder III (non-proc): use just after the DoT has completely fallen off on the target
+- Thundercloud proc: use when the DoT is falling off on the target
+- Hardcast Thunder III (non-proc): use just after the DoT has completely fallen off on the target
 
 Since the DoT lasts 30 seconds and the standard rotation is generally slightly longer than 30 seconds, the refresh timing will naturally drift throughout the rotation. Thus, it is generally expected to refresh the DoT in Astral Fire if the DoT falls off of the target at that time.
 
@@ -139,7 +140,7 @@ Following this, the first High Fire II grants Astral Fire III. The second High F
 
 Finally, with the single Umbral Heart remaining, the MP cost of Flare is reduced, allowing for the use of a second Flare.
 
-Foul can be used for movement, weaving oGCDs, or just generally as a strong AoE spell.  Consider skipping a High Fire II cast if mobs will die before finishing the second Flare, or when using Triplecast.
+Foul can be used for movement, weaving oGCDs, or just generally as a strong AoE spell. Consider skipping a High Fire II cast if mobs will die before finishing the second Flare, or when using Triplecast.
 
 Manafont and/or any ether that grants at least 800MP can be used for additional Flare spells before reentering Umbral Ice with High Blizzard II. Pictured is an example utilizing Triplecast, Swiftcast, Manafont, and an ether for four instant Flares within one Astral Fire cycle:
 
@@ -221,9 +222,9 @@ Inevitably when learning a fight (and the job itself), there will be situations 
 
 The most common situation to encounter is running out of time on the Astral Fire timer. In order to try to prevent dropping Astral Fire entirely, there are a few options to consider:
 
-* Pre-emptively using Sharpcast on the Astral Fire Paradox, then using the Firestarter proc to later refresh the Astral Fire timer to make it possible to finish the phase without losing any Fire IV casts or the Despair cast
-* Using Triplecast and/or Swiftcast in order to speed up the Astral Fire phase, making Fire IV casts and potentially the Despair instant. Since instant Despair refreshes Astral Fire sooner than a casted Despair, this will sometimes allow for finishing the phase properly.
-* If other options are not available, using Despair early to prematurely end the phase will generally be stronger than casting Fire to refresh the Astral Fire timer, then finishing off the phase
+- Pre-emptively using Sharpcast on the Astral Fire Paradox, then using the Firestarter proc to later refresh the Astral Fire timer to make it possible to finish the phase without losing any Fire IV casts or the Despair cast
+- Using Triplecast and/or Swiftcast in order to speed up the Astral Fire phase, making Fire IV casts and potentially the Despair instant. Since instant Despair refreshes Astral Fire sooner than a casted Despair, this will sometimes allow for finishing the phase properly.
+- If other options are not available, using Despair early to prematurely end the phase will generally be stronger than casting Fire to refresh the Astral Fire timer, then finishing off the phase
 
 If all else fails, attempt to salvage things by using Blizzard III prematurely, or as a last ditch effort, use Transpose to switch to Umbral Ice and consider the following sequence to recover before returning back to the standard rotation:
 
@@ -261,9 +262,9 @@ When unable to finish off a full Astral Fire cycle before downtime, prioritizing
 
 Some other things to consider include:
 
-* Use polyglot stacks as needed before downtime to prevent overcapping before the boss is targetable again. For the end of the fight, ideally use all polyglot stacks, as Xenoglossy is the strongest spell.
-* An instant cast frontloads its damage at the start of the GCD, so it is good practice to plan to end on an instant cast before the downtime/end of fight. This can result in a last tap of damage where a normal cast would not have been able to finish otherwise.
-* Since Paradox is a strong spell, sometimes it can be valuable to Transpose after a Despair instead of Blizzard III to get a Paradox off before the downtime.
+- Use polyglot stacks as needed before downtime to prevent overcapping before the boss is targetable again. For the end of the fight, ideally use all polyglot stacks, as Xenoglossy is the strongest spell.
+- An instant cast frontloads its damage at the start of the GCD, so it is good practice to plan to end on an instant cast before the downtime/end of fight. This can result in a last tap of damage where a normal cast would not have been able to finish otherwise.
+- Since Paradox is a strong spell, sometimes it can be valuable to Transpose after a Despair instead of Blizzard III to get a Paradox off before the downtime.
 
 ## **Preparing Resources during Downtime**
 
@@ -328,27 +329,27 @@ Hovering over the character model of a party member, or even their name in the p
 
 For this document, full names of spells, buffs, and abilities were used for clarity. However, these are frequently abbreviated in regular discussion. Below are the most common abbreviations for these:
 
-* F1, F2, F3, F4: Fire spells, the number designates the rank (i.e. F1 = Fire, F2 = Fire II, etc)
-* B1, B2, B3, B4: Blizzard spells, the number designates the rank (i.e. B1 = Blizzard, B2 = Blizzard II, etc)
-* T1, T2, T3, T4: Thunder spells, the number designates the rank (i.e. T1 = Thunder, T2 = Thunder II, etc)
-* HF2/HB2: High Fire II, High Blizzard II
-* AF1, AF2, AF3: Astral Fire, Astral Fire II, and Astral Fire III respectively
-* UI1, UI2, UI3: Umbral Ice, Umbral Ice II, Umbral Ice III respectively
-* Eno: Enochian
-* Xeno: Xenoglossy
-* Para: Paradox
-* Amp: Amplifier
-* LL: Ley Lines
-* Triple: Triplecast
-* Sharp: Sharpcast
-* Swift: Swiftcast
-* AM: Aetherial Manipulation
-* BtL: Between the Lines
-* Poly: Polyglot
-* MF: Manafont
-* Lucid: Lucid Dreaming
-* SpS/sps: Spellspeed
-* Pot: Main stat (Intelligence) potion, current strongest option is HQ Grade 8 Tincture of Intelligence
+- F1, F2, F3, F4: Fire spells, the number designates the rank (i.e. F1 = Fire, F2 = Fire II, etc)
+- B1, B2, B3, B4: Blizzard spells, the number designates the rank (i.e. B1 = Blizzard, B2 = Blizzard II, etc)
+- T1, T2, T3, T4: Thunder spells, the number designates the rank (i.e. T1 = Thunder, T2 = Thunder II, etc)
+- HF2/HB2: High Fire II, High Blizzard II
+- AF1, AF2, AF3: Astral Fire, Astral Fire II, and Astral Fire III respectively
+- UI1, UI2, UI3: Umbral Ice, Umbral Ice II, Umbral Ice III respectively
+- Eno: Enochian
+- Xeno: Xenoglossy
+- Para: Paradox
+- Amp: Amplifier
+- LL: Ley Lines
+- Triple: Triplecast
+- Sharp: Sharpcast
+- Swift: Swiftcast
+- AM: Aetherial Manipulation
+- BtL: Between the Lines
+- Poly: Polyglot
+- MF: Manafont
+- Lucid: Lucid Dreaming
+- SpS/sps: Spellspeed
+- Pot: Main stat (Intelligence) potion, current strongest option is HQ Grade 8 Tincture of Intelligence
 
 ## **Acknowledgements**
 

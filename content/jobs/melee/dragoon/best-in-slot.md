@@ -13,7 +13,8 @@ changelog:
   - date: 2023-05-25T16:27:59.307Z
     message: Sets updated for Patch 6.4, updated DSR sets and added TOP sets
   - date: 2023-07-18T18:18:46.746Z
-    message: Updated DSR and TOP sets with the new relic. Removed separate prog sets
+    message:
+      Updated DSR and TOP sets with the new relic. Removed separate prog sets
       for these fights.
   - date: 2023-10-03T17:06:15.459Z
     message: Added new TOP sets, removed pentamelded crafted sets
@@ -41,7 +42,8 @@ bis:
     name: 2.46 GCD
     link: ba65b9ee-ec73-4b80-86c1-66a71849a5c8
   - type: etro
-    description: Syncing gear is currently not a viable option for this fight due to
+    description:
+      Syncing gear is currently not a viable option for this fight due to
       the massive loss of substats from materia. The relic weapon is an
       exception.
     name: TOP BiS 2.46 (10,542 dps)
@@ -51,13 +53,15 @@ bis:
     name: TOP BiS 2.50 (10,504 dps)
     link: 12ca87f3-1569-410d-8fc3-53151065139a
   - type: etro
-    description: Syncing gear is currently not a viable option for this fight due to
+    description:
+      Syncing gear is currently not a viable option for this fight due to
       the massive loss of substats from materia. The relic weapon is an
       exception.
     name: DSR BiS
     link: 555df43d-4012-4757-96da-3f68fca985d0
   - type: etro
-    description: Gear pieces with equal stats can be used instead of the listed i600
+    description:
+      Gear pieces with equal stats can be used instead of the listed i600
       pieces as long as they are above i595.
     name: TEA BiS
     link: 9216be5c-217f-4841-9c39-e250652db390
@@ -84,18 +88,19 @@ tags:
   - BIS
   - best-in-slot
 ---
+
 # Dragoon Best-in-Slot Lists
 
 # 5.55 Best-in-Slot Gearsets
 
-2.50 GCD (Raid Chest) -  <http://bit.ly/drg250raid>
+2.50 GCD (Raid Chest) - <http://bit.ly/drg250raid>
 
 \
-2.50 GCD (Tome Chest) - <https://bit.ly/drg250tome>  \
-*Slight downgrade if you don't want to get the E12S chest.*
+2.50 GCD (Tome Chest) - <https://bit.ly/drg250tome> \
+_Slight downgrade if you don't want to get the E12S chest._
 
 \
-2.46 GCD - <http://bit.ly/drg246bis>  
+2.46 GCD - <http://bit.ly/drg246bis>
 
 # 5.55 Best-in-Slot, no Relic
 

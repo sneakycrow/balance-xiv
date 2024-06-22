@@ -20,6 +20,7 @@ changelog:
   - date: 2023-11-06T06:03:25.563Z
     message: Updated for 6.5
 ---
+
 ## Buffs
 
 **Iron Will**
@@ -162,9 +163,9 @@ Guaranteed block (20% damage reduction at level 90, on average about 15% damage 
 
 Costs 50 Oath Gauge (generated at a rate of 50 per ~23s) | 5s cooldown.
 
-* 15% damage reduction | 8s duration
-* 15% additional damage reduction | 4s duration
-* 1000 potency regen over 12s
+- 15% damage reduction | 8s duration
+- 15% additional damage reduction | 4s duration
+- 1000 potency regen over 12s
 
 **Passage of Arms**
 ![](https://xivapi.com/i/002000/002515_hr1.png)
@@ -198,9 +199,9 @@ Shield duration: 30s | 90s cooldown
 
 Costs 50 Oath Gauge | 10s cooldown.
 
-* 10% damage reduction (20% instead if at least one of Rampart or Sentinel is active on you) | 8s duration
-* 10% damage reduction | 4s duration
-* 1000 potency regen over 12s
+- 10% damage reduction (20% instead if at least one of Rampart or Sentinel is active on you) | 8s duration
+- 10% damage reduction | 4s duration
+- 1000 potency regen over 12s
 
 **Cover**
 ![](https://xivapi.com/i/002000/002501_hr1.png)
@@ -289,8 +290,8 @@ When used on another target, also heals you for half as much.
 
 100 potency (physical damage) | Does not break combo.
 
-* 7x Enmity multiplier 
-* Ranged attack
+- 7x Enmity multiplier
+- Ranged attack
 
 **Shield Bash**
 ![](https://xivapi.com/i/000000/000154_hr1.png)

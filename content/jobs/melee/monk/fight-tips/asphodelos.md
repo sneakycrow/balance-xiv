@@ -11,6 +11,7 @@ changelog:
   - date: 2023-01-13T23:17:42.584Z
     message: Added more visuals infographics
 ---
+
 Hello, Monks. Welcome to the encounter guide for the first tier of Endwalker.
 
 We will review the different ways on what is possible to optimize from the entirety of the tier.
@@ -19,7 +20,7 @@ We will review the different ways on what is possible to optimize from the entir
 
 Nothing much to say, this is a dummy fight; do the optimal drift rotation for max damage.
 
-Make sure you and the group are as central as possible during Intemperance One and Intemperance Two to ensure you’re going to hit everyone. If this still doesn’t work, you do have the following option, which consists of holding your Brotherhood (BH) if you aren’t sure to hit everyone and use it once you do the in/out mechanics. Note that if you hold it too long you may lose a use depending on the killtime.﻿
+Make sure you and the group are as central as possible during Intemperance One and Intemperance Two to ensure you’re going to hit everyone. If this still doesn’t work, you do have the following option, which consists of holding your Brotherhood (BH) if you aren’t sure to hit everyone and use it once you do the in/out mechanics. Note that if you hold it too long you may lose a use depending on the killtime.
 
 # Hippokampos
 
@@ -27,9 +28,9 @@ What is special about P2S is the potential for Limit Cut downtime to be handled 
 
 ## Three Choices
 
-* Early opener: burst before Limit Cut. You might win a RoF use, and the only downside to doing early burst is that you have to deal with RoF at three and five mins on Arrows
-* Solar Lunar opener: possible to win a use of PB, but may not be able to get full use of last RoF
-* Initial Drift: win a PB but can lose an RoF/BH depending on killtime. Also pushes RoF/BH around which can be awkward for group alignment.
+- Early opener: burst before Limit Cut. You might win a RoF use, and the only downside to doing early burst is that you have to deal with RoF at three and five mins on Arrows
+- Solar Lunar opener: possible to win a use of PB, but may not be able to get full use of last RoF
+- Initial Drift: win a PB but can lose an RoF/BH depending on killtime. Also pushes RoF/BH around which can be awkward for group alignment.
 
 ### Early Opener
 
@@ -45,7 +46,7 @@ Due to the numbers of downtime on this fight, we will have an early PB in the op
 
 &nbsp;
 
-By doing early PB, this will allow us to get one more PB in the three-minute  window, which is juicy.
+By doing early PB, this will allow us to get one more PB in the three-minute window, which is juicy.
 
 **How does it work?**
 
@@ -91,8 +92,8 @@ For this fight you will prepot -5s and do Lunar Solar opener as it’s more dama
 
 **We have two choices:**
 
-* Optimal Drift into Double Lunar: being the lowest potency rotation if aiming for a triple Blitz after adds (being less weird to play, which is why I keep it as an option).
-* Double Lunar rotation for all pre-adds: being the highest potency rotation if aiming for a triple Blitz after adds.
+- Optimal Drift into Double Lunar: being the lowest potency rotation if aiming for a triple Blitz after adds (being less weird to play, which is why I keep it as an option).
+- Double Lunar rotation for all pre-adds: being the highest potency rotation if aiming for a triple Blitz after adds.
 
 ### Double Lunar Rotation for All Pre-Adds:
 
@@ -102,8 +103,6 @@ The opener should look like this :
 
 ![](/img/double-lunar.png "Double Lunar")
 
-
-
 RoF is weaved late because like all the Double Lunar we play it as a RoF + BH Two window, this will allow us to refresh buffs between both Blitz.
 
 For the two minutes, you play it like how I explained it in the next section: Optimal Drift into Double Lunar
@@ -112,9 +111,9 @@ For the two minutes, you play it like how I explained it in the next section: Op
 
 The two minute burst window will be different than usual. Firstly, due to the adds not being included in the log, you can hold your Riddle of Wind for the two minute window.
 
-Then, for the sake of the Triple Blitz after adds, you want to Double Lunar on your two minute. It’s pretty simple to do -- you will have to Twin and overwrite Demo by one sequence, and then do  a RoF + BH Two with only Lunars.
+Then, for the sake of the Triple Blitz after adds, you want to Double Lunar on your two minute. It’s pretty simple to do -- you will have to Twin and overwrite Demo by one sequence, and then do a RoF + BH Two with only Lunars.
 
-So it means delaying your RoF for post PB (still use BH on CD): 
+So it means delaying your RoF for post PB (still use BH on CD):
 
 Refresh buffs > Opo > PB Opo > RoF > Opo > Opo > Elixir Field > Opo > Twin > Demo > Opo PB Opo x3 > Elixir Field
 
@@ -130,11 +129,11 @@ Note that the pre-potion -5s should allow you to pot before doing your first Bli
 
 I will quote Perfect Balance guides for this section as it’s easily understandable:
 
-*“Triple Blitz windows are reliant on long periods of downtime in order to leverage the 20-second durations of both Perfect Balance + Masterful Blitz in order to charge up a Blitz, then hold it into your next Riddle of Fire where the 40 second cooldown of Perfect Balance will have refreshed, allowing for an additional Blitz in an Even Riddle of Fire window at no cost. This is doable due to the fact that AoE skills will grant a Beast chakra even if they don’t hit a target.*
+_“Triple Blitz windows are reliant on long periods of downtime in order to leverage the 20-second durations of both Perfect Balance + Masterful Blitz in order to charge up a Blitz, then hold it into your next Riddle of Fire where the 40 second cooldown of Perfect Balance will have refreshed, allowing for an additional Blitz in an Even Riddle of Fire window at no cost. This is doable due to the fact that AoE skills will grant a Beast chakra even if they don’t hit a target._
 
-*As you are beginning with a Nadi already, you are relatively locked in as to how the rest of the window is sequenced.*
+_As you are beginning with a Nadi already, you are relatively locked in as to how the rest of the window is sequenced._
 
-*Key things to keep in mind regardless of which route you choose to follow when attempting a Triple Blitz is that it starts quite late relative to other jobs reopeners. As such you might have to modify your burst to better catch your groups timings and to have the ability to place Brotherhood in a better spot for your team."*
+_Key things to keep in mind regardless of which route you choose to follow when attempting a Triple Blitz is that it starts quite late relative to other jobs reopeners. As such you might have to modify your burst to better catch your groups timings and to have the ability to place Brotherhood in a better spot for your team."_
 
 For P3S it will be at the same moment you press RoF, four GCDs after. See the sheet below:
 
@@ -166,12 +165,12 @@ This boss is a full uptime scenario too.
 
 Act Two can be handled at max melee range, though you might have to get out for roughly one GCD to pop your tether. For Act Four, some inconsistencies like getting purple tethers can make you want to call it a day.
 
-That is all you have to know about this fight! 
+That is all you have to know about this fight!
 
 # Closing
 
-And this is it, thank you for reading the whole encounter guide for the first tier of Endwalker! 
+And this is it, thank you for reading the whole encounter guide for the first tier of Endwalker!
 
-Thank you to The Balance for giving me the chance to contribute to the well being of monk guides. 
+Thank you to The Balance for giving me the chance to contribute to the well being of monk guides.
 
-* Ailarra
+- Ailarra
