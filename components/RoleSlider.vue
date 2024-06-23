@@ -67,7 +67,7 @@
                 :src="job.icon"
               />
               <a
-                href="#"
+                :href="`/${role?.slug}/${job.slug}`"
                 class="text-link-orange mt-2 hidden md:block font-sans font-bold tracking-wide"
                 >Guides & Resources »</a
               >
@@ -83,8 +83,8 @@
 <script lang="ts">
 import { ref } from "vue";
 import { register } from "swiper/element/bundle";
-import type { Role, RoleImage } from "~/models/Role";
-import type { Glob } from "~/models/Glob";
+import type { Role, RoleImage } from "~/types/Role";
+import type { Glob } from "~/types/Glob";
 // initialize swiper web components
 register();
 export default {
@@ -100,59 +100,25 @@ export default {
     const { data } = await useAsyncData("data", () =>
       queryContent("/roles").findOne(),
     );
-    // TODO: Replace with type for actual role json
-    type PartialRole = {
-      order: number;
-      slug: string;
-      jobs: PartialJob[];
-      description: string;
-      name: string;
-      nameSingular: string;
-    };
-    type PartialJob = {
-      slug: string;
-      name: string;
-      description: string;
-    };
-    const roles: PartialRole[] = data.value?.roles.toSorted(
-      (a: PartialRole, b: PartialRole) => a.order - b.order,
+
+    const roles: Role[] = data.value?.roles.toSorted(
+      (a: Role, b: Role) => a.order - b.order,
     );
     // Job Images
     // We use the slug of the role/job to parse the relevant image from the assets directory
     // Icons for jobs should be /assets/jobs/{role-slug}/{job-slug}/icon.svg
     // Icons for roles should be /assets/jobs/{role-slug}/icon.svg
-    type ExpectedGlob = {
-      [key: string]: {
-        default: string;
-      };
-    };
-    const rolesGlob: ExpectedGlob = import.meta.glob("@/assets/jobs/**/*.svg", {
-      eager: true,
-    });
-    type RoleImage = {
-      slug: string;
-      icon: string;
-      icon_white: string;
-      jobs: JobImage[];
-    };
-    type JobImage = {
-      slug: string;
-      icon: string;
-    };
+
     const roleImages: RoleImage[] = roles.map((role) => {
       // Use the slug of the role to get the role icon
       const { slug: roleSlug } = role;
-      const roleIconPath =
-        rolesGlob[`/assets/jobs/${roleSlug}/icon.svg`]?.default ?? "";
-      const roleIconWhitePath =
-        rolesGlob[`/assets/jobs/${roleSlug}/icon_white.svg`].default ?? "";
+      const roleIconPath = `/assets/jobs/${roleSlug}/icon.svg`;
+      const roleIconWhitePath = `/assets/jobs/${roleSlug}/icon_white.svg`;
       // Each role should have a list of jobs, each with a slug
       // Use the slug of the job with the role to get the job icon
       const jobs = role.jobs.map((job) => {
         const { slug: jobSlug } = job;
-        const jobIconPath =
-          rolesGlob[`/assets/jobs/${roleSlug}/${jobSlug}/icon.svg`]?.default ??
-          "";
+        const jobIconPath = `/assets/jobs/${roleSlug}/${jobSlug}/icon.svg`;
 
         return {
           slug: job.slug,
@@ -206,4 +172,3 @@ export default {
   },
 };
 </script>
-

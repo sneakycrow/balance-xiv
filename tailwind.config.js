@@ -99,8 +99,11 @@ module.exports = {
       },
       backgroundImage: {
         endwalker: "url('/endwalker@2x.png')",
-        paladin: "url('/assets/jobs/tanks/paladin/background.png')"
-        'join-community': "url('/join-community.png')",
+        paladin: "url('/assets/jobs/tanks/paladin/background.png')",
+        warrior: "url('/assets/jobs/tanks/warrior/background.png')",
+        "dark-knight": "url('/assets/jobs/tanks/dark-knight/background.png')",
+        gunbreaker: "url('/assets/jobs/tanks/gunbreaker/background.png')",
+        "join-community": "url('/join-community.png')",
       },
     },
   },

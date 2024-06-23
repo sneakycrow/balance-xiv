@@ -4,10 +4,8 @@
 
 <script setup lang="ts">
 definePageMeta({
-  layout: "job"
-})
-
-const route = useRoute();
+  layout: "job",
+});
 </script>
 
 <style></style>
