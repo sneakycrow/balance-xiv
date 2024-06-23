@@ -7,31 +7,32 @@
       'bg-dark-knight': job === JobEnum.DarkKnight,
       'bg-gunbreaker': job === JobEnum.Gunbreaker,
 
-      'bg-astrologian' : job === JobEnum.Astrologian,
-      'bg-sage' : job === JobEnum.Sage,
-      'bg-scholar' : job === JobEnum.Scholar,
-      'bg-white-mage' : job === JobEnum.WhiteMage,
+      'bg-astrologian': job === JobEnum.Astrologian,
+      'bg-sage': job === JobEnum.Sage,
+      'bg-scholar': job === JobEnum.Scholar,
+      'bg-white-mage': job === JobEnum.WhiteMage,
 
-      'bg-dragoon' : job === JobEnum.Dragoon,
-      'bg-monk' : job === JobEnum.Monk,
-      'bg-ninja' : job === JobEnum.Ninja,
-      'bg-reaper' : job === JobEnum.Reaper,
-      'bg-samurai' : job === JobEnum.Samurai,
-      'bg-viper' : job === JobEnum.Viper,
+      'bg-dragoon': job === JobEnum.Dragoon,
+      'bg-monk': job === JobEnum.Monk,
+      'bg-ninja': job === JobEnum.Ninja,
+      'bg-reaper': job === JobEnum.Reaper,
+      'bg-samurai': job === JobEnum.Samurai,
+      'bg-viper': job === JobEnum.Viper,
 
-      'bg-bard' : job === JobEnum.Bard,
-      'bg-dancer' : job === JobEnum.Dancer,
-      'bg-machinist' : job === JobEnum.Machinist,
+      'bg-bard': job === JobEnum.Bard,
+      'bg-dancer': job === JobEnum.Dancer,
+      'bg-machinist': job === JobEnum.Machinist,
 
-      'bg-black-mage' : job === JobEnum.BlackMage,
-      'bg-pictomancer' : job === JobEnum.Pictomancer,
-      'bg-red-mage' : job === JobEnum.RedMage,
-      'bg-summoner' : job === JobEnum.Summoner,
+      'bg-black-mage': job === JobEnum.BlackMage,
+      'bg-pictomancer': job === JobEnum.Pictomancer,
+      'bg-red-mage': job === JobEnum.RedMage,
+      'bg-summoner': job === JobEnum.Summoner,
     }"
   />
   <div class="w-full h-64 md:h-96 z-10 pl-32 sm:pl-48 lg:pl-60 pt-16 md:pt-24">
     <div class="flex items-center">
-      <img
+      <NuxtImg
+        preload
         class="w-1/12 xl:w-32 md:h-20 xl:h-32"
         :src="`/assets/jobs/${role}/${job}/icon.svg`"
         :alt="`${job} Job Icon`"
