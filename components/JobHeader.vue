@@ -31,7 +31,7 @@
   />
   <div class="w-full h-64 md:h-96 z-10 pl-32 sm:pl-48 lg:pl-60 pt-16 md:pt-24">
     <div class="flex items-center">
-      <img
+      <NuxtImg
         class="w-1/12 xl:w-32 md:h-20 xl:h-32"
         :src="`/assets/jobs/${role}/${job}/icon.svg`"
         :alt="`${job} Job Icon`"
