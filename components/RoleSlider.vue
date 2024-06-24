@@ -57,13 +57,13 @@
           :data-hash="role?.slug"
         >
           <div
-            class="grid grid-cols-2 md:grid-cols-[30%_1fr] md:h-[30rem] bg-card-light p-4 items-center justify-center"
+            class="grid grid-cols-2 lg:grid-cols-[30%_1fr] min-h-[30rem] bg-card-light p-4 items-center justify-center"
           >
             <div
-              class="h-full col-span-2 md:col-span-1 p-8 space-y-4 flex flex-col items-center pt-2 md:pt-8"
+              class="h-full col-span-2 lg:col-span-1 p-8 space-y-4 flex flex-col items-center pt-2"
             >
               <NuxtImg
-                class="mx-auto my-4 max-w-none w-20"
+                class="mx-auto hidden lg:block my-4 max-w-none w-20"
                 :src="role?.icon_white"
               />
               <a
@@ -72,20 +72,20 @@
               >
                 {{ role?.nameSingular }} Guides & Resources »
               </a>
-              <p class="text-left leading-7">{{ role?.description }}</p>
+              <p class="text-left leading-7 text-gray-light">{{ role?.description }}</p>
             </div>
-            <div class="col-span-2 md:col-span-1 flex justify-around flex-wrap">
+            <div class="col-span-2 lg:col-span-1 flex justify-around flex-wrap">
               <div
                 v-for="job in role?.jobs"
                 :key="job.slug"
-                class="p-5 flex flex-col items-center justify-center w-1/2 md:w-auto hover:bg-card-lighter rounded self-center"
+                class="p-5 flex flex-col items-center justify-center w-1/2 lg:w-auto hover:bg-card-lighter rounded self-center"
               >
                 <a
                   :href="`/${role?.slug}/${job.slug}`"
                   class="font-sans font-bold tracking-wide flex flex-col items-center gap-2"
                 >
                   <NuxtImg
-                    class="w-8 h-8 md:w-16 md:h-16 md:mb-4"
+                    class="w-8 h-8 lg:w-16 lg:h-16 lg:mb-4"
                     :src="job.icon"
                   />
                   <label
