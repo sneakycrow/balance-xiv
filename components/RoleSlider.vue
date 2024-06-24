@@ -1,105 +1,147 @@
 <template>
   <section v-bind="$attrs">
     <section>
-      <swiper-container id="role-nav-thumbs" :slides-per-view="5">
-        <swiper-slide v-for="(role, index) in roles" :key="role?.slug">
+      <Swiper
+        @swiper="setSwiperNavRef"
+        class="swiper-nav"
+        @slides-updated=""
+        :allow-slide-prev="activeRoleIndex > 0"
+        :allow-slide-next="activeRoleIndex < 4"
+        :slides-per-view="viewport.isLessThan('desktop') ? 1 : 5"
+        :hash-navigation="{
+          watchState: true,
+          replaceState: true,
+        }"
+        @slideChange="onNavSliderChange"
+      >
+        <SwiperSlide
+          v-for="(role, index) in roles"
+          :key="role?.slug"
+          :data-hash="role?.slug"
+        >
           <a
             :href="`#${role?.slug}`"
-            class="flex border-t-4 border-1 border-black flex-nowrap space-x-4 items-center justify-center px-7 py-3 text-center text-xl font-bold text-white uppercase tracking-widest transition-all"
+            class="flex border-t-4 border-1 border-black flex-nowrap space-x-4 items-center justify-center px-7 py-3 text-center text-xl font-bold text-white uppercase tracking-widest transition-all h-full"
             :class="{
-              'bg-card-light': index === activeRole,
-              'bg-card-lighter': index !== activeRole,
+              'bg-card-light': activeRoleIndex === index,
+              'bg-card-lighter': activeRoleIndex !== index,
               'border-t-tanks': role?.slug === 'tanks',
               'border-t-casters': role?.slug === 'casters',
               'border-t-healers': role?.slug === 'healers',
               'border-t-melee': role?.slug === 'melee',
               'border-t-ranged': role?.slug === 'ranged',
             }"
-            @click="activeRole = index"
           >
             <img :src="role?.icon" />
             <span>{{ role?.name }}</span>
           </a>
-        </swiper-slide>
-      </swiper-container>
+        </SwiperSlide>
+      </Swiper>
     </section>
     <section>
-      <swiper-container
+      <Swiper
+        class="swiper-tab"
         :slides-per-view="1"
+        :allow-slide-prev="activeRoleIndex > 0"
+        :allow-slide-next="activeRoleIndex < 4"
         :hash-navigation="{
           watchState: true,
           replaceState: true,
         }"
-        thumbs-swiper="#role-nav-thumbs"
-        @swiperslidechange="onSlideChange"
+        @swiper="setSwiperTabRef"
+        @slideChange="onMainSliderChange"
       >
-        <swiper-slide
+        <SwiperSlide
           v-for="role in roles"
           :key="role?.slug"
           :data-hash="role?.slug"
         >
           <div
-            class="grid grid-cols-6 h-[30rem] bg-card-light p-4 items-center justify-center"
+            class="grid grid-cols-2 md:grid-cols-[30%_1fr] md:h-[30rem] bg-card-light p-4 items-center justify-center"
           >
             <div
-              class="row-span-2 h-full col-span-2 p-8 space-y-4 flex flex-col items-center justify-center"
+              class="h-full col-span-2 md:col-span-1 p-8 space-y-4 flex flex-col items-center pt-2 md:pt-8"
             >
-              <img
+              <NuxtImg
                 class="mx-auto my-4 max-w-none w-20"
                 :src="role?.icon_white"
               />
               <a
                 href="#"
-                class="text-link-orange mt-2 hidden md:block font-sans font-bold tracking-wide"
+                class="text-link-orange mt-2 font-sans font-bold tracking-wide"
               >
                 {{ role?.nameSingular }} Guides & Resources »
               </a>
-              <p>{{ role?.description }}</p>
+              <p class="text-left leading-7">{{ role?.description }}</p>
             </div>
-
-            <div
-              v-for="job in role?.jobs"
-              :key="job.slug"
-              class="col-span-1 p-2 flex flex-col items-center justify-center"
-            >
-              <img
-                class="w-8 h-8 md:w-16 md:h-16 mr-4 md:mr-0 md:mb-4"
-                :src="job.icon"
-              />
-              <a
-                :href="`/${role?.slug}/${job.slug}`"
-                class="text-link-orange mt-2 hidden md:block font-sans font-bold tracking-wide"
-                >Guides & Resources »</a
+            <div class="col-span-2 md:col-span-1 flex justify-around flex-wrap">
+              <div
+                v-for="job in role?.jobs"
+                :key="job.slug"
+                class="p-5 flex flex-col items-center justify-center w-1/2 md:w-auto hover:bg-card-lighter rounded self-center"
               >
-              <p>{{ job.name }}</p>
+                <a
+                  :href="`/${role?.slug}/${job.slug}`"
+                  class="font-sans font-bold tracking-wide flex flex-col items-center gap-2"
+                >
+                  <NuxtImg
+                    class="w-8 h-8 md:w-16 md:h-16 md:mb-4"
+                    :src="job.icon"
+                  />
+                  <label
+                    :aria-label="job.name"
+                    class="uppercase text-xl font-bold"
+                    >{{ job.name }}</label
+                  >
+                  <span class="text-link-orange">Guides & Resources »</span>
+                </a>
+              </div>
             </div>
           </div>
-        </swiper-slide>
-      </swiper-container>
+        </SwiperSlide>
+      </Swiper>
     </section>
   </section>
 </template>
 
 <script lang="ts">
-import { ref } from "vue";
+import type Swiper from "swiper";
 import { register } from "swiper/element/bundle";
 import type { Role, RoleImage } from "~/types/Role";
-import type { Glob } from "~/types/Glob";
-// initialize swiper web components
+
 register();
+
+// initialize swiper web components
 export default {
   name: "RoleSlider",
   async setup() {
-    // Slider
-    // Keep track of the active role for the active tab
-    const activeRole = ref(0);
-    const onSlideChange = (e: { detail: [{ activeIndex: number }] }) => {
-      const [swiper] = e.detail;
-      activeRole.value = swiper.activeIndex;
+    const { $viewport } = useNuxtApp();
+
+    const activeRoleIndex = ref(0);
+    const swiperNav = ref<Swiper>();
+    const swiperTab = ref<Swiper>();
+
+    const setSwiperNavRef = (swiper: Swiper) => {
+      swiperNav.value = swiper;
     };
+
+    const setSwiperTabRef = (swiper: Swiper) => {
+      swiperTab.value = swiper;
+    };
+
     const { data } = await useAsyncData("data", () =>
       queryContent("/roles").findOne(),
     );
+
+    function onNavSliderChange(swiper: Swiper) {
+      activeRoleIndex.value = swiper.activeIndex;
+      swiperTab.value?.slideTo(swiper.activeIndex);
+    }
+
+    function onMainSliderChange(swiper: Swiper) {
+      activeRoleIndex.value = swiper.activeIndex;
+      swiperNav.value?.slideTo(swiper.activeIndex);
+    }
 
     const roles: Role[] = data.value?.roles.toSorted(
       (a: Role, b: Role) => a.order - b.order,
@@ -165,10 +207,20 @@ export default {
       );
     });
     return {
-      activeRole,
-      onSlideChange,
+      viewport: $viewport,
       roles: rolesWithImages,
+      onNavSliderChange,
+      onMainSliderChange,
+      activeRoleIndex,
+      setSwiperNavRef,
+      setSwiperTabRef,
     };
   },
 };
 </script>
+
+<style>
+.swiper-slide {
+  height: auto;
+}
+</style>
