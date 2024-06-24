@@ -4,7 +4,6 @@
       <Swiper
         @swiper="setSwiperNavRef"
         class="swiper-nav"
-        @slides-updated=""
         :allow-slide-prev="activeRoleIndex > 0"
         :allow-slide-next="activeRoleIndex < 4"
         :slides-per-view="viewport.isLessThan('desktop') ? 1 : 5"
@@ -72,7 +71,9 @@
               >
                 {{ role?.nameSingular }} Guides & Resources »
               </a>
-              <p class="text-left leading-7 text-gray-light">{{ role?.description }}</p>
+              <p class="text-left leading-7 text-gray-light">
+                {{ role?.description }}
+              </p>
             </div>
             <div class="col-span-2 lg:col-span-1 flex justify-around flex-wrap">
               <div
