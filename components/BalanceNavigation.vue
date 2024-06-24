@@ -1,10 +1,10 @@
 <template>
   <nav class="px-20">
-    <ul class="flex items-center justify-center space-x-10 py-4">
+    <ul class="flex items-center justify-center py-4 gap-20">
       <li v-for="item in navList" :key="item.id">
         <a
           :href="item.href"
-          class="py-2 px-4 font-semibold text-xl text-white hover:text-link-orange border-b-2 border-link-orange border-opacity-0 hover:border-opacity-100"
+          class="nav-link"
         >
           {{ item.copy }}
         </a>

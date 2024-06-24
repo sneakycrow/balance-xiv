@@ -1,27 +1,37 @@
 <template>
   <footer
-    class="bg-card-light px-16 mt-16 flex flex-col justify-start items-start"
+    class="bg-card-light mt-16 flex flex-col justify-start items-start w-full"
   >
-    <div class="mt-16">
+    <div class="mt-11 responsive-container mx-auto">
       <img src="/the_balance.png" />
-      <div class="grid grid-cols-3 mt-16 justify-evenly">
+      <div class="grid grid-cols-2 mt-10 justify-evenly">
         <div class="flex flex-col w-1/2 sm:w-1/3">
-          <h3 class="">Combat Jobs</h3>
+          <h3 class="uppercase tracking-widest font-bold pb-2">Combat Jobs</h3>
           <ul v-for="item in combatNavItems" :key="item.id">
-            <li>
-              <a :href="item.href">{{ item.copy }}</a>
+            <li class="text-link-orange font-semibold pb-0.5">
+              <a
+                class="border-link-orange border-opacity-0 border-b hover:border-opacity-100 transition-colors"
+                :href="item.href"
+                >{{ item.copy }}</a
+              >
             </li>
           </ul>
         </div>
-        <div class="flex-auto col-start-3">
-          <h3 class="">Info</h3>
-          <ul class="">
+        <div class="flex-auto">
+          <h3 class="uppercase tracking-widest font-bold pb-2">Info</h3>
+          <ul>
             <!-- Replace with credits page link when created -->
-            <li><a href="#">Credits</a></li>
+            <li class="text-link-orange font-semibold py-0.5">
+              <a
+                class="border-link-orange border-opacity-0 border-b hover:border-opacity-100 transition-colors"
+                href="#"
+                >Credits</a
+              >
+            </li>
           </ul>
         </div>
       </div>
-      <div class="py-10 text-xs">
+      <div class="pb-5 pt-10 footer-copyright">
         © SQUARE ENIX CO., LTD. All Rights Reserved | FINAL FANTASY is a
         registered trademark of Square Enix Holdings Co., Ltd. | All content ©
         their respective authors | The Balance is a non-profit community-owned
@@ -37,11 +47,11 @@ export default {
   setup() {
     const combatNavItems = ref([
       // These temporarily have "#" as the href until the pages are created
-      { id: "casters", href: "#", copy: "Casters" },
+      { id: "tanks", href: "#", copy: "Tanks" },
       { id: "healers", href: "#", copy: "Healers" },
       { id: "melee", href: "#", copy: "Melee" },
       { id: "ranged", href: "#", copy: "Ranged" },
-      { id: "tanks", href: "#", copy: "Tanks" },
+      { id: "casters", href: "#", copy: "Casters" },
     ]);
 
     return { combatNavItems };

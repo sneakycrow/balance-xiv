@@ -31,7 +31,7 @@
               'border-t-ranged': role?.slug === 'ranged',
             }"
           >
-            <img :src="role?.icon" />
+            <NuxtImg :src="role?.icon" />
             <span>{{ role?.name }}</span>
           </a>
         </SwiperSlide>
@@ -107,10 +107,7 @@
 
 <script lang="ts">
 import type Swiper from "swiper";
-import { register } from "swiper/element/bundle";
 import type { Role, RoleImage } from "~/types/Role";
-
-register();
 
 // initialize swiper web components
 export default {
