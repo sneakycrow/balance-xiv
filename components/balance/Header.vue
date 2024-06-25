@@ -14,7 +14,7 @@
         <img src="/the_balance.svg" alt="The Balance" class="w-96 lg:w-full" />
       </a>
       <h1
-        v-if="route !== 'index'"
+        v-if="route.name !== 'index'"
         class="text-2xl lg:text-6xl h-shadow font-bold mb-0 capitalize"
       >
         {{ route.name }}
