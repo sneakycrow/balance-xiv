@@ -27,8 +27,3 @@ html {
 .nav-link {
   @apply font-semibold text-xl py-1 hover:text-link-orange border-b-2 border-link-orange border-opacity-0 hover:border-opacity-100 transition-colors;
 }
-
-.swiper-button-prev:after,
-.swiper-button-next:after {
-  font-size: 24px !important;
-}

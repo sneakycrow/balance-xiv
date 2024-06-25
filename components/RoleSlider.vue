@@ -222,7 +222,12 @@ export default {
 };
 </script>
 
-<style>
+<style scoped>
+.swiper {
+  --swiper-navigation-size: 1.5rem;
+  --swiper-navigation-color: grey;
+}
+
 .swiper-slide {
   height: auto;
 }
