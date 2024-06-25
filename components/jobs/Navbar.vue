@@ -1,10 +1,10 @@
 <template>
   <div class="fixed w-full bg-black">
-    <nav class="responsive-container mx-auto bg-black">
+    <nav class="responsive-container bg-black">
       <div class="flex justify-between">
-        <a href="/" class="flex items-center gap-2 py-4">
-          <NuxtImg class="h-8" src="/the_balance_icon.svg" />
-          <NuxtImg class="h-5" src="/the_balance.svg" />
+        <a href="/" class="flex items-center gap-2 py-3 md:py-4">
+          <NuxtImg class="h-5 lg:h-8" src="/the_balance_icon.svg" />
+          <NuxtImg class="h-3 lg:h-5" src="/the_balance.svg" />
         </a>
 
         <div class="flex items-center gap-8">

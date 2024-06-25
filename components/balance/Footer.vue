@@ -2,7 +2,7 @@
   <footer
     class="bg-card-light mt-16 flex flex-col justify-start items-start w-full"
   >
-    <div class="mt-11 responsive-container mx-auto">
+    <div class="mt-11 responsive-container">
       <img src="/the_balance.png" />
       <div class="grid grid-cols-2 mt-10 justify-evenly">
         <div class="flex flex-col w-1/2 sm:w-1/3">
@@ -24,7 +24,7 @@
             <li class="text-link-orange font-semibold py-0.5">
               <a
                 class="border-link-orange border-opacity-0 border-b hover:border-opacity-100 transition-colors"
-                href="#"
+                href="/credits"
                 >Credits</a
               >
             </li>
@@ -43,7 +43,6 @@
 
 <script lang="ts">
 export default {
-  name: "BalanceFooter",
   setup() {
     const combatNavItems = ref([
       // These temporarily have "#" as the href until the pages are created

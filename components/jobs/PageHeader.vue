@@ -1,10 +1,10 @@
 <template>
   <div
-    class="w-full -z-1 bg-top bg-cover absolute top-0 h-64 md:h-96 mt-16"
+    class="w-full -z-1 bg-bottom md:bg-top bg-cover absolute top-0 h-96 md:h-72 xl:h-112 mt-11"
     :style="`background-image: url(${$config.app.baseURL}assets/jobs/${role}/${job}/background.png)`"
     ,
   />
-  <div class="w-full h-64 md:h-96 z-10 pl-32 sm:pl-48 lg:pl-60 pt-16 md:pt-24">
+  <div class="responsive-container h-64 md:h-96 z-10 pt-16 md:pt-24">
     <div class="flex items-center">
       <NuxtImg
         preload

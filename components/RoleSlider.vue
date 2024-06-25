@@ -11,6 +11,7 @@
           watchState: true,
           replaceState: true,
         }"
+        :navigation="viewport.isLessThan('desktop')"
         @slideChange="onNavSliderChange"
       >
         <SwiperSlide
@@ -31,7 +32,7 @@
               'border-t-ranged': role?.slug === 'ranged',
             }"
           >
-            <NuxtImg :src="role?.icon" />
+            <NuxtImg class="h-10" :src="role?.icon" />
             <span>{{ role?.name }}</span>
           </a>
         </SwiperSlide>
@@ -67,9 +68,10 @@
               />
               <a
                 href="#"
-                class="text-link-orange mt-2 font-sans font-bold tracking-wide"
+                class="text-link-orange pb-1 mt-2 hover:text-orange-600 font-sans font-bold tracking-wide transition-colors"
               >
-                {{ role?.nameSingular }} Guides & Resources »
+                {{ role?.nameSingular }} Guides & Resources
+                <span class="hidden md:inline">»</span>
               </a>
               <p class="text-left leading-7 text-gray-light">
                 {{ role?.description }}
@@ -94,7 +96,10 @@
                     class="uppercase text-xl font-bold"
                     >{{ job.name }}</label
                   >
-                  <span class="text-link-orange">Guides & Resources »</span>
+                  <span class="text-link-orange"
+                    >Guides & Resources
+                    <span class="hidden md:inline">»</span></span
+                  >
                 </a>
               </div>
             </div>
