@@ -57,3 +57,13 @@ export default {
   },
 };
 </script>
+
+<style scoped>
+.footer-copyright {
+  text-align: center;
+  font-size: 0.875rem;
+  line-height: 1.25rem;
+  font-weight: 300;
+  color: #8f99a4;
+}
+</style>

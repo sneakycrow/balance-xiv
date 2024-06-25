@@ -28,14 +28,6 @@ html {
   @apply font-semibold text-xl py-1 hover:text-link-orange border-b-2 border-link-orange border-opacity-0 hover:border-opacity-100 transition-colors;
 }
 
-.footer-copyright {
-  text-align: center;
-  font-size: 0.875rem;
-  line-height: 1.25rem;
-  font-weight: 300;
-  color: #8f99a4;
-}
-
 .swiper-button-prev:after,
 .swiper-button-next:after {
   font-size: 24px !important;
