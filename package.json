@@ -14,7 +14,8 @@
     "lint": "yarn lint:eslint && yarn lint:prettier",
     "lintfix": "eslint . --fix && prettier --write --list-different .",
     "postinstall": "nuxt prepare",
-    "preview": "nuxt preview"
+    "preview": "nuxt preview",
+    "extract": "vue-i18n-extract report --vueFiles './{pages,components}/**/*.vue' --languageFiles './locale/*.json' --add"
   },
   "dependencies": {
     "@nuxt/content": "^2.12.1",
@@ -35,6 +36,7 @@
     "eslint-config-prettier": "^9.1.0",
     "eslint-plugin-prettier": "^5.1.3",
     "prettier": "^3.3.2",
-    "typescript": "^5.5.2"
+    "typescript": "^5.5.2",
+    "vue-i18n-extract": "^2.0.7"
   }
 }
