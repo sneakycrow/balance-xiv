@@ -70,8 +70,12 @@
                 href="#"
                 class="text-link-orange pb-1 mt-2 hover:text-orange-600 font-sans font-bold tracking-wide transition-colors"
               >
+<<<<<<< HEAD
                 {{ role?.nameSingular }} {{ $t('landing.guides-and-resources') }}
                 <span class="hidden md:inline">»</span>
+=======
+                {{ role?.nameSingular }} {{ $t('landing.guides-and-resources') }} »
+>>>>>>> refs/remotes/origin/feat/i18n-but-secret
               </a>
               <p class="text-left leading-7 text-gray-light">
                 {{ role?.description }}
@@ -96,10 +100,14 @@
                     class="uppercase text-xl font-bold"
                     >{{ job.name }}</label
                   >
+<<<<<<< HEAD
                   <span class="text-link-orange"
                     >{{ $t('landing.guides-and-resources') }}
                     <span class="hidden md:inline">»</span></span
                   >
+=======
+                  <span class="text-link-orange">{{ $t('landing.guides-and-resources') }} »</span>
+>>>>>>> refs/remotes/origin/feat/i18n-but-secret
                 </a>
               </div>
             </div>
