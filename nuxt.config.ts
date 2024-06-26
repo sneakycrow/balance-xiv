@@ -17,6 +17,7 @@ export default defineNuxtConfig({
     "@nuxt/image",
     "nuxt-viewport",
     "nuxt-swiper",
+    "@nuxt/test-utils/module",
   ],
   vue: {
     compilerOptions: {
