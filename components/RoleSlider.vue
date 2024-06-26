@@ -2,7 +2,6 @@
   <section v-bind="$attrs">
     <section>
       <Swiper
-        @swiper="setSwiperNavRef"
         class="swiper-nav"
         :allow-slide-prev="activeRoleIndex > 0"
         :allow-slide-next="activeRoleIndex < 4"
@@ -12,7 +11,8 @@
           replaceState: true,
         }"
         :navigation="viewport.isLessThan('desktop')"
-        @slideChange="onNavSliderChange"
+        @swiper="setSwiperNavRef"
+        @slide-change="onNavSliderChange"
       >
         <SwiperSlide
           v-for="(role, index) in roles"
@@ -49,7 +49,7 @@
           replaceState: true,
         }"
         @swiper="setSwiperTabRef"
-        @slideChange="onMainSliderChange"
+        @slide-change="onMainSliderChange"
       >
         <SwiperSlide
           v-for="role in roles"
@@ -146,9 +146,9 @@ export default {
       swiperNav.value?.slideTo(swiper.activeIndex);
     }
 
-    const roles: Role[] = data.value?.roles.toSorted(
-      (a: Role, b: Role) => a.order - b.order,
-    );
+    const roles: Role[] =
+      data.value?.roles?.toSorted((a: Role, b: Role) => a.order - b.order) ??
+      [];
     // Job Images
     // We use the slug of the role/job to parse the relevant image from the assets directory
     // Icons for jobs should be /assets/jobs/{role-slug}/{job-slug}/icon.svg

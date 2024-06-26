@@ -165,7 +165,7 @@ Ultimate BiS sets can be found below.
 2.40 non-relic - <https://etro.gg/gearset/7c5e6086-dec6-4feb-8648-f283fd37f60e>  
 2.40 relic - <https://etro.gg/gearset/9190d3b3-55b9-4ec6-8364-42dc8f13cf00>
 
-2.38 non-relic - <https://etro.gg/gearset/4f771c14-319a-45bd-8640-e502b8abdeaf>  
+2.38 non-relic - <https://etro.gg/gearset/4f771c14-319a-45bd-8640-e502b8abdeaf>
 
 2.38 relic - <https://etro.gg/gearset/fb582812-87f3-4dbc-8566-07bfbb52ead0>
 
