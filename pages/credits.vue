@@ -1,5 +1,3 @@
 <template>
-  <ContentDoc class="p-5 responsive-container" />
+  <ContentDoc class="p-10 responsive-container md: md:my-8 text-lg rounded bg-card-light" />
 </template>
-
-<script lang="ts" setup></script>
