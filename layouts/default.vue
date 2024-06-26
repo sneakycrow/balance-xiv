@@ -1,7 +1,6 @@
 <template>
   <div>
-    <JobsNavbar />
-    <JobsPageHeader />
+    <BalanceHeader />
     <slot />
   </div>
 </template>
