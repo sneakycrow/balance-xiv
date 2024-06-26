@@ -31,7 +31,9 @@
           </ul>
         </div>
       </div>
-      <div class="pb-5 pt-10 text-center text-[0.875rem] leading-5 font-light text-gray-400">
+      <div
+        class="pb-5 pt-10 text-center text-[0.875rem] leading-5 font-light text-gray-400"
+      >
         © SQUARE ENIX CO., LTD. All Rights Reserved | FINAL FANTASY is a
         registered trademark of Square Enix Holdings Co., Ltd. | All content ©
         their respective authors | The Balance is a non-profit community-owned

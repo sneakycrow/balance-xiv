@@ -2,7 +2,6 @@
   <div
     class="w-full -z-1 bg-bottom md:bg-top bg-cover absolute top-0 h-96 md:h-72 xl:h-112 mt-11"
     :style="`background-image: url(${$config.app.baseURL}assets/jobs/${role}/${job}/background.png)`"
-    ,
   />
   <div class="responsive-container h-64 md:h-96 z-10 pt-16 md:pt-24">
     <div class="flex items-center">
