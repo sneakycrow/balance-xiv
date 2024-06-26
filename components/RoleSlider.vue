@@ -69,7 +69,7 @@
                 href="#"
                 class="text-link-orange mt-2 font-sans font-bold tracking-wide"
               >
-                {{ role?.nameSingular }} Guides & Resources »
+                {{ role?.nameSingular }} {{ $t('landing.guides-and-resources') }} »
               </a>
               <p class="text-left leading-7 text-gray-light">
                 {{ role?.description }}
@@ -94,7 +94,7 @@
                     class="uppercase text-xl font-bold"
                     >{{ job.name }}</label
                   >
-                  <span class="text-link-orange">Guides & Resources »</span>
+                  <span class="text-link-orange">{{ $t('landing.guides-and-resources') }} »</span>
                 </a>
               </div>
             </div>
@@ -144,9 +144,9 @@ export default {
       swiperNav.value?.slideTo(swiper.activeIndex);
     }
 
-    const roles: Role[] = data.value?.roles.toSorted(
+    const roles: Role[] = data.value?.roles?.toSorted(
       (a: Role, b: Role) => a.order - b.order,
-    );
+    ) ?? [];
     // Job Images
     // We use the slug of the role/job to parse the relevant image from the assets directory
     // Icons for jobs should be /assets/jobs/{role-slug}/{job-slug}/icon.svg
