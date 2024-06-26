@@ -71,7 +71,7 @@ Since our GCD loop takes around 2 minutes to match back up with our oGCDs it mea
 ![Lance Charge](https://xivapi.com/i/000000/000309.png) \
 Lance Charge will always come up at the opposite spot of where you used it before, if you use it at the start of your GCD the next one will become ready before the end of your GCD. Because of this you will always alternate hitting Lance Charge late into your GCD to get 9 buffed GCDs, and weaving it right after a GCD on cooldown to prevent drifting it.
 
-****9GCD Buffs:**** \
+\***\*9GCD Buffs:\*\*** \
 The slightly faster GCD speed allows us to hit a 9th GCD in our 20s buffs ( :lc: & :ds~1: ) when they are weaved late enough into our GCD, about 75% into the GCD spin.
 
 ![Tincture](https://xivapi.com/i/020000/020710.png) \
