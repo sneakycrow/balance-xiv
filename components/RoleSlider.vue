@@ -146,9 +146,9 @@ export default {
       swiperNav.value?.slideTo(swiper.activeIndex);
     }
 
-    const roles: Role[] = data.value?.roles.toSorted(
+    const roles: Role[] = data.value?.roles?.toSorted(
       (a: Role, b: Role) => a.order - b.order,
-    );
+    ) ?? [];
     // Job Images
     // We use the slug of the role/job to parse the relevant image from the assets directory
     // Icons for jobs should be /assets/jobs/{role-slug}/{job-slug}/icon.svg
