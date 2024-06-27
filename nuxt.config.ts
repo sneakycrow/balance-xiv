@@ -17,6 +17,7 @@ export default defineNuxtConfig({
     "@nuxt/image",
     "nuxt-viewport",
     "nuxt-swiper",
+    "@nuxtjs/i18n",
   ],
   vue: {
     compilerOptions: {
@@ -28,5 +29,8 @@ export default defineNuxtConfig({
       tailwindcss: {},
       autoprefixer: {},
     },
+  },
+  i18n: {
+    vueI18n: "./i18n.config.ts",
   },
 });

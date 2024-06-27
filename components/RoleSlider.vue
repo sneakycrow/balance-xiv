@@ -70,7 +70,8 @@
                 href="#"
                 class="text-link-orange pb-1 mt-2 hover:text-orange-600 font-sans font-bold tracking-wide transition-colors"
               >
-                {{ role?.nameSingular }} Guides & Resources
+                {{ role?.nameSingular }}
+                {{ $t("landing.guides-and-resources") }}
                 <span class="hidden md:inline">»</span>
               </a>
               <p class="text-left leading-7 text-gray-light">
@@ -97,7 +98,7 @@
                     >{{ job.name }}</label
                   >
                   <span class="text-link-orange"
-                    >Guides & Resources
+                    >{{ $t("landing.guides-and-resources") }}
                     <span class="hidden md:inline">»</span></span
                   >
                 </a>
