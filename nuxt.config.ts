@@ -18,6 +18,7 @@ export default defineNuxtConfig({
     "nuxt-viewport",
     "nuxt-swiper",
     "@nuxt/test-utils/module",
+    "@nuxtjs/i18n",
   ],
   vue: {
     compilerOptions: {
@@ -29,5 +30,8 @@ export default defineNuxtConfig({
       tailwindcss: {},
       autoprefixer: {},
     },
+  },
+  i18n: {
+    vueI18n: "./i18n.config.ts",
   },
 });
