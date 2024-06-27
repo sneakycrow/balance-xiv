@@ -1,7 +1,7 @@
 <template>
   <div>
     <RoleBanner />
-    <RoleHeader/>
+    <RoleHeader />
   </div>
 </template>
 

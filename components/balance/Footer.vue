@@ -4,11 +4,9 @@
   >
     <div class="mt-10 px-5 md:px-0 responsive-container">
       <div class="flex md:justify-start">
-        <img class="h-6 md:h-auto" src="/the_balance.png" >
+        <img class="h-6 md:h-auto" src="/the_balance.png" />
       </div>
-      <div
-        class="grid grid-cols-2 mt-10 justify-evenly"
-      >
+      <div class="grid grid-cols-2 mt-10 justify-evenly">
         <div class="flex flex-col sm:w-1/3 text-base">
           <h3 class="uppercase tracking-widest font-bold pb-2">Combat Jobs</h3>
           <ul v-for="item in combatNavItems" :key="item.id">

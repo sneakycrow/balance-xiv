@@ -11,7 +11,7 @@
         href="/"
         class="flex items-center px-10 sm:px-0 py-4"
       >
-        <img src="/the_balance.svg" alt="The Balance" class="w-96 lg:w-full" >
+        <img src="/the_balance.svg" alt="The Balance" class="w-96 lg:w-full" />
       </a>
       <h1
         v-if="route.name !== 'index'"
