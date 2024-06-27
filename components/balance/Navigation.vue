@@ -1,5 +1,5 @@
 <template>
-  <nav class="px-20">
+  <nav>
     <ul class="flex items-center justify-center py-4 gap-20">
       <li v-for="item in navList" :key="item.id">
         <a :href="item.href" class="nav-link">

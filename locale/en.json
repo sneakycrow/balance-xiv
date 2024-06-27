@@ -1,5 +1,15 @@
 {
   "landing": {
     "guides-and-resources": "Guides & Resources"
+  },
+  "tanks-index": {
+    "description": "Tasked with holding the attention of the enemies, Tanks are the role that manages enemy positioning and takes a majority of the damage in a given encounter. Each tank comes equipped with both personal and party mitigation tools, as well as a damage toolkit unique to their specific job."
+  },
+  "roles": {
+    "tanks": "Tanks",
+    "healers": "Healers",
+    "melee": "Melee",
+    "ranged": "Ranged",
+    "casters": "Casters"
   }
 }
