@@ -1,6 +1,6 @@
 import { it, expect } from "vitest";
 import { mountSuspended } from "@nuxt/test-utils/runtime";
-import DiscordHero from "./DiscordHero.vue";
+import DiscordHero from "../components/DiscordHero.vue";
 
 it("renders the DiscordHero component", async () => {
   const component = await mountSuspended(DiscordHero);
@@ -21,10 +21,6 @@ it("renders the DiscordHero component", async () => {
 });
 
 it("renders the DiscordHero component with a custom link", async () => {
-  const component = await mountSuspended(DiscordHero, {
-    props: {
-      link: "https://discord.gg/thebalanceffxiv",
-    },
-  });
+  const component = await mountSuspended(DiscordHero);
   expect(component.html()).toContain("https://discord.gg/thebalanceffxiv");
 });
