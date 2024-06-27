@@ -18,7 +18,7 @@
           >
             {{ $t(`roles.${role}`) }}
           </h1>
-          <p class="text-center md:text-left">{{ description }}</p>
+          <p class="text-center md:text-left">{{ roleItem?.description }}</p>
         </div>
       </div>
       <div
@@ -40,7 +40,7 @@ const { data } = await useAsyncData("data", () =>
   queryContent("/roles").findOne(),
 );
 
-const { description } = data?.value?.roles?.find(
+const roleItem = data?.value?.roles?.find(
   (roleItem: Role) => roleItem.slug === role,
 );
 </script>

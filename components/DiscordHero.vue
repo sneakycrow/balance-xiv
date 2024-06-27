@@ -11,9 +11,9 @@
           <h1 class="text-md sm:text-2xl pb-2 uppercase font-bold mb-0">
             Join the community
           </h1>
-          <img class="w-7/8 sm:w-1/3 pb-2" src="/the_balance.svg" />
+          <img class="w-7/8 sm:w-1/3 pb-2" src="/the_balance.svg" >
           <div class="flex flex-row items-center">
-            <img class="w-auto mr-4" src="/icons/discord_logo_white.svg" />
+            <img class="w-auto mr-4" src="/icons/discord_logo_white.svg" >
             <h2 class="text-md sm:text-2xl font-bold mb-0">
               discord.gg/thebalanceffxiv
             </h2>

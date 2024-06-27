@@ -4,7 +4,7 @@
   >
     <div class="mt-10 px-5 md:px-0 responsive-container">
       <div class="flex md:justify-start">
-        <img class="h-6 md:h-auto" src="/the_balance.png" />
+        <img class="h-6 md:h-auto" src="/the_balance.png" >
       </div>
       <div
         class="grid grid-cols-2 mt-10 justify-evenly"
