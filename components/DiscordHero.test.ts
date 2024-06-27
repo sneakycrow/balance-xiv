@@ -1,4 +1,4 @@
-import { it, expect, describe } from "vitest";
+import { it, expect } from "vitest";
 import { mountSuspended } from "@nuxt/test-utils/runtime";
 import DiscordHero from "./DiscordHero.vue";
 
