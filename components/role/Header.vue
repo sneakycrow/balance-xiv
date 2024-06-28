@@ -35,6 +35,8 @@
 </template>
 
 <script lang="ts" setup>
+import type { Role } from '~/types/Role';
+
 const { role } = useRouter().currentRoute.value.params;
 const { data } = await useAsyncData("data", () =>
   queryContent("/roles").findOne(),
