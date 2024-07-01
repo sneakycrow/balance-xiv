@@ -62,14 +62,14 @@
             <div
               class="h-full col-span-2 lg:col-span-1 p-8 space-y-4 flex flex-col items-center pt-2"
             >
-              <NuxtImg
-                class="mx-auto hidden lg:block my-4 max-w-none w-20"
-                :src="role?.icon_white"
-              />
               <a
-                href="#"
-                class="text-link-orange pb-1 mt-2 hover:text-orange-600 font-sans font-bold tracking-wide transition-colors"
+                :href="`/${role?.slug}`"
+                class="text-link-orange p-1 md:p-5 mt-2font-sans font-bold tracking-wide hover:bg-card-lighter rounded transition-colors"
               >
+                <NuxtImg
+                  class="mx-auto hidden lg:block my-4 max-w-none w-20"
+                  :src="role?.icon_white"
+                />
                 {{ role?.nameSingular }}
                 {{ $t("landing.guides-and-resources") }}
                 <span class="hidden md:inline">»</span>
@@ -97,7 +97,7 @@
                     class="uppercase text-xl font-bold"
                     >{{ job.name }}</label
                   >
-                  <span class="text-link-orange"
+                  <span class="text-link-orange whitespace-nowrap"
                     >{{ $t("landing.guides-and-resources") }}
                     <span class="hidden md:inline">»</span></span
                   >

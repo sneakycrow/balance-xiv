@@ -1,5 +1,12 @@
 {
   "landing": {
     "guides-and-resources": "Guides & Resources"
+  },
+  "roles": {
+    "tanks": "Tanks",
+    "healers": "Healers",
+    "melee": "Melee",
+    "ranged": "Ranged",
+    "casters": "Casters"
   }
 }
